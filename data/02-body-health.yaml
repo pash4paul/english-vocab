@@ -1,0 +1,103 @@
+topic: Тело и здоровье
+words:
+  - en: body
+    ru: тело
+    pos: noun
+  - en: head
+    ru: голова
+    pos: noun
+  - en: hair
+    ru: волосы
+    pos: noun
+  - en: face
+    ru: лицо
+    pos: noun
+  - en: eye
+    ru: глаз
+    pos: noun
+  - en: ear
+    ru: ухо
+    pos: noun
+  - en: nose
+    ru: нос
+    pos: noun
+  - en: mouth
+    ru: рот
+    pos: noun
+  - en: tooth
+    ru: зуб
+    pos: noun
+    irregular: true
+    forms:
+      plural: teeth
+  - en: hand
+    ru: рука (кисть)
+    pos: noun
+  - en: arm
+    ru: рука (от плеча)
+    pos: noun
+  - en: leg
+    ru: нога
+    pos: noun
+  - en: foot
+    ru: ступня
+    pos: noun
+    irregular: true
+    forms:
+      plural: feet
+  - en: health
+    ru: здоровье
+    pos: noun
+    uncountable: true
+  - en: healthy
+    ru: здоровый
+    pos: adj
+  - en: sick
+    ru: больной
+    pos: adj
+  - en: tired
+    ru: усталый
+    pos: adj
+    gradable: false
+  - en: hungry
+    ru: голодный
+    pos: adj
+    example: I am hungry, let's have lunch.
+    exampleRu: Я голоден, давай обедать.
+  - en: thirsty
+    ru: испытывающий жажду
+    pos: adj
+  - en: doctor
+    ru: врач
+    pos: noun
+  - en: nurse
+    ru: медсестра
+    pos: noun
+  - en: hospital
+    ru: больница
+    pos: noun
+    example: My sister works at the hospital.
+    exampleRu: Моя сестра работает в больнице.
+  - en: diet
+    ru: питание, диета
+    pos: noun
+  - en: exercise
+    ru: упражнение
+    pos: noun
+  - en: sleep
+    ru: спать
+    pos: verb
+    example: I sleep eight hours every night.
+    exampleRu: Я сплю восемь часов каждую ночь.
+  - en: wake
+    ru: просыпаться
+    pos: verb
+  - en: shower
+    ru: душ
+    pos: noun
+  - en: bath
+    ru: ванна
+    pos: noun
+  - en: wash
+    ru: мыть
+    pos: verb

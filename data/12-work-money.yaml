@@ -1,0 +1,136 @@
+topic: Работа и деньги
+words:
+  - en: job
+    ru: работа (должность)
+    pos: noun
+    example: She has a new job in a bank.
+    exampleRu: У неё новая работа в банке.
+  - en: worker
+    ru: работник
+    pos: noun
+  - en: career
+    ru: карьера
+    pos: noun
+  - en: business
+    ru: бизнес
+    pos: noun
+  - en: company
+    ru: компания (фирма)
+    pos: noun
+  - en: office
+    ru: офис
+    pos: noun
+  - en: meeting
+    ru: встреча (рабочая)
+    pos: noun
+  - en: member
+    ru: участник
+    pos: noun
+  - en: customer
+    ru: покупатель
+    pos: noun
+  - en: product
+    ru: товар
+    pos: noun
+  - en: project
+    ru: проект
+    pos: noun
+  - en: program
+    ru: программа
+    pos: noun
+  - en: report
+    ru: отчёт
+    pos: noun
+  - en: interview
+    ru: интервью, собеседование
+    pos: noun
+  - en: money
+    ru: деньги
+    pos: noun
+    uncountable: true
+    example: I don't have enough money for a taxi.
+    exampleRu: У меня не хватает денег на такси.
+  - en: dollar
+    ru: доллар
+    pos: noun
+  - en: cent
+    ru: цент
+    pos: noun
+  - en: euro
+    ru: евро
+    pos: noun
+    forms:
+      plural: euros
+  - en: pound
+    ru: фунт
+    pos: noun
+  - en: price
+    ru: цена
+    pos: noun
+  - en: bill
+    ru: счёт (к оплате)
+    pos: noun
+  - en: cost
+    ru: стоить
+    pos: verb
+    irregular: true
+  - en: pay
+    ru: платить
+    pos: verb
+    irregular: true
+  - en: spend
+    ru: тратить
+    pos: verb
+    irregular: true
+  - en: buy
+    ru: покупать
+    pos: verb
+    irregular: true
+    example: I want to buy a new phone.
+    exampleRu: Я хочу купить новый телефон.
+  - en: sell
+    ru: продавать
+    pos: verb
+    irregular: true
+  - en: shop
+    ru: магазин (небольшой)
+    pos: noun
+  - en: store
+    ru: магазин
+    pos: noun
+  - en: supermarket
+    ru: супермаркет
+    pos: noun
+  - en: mall
+    ru: торговый центр
+    pos: noun
+  - en: market
+    ru: рынок
+    pos: noun
+  - en: shopping
+    ru: покупки
+    pos: noun
+    uncountable: true
+  - en: order
+    ru: заказ
+    pos: noun
+  - en: expensive
+    ru: дорогой (по цене)
+    pos: adj
+  - en: cheap
+    ru: дешёвый
+    pos: adj
+  - en: rich
+    ru: богатый
+    pos: adj
+  - en: poor
+    ru: бедный
+    pos: adj
+  - en: success
+    ru: успех
+    pos: noun
+  - en: work
+    ru: труд, работа (занятие)
+    pos: noun
+    uncountable: true
+    note: Тот же корень, что и глагол work — здесь существительное

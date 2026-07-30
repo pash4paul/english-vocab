@@ -1,0 +1,232 @@
+topic: Учёба
+words:
+  - en: school
+    ru: школа
+    pos: noun
+    example: The children go to school by bus.
+    exampleRu: Дети едут в школу на автобусе.
+  - en: classroom
+    ru: класс (помещение)
+    pos: noun
+  - en: class
+    ru: занятие, класс (группа)
+    pos: noun
+  - en: lesson
+    ru: урок
+    pos: noun
+  - en: student
+    ru: студент, ученик
+    pos: noun
+  - en: teacher
+    ru: учитель
+    pos: noun
+  - en: teach
+    ru: преподавать
+    pos: verb
+    irregular: true
+  - en: learn
+    ru: учить (усваивать)
+    pos: verb
+    example: I want to learn English well.
+    exampleRu: Я хочу хорошо выучить английский.
+  - en: study
+    ru: учиться, изучать
+    pos: verb
+  - en: read
+    ru: читать
+    pos: verb
+    irregular: true
+    note: Пишется одинаково во всех формах, но прошедшее читается «ред»
+  - en: write
+    ru: писать
+    pos: verb
+    irregular: true
+  - en: draw
+    ru: рисовать
+    pos: verb
+    irregular: true
+  - en: know
+    ru: знать
+    pos: verb
+    irregular: true
+  - en: understand
+    ru: понимать
+    pos: verb
+    irregular: true
+    example: I don't understand this question.
+    exampleRu: Я не понимаю этот вопрос.
+  - en: remember
+    ru: помнить
+    pos: verb
+  - en: forget
+    ru: забывать
+    pos: verb
+    irregular: true
+  - en: think
+    ru: думать
+    pos: verb
+    irregular: true
+  - en: imagine
+    ru: представлять себе
+    pos: verb
+  - en: believe
+    ru: верить
+    pos: verb
+  - en: compare
+    ru: сравнивать
+    pos: verb
+  - en: check
+    ru: проверять
+    pos: verb
+  - en: correct
+    ru: правильный
+    pos: adj
+    gradable: false
+  - en: 'false'
+    ru: ложный
+    pos: adj
+    gradable: false
+  - en: 'true'
+    ru: верный, истинный
+    pos: adj
+  - en: mistake
+    ru: ошибка
+    pos: noun
+  - en: exam
+    ru: экзамен
+    pos: noun
+  - en: test
+    ru: проверочная работа
+    pos: noun
+  - en: homework
+    ru: домашнее задание
+    pos: noun
+    uncountable: true
+  - en: university
+    ru: университет
+    pos: noun
+  - en: college
+    ru: колледж
+    pos: noun
+  - en: library
+    ru: библиотека
+    pos: noun
+  - en: science
+    ru: наука
+    pos: noun
+  - en: scientist
+    ru: учёный
+    pos: noun
+  - en: history
+    ru: история (наука)
+    pos: noun
+    uncountable: true
+  - en: geography
+    ru: география
+    pos: noun
+    uncountable: true
+  - en: subject
+    ru: предмет (учебный)
+    pos: noun
+  - en: topic
+    ru: тема
+    pos: noun
+  - en: page
+    ru: страница
+    pos: noun
+  - en: paragraph
+    ru: абзац
+    pos: noun
+  - en: section
+    ru: раздел
+    pos: noun
+  - en: title
+    ru: заголовок
+    pos: noun
+  - en: example
+    ru: пример
+    pos: noun
+  - en: practice
+    ru: практика
+    pos: noun
+  - en: skill
+    ru: навык
+    pos: noun
+  - en: reader
+    ru: читатель
+    pos: noun
+  - en: reading
+    ru: чтение
+    pos: noun
+    uncountable: true
+  - en: writing
+    ru: письмо (навык)
+    pos: noun
+    uncountable: true
+  - en: spelling
+    ru: правописание
+    pos: noun
+    uncountable: true
+  - en: result
+    ru: результат
+    pos: noun
+  - en: statement
+    ru: утверждение
+    pos: noun
+  - en: dialogue
+    ru: диалог
+    pos: noun
+  - en: text
+    ru: текст
+    pos: noun
+  - en: chart
+    ru: схема, диаграмма
+    pos: noun
+  - en: list
+    ru: список
+    pos: noun
+  - en: form
+    ru: бланк, форма
+    pos: noun
+  - en: point
+    ru: пункт, мысль
+    pos: noun
+  - en: detail
+    ru: подробность
+    pos: noun
+  - en: description
+    ru: описание
+    pos: noun
+  - en: information
+    ru: информация
+    pos: noun
+    uncountable: true
+    note: 'Неисчисляемое: two pieces of information, а не informations'
+  - en: advice
+    ru: совет
+    pos: noun
+    uncountable: true
+  - en: idea
+    ru: идея
+    pos: noun
+  - en: fact
+    ru: факт
+    pos: noun
+  - en: reason
+    ru: причина
+    pos: noun
+  - en: opinion
+    ru: мнение
+    pos: noun
+  - en: difference
+    ru: различие
+    pos: noun
+  - en: type
+    ru: тип
+    pos: noun
+  - en: kind
+    ru: разновидность
+    pos: noun
+  - en: part
+    ru: часть
+    pos: noun

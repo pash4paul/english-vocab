@@ -1,0 +1,117 @@
+topic: Повседневное
+words:
+  - en: action
+    ru: действие
+    pos: noun
+  - en: activity
+    ru: занятие (вид деятельности)
+    pos: noun
+  - en: routine
+    ru: распорядок
+    pos: noun
+  - en: plan
+    ru: план
+    pos: noun
+  - en: rule
+    ru: правило
+    pos: noun
+  - en: group
+    ru: группа
+    pos: noun
+  - en: line
+    ru: линия, очередь
+    pos: noun
+  - en: story
+    ru: рассказ
+    pos: noun
+  - en: article
+    ru: статья
+    pos: noun
+  - en: design
+    ru: оформление
+    pos: noun
+  - en: style
+    ru: стиль
+    pos: noun
+  - en: course
+    ru: курс (обучения)
+    pos: noun
+  - en: interest
+    ru: интерес
+    pos: noun
+  - en: address
+    ru: адрес
+    pos: noun
+  - en: bag
+    ru: сумка
+    pos: noun
+    example: My bag is under the chair.
+    exampleRu: Моя сумка под стулом.
+  - en: center
+    ru: центр
+    pos: noun
+  - en: capital
+    ru: столица
+    pos: noun
+  - en: meter
+    ru: метр
+    pos: noun
+  - en: mile
+    ru: миля
+    pos: noun
+  - en: beginning
+    ru: начало
+    pos: noun
+  - en: adult
+    ru: взрослый
+    pos: noun
+  - en: teenager
+    ru: подросток
+    pos: noun
+  - en: grandparent
+    ru: дедушка или бабушка
+    pos: noun
+  - en: partner
+    ru: партнёр
+    pos: noun
+  - en: neighbor
+    ru: сосед
+    pos: noun
+  - en: neighborhood
+    ru: район (по соседству)
+    pos: noun
+  - en: waiter
+    ru: официант
+    pos: noun
+  - en: writer
+    ru: писатель
+    pos: noun
+  - en: meet
+    ru: встречать
+    pos: verb
+    irregular: true
+    example: Let's meet at six o'clock.
+    exampleRu: Давай встретимся в шесть часов.
+  - en: fall
+    ru: падать
+    pos: verb
+    irregular: true
+  - en: lie
+    ru: лежать
+    pos: verb
+    irregular: true
+    forms:
+      past: lay
+      participle: lain
+    note: 'Другой глагол lie — «врать» — правильный: lied, lied'
+  - en: ever
+    ru: когда-либо
+    pos: adv
+  - en: next
+    ru: следующий
+    pos: adj
+    gradable: false
+  - en: last
+    ru: последний (по порядку)
+    pos: det
+    gradable: false

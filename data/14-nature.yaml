@@ -1,0 +1,145 @@
+topic: Природа и погода
+words:
+  - en: animal
+    ru: животное
+    pos: noun
+  - en: bird
+    ru: птица
+    pos: noun
+  - en: cat
+    ru: кошка
+    pos: noun
+    example: The cat is sleeping on the bed.
+    exampleRu: Кошка спит на кровати.
+  - en: dog
+    ru: собака
+    pos: noun
+  - en: cow
+    ru: корова
+    pos: noun
+  - en: horse
+    ru: лошадь
+    pos: noun
+  - en: pig
+    ru: свинья
+    pos: noun
+  - en: sheep
+    ru: овца
+    pos: noun
+    irregular: true
+    forms:
+      plural: sheep
+  - en: mouse
+    ru: мышь
+    pos: noun
+    irregular: true
+    forms:
+      plural: mice
+  - en: elephant
+    ru: слон
+    pos: noun
+  - en: lion
+    ru: лев
+    pos: noun
+  - en: snake
+    ru: змея
+    pos: noun
+  - en: tree
+    ru: дерево
+    pos: noun
+  - en: flower
+    ru: цветок
+    pos: noun
+  - en: plant
+    ru: растение
+    pos: noun
+  - en: farm
+    ru: ферма
+    pos: noun
+  - en: farmer
+    ru: фермер
+    pos: noun
+  - en: land
+    ru: земля (участок)
+    pos: noun
+  - en: mountain
+    ru: гора
+    pos: noun
+  - en: river
+    ru: река
+    pos: noun
+  - en: ocean
+    ru: океан
+    pos: noun
+  - en: sun
+    ru: солнце
+    pos: noun
+  - en: air
+    ru: воздух
+    pos: noun
+    uncountable: true
+  - en: space
+    ru: пространство, космос
+    pos: noun
+    uncountable: true
+  - en: world
+    ru: мир (планета)
+    pos: noun
+  - en: weather
+    ru: погода
+    pos: noun
+    uncountable: true
+    example: The weather is warm today.
+    exampleRu: Погода сегодня тёплая.
+  - en: rain
+    ru: дождь
+    pos: noun
+  - en: snow
+    ru: снег
+    pos: noun
+    uncountable: true
+  - en: hot
+    ru: горячий, жаркий
+    pos: adj
+  - en: warm
+    ru: тёплый
+    pos: adj
+  - en: cold
+    ru: холодный
+    pos: adj
+  - en: cool
+    ru: прохладный
+    pos: adj
+  - en: north
+    ru: север
+    pos: noun
+    uncountable: true
+  - en: south
+    ru: юг
+    pos: noun
+    uncountable: true
+  - en: east
+    ru: восток
+    pos: noun
+    uncountable: true
+  - en: west
+    ru: запад
+    pos: noun
+    uncountable: true
+  - en: natural
+    ru: природный
+    pos: adj
+    gradable: false
+  - en: nature
+    ru: природа
+    pos: noun
+    uncountable: true
+    level: A2
+  - en: life
+    ru: жизнь
+    pos: noun
+    forms:
+      plural: lives
+  - en: pool
+    ru: бассейн
+    pos: noun

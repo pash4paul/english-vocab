@@ -1,0 +1,236 @@
+topic: Чувства и оценки
+words:
+  - en: happy
+    ru: счастливый
+    pos: adj
+    example: She looks very happy today.
+    exampleRu: Она выглядит очень счастливой сегодня.
+  - en: sad
+    ru: грустный
+    pos: adj
+  - en: angry
+    ru: злой
+    pos: adj
+  - en: afraid
+    ru: боящийся
+    pos: adj
+    gradable: false
+    note: Обычно в связке be afraid of — «бояться чего-то»
+  - en: excited
+    ru: возбуждённый, в предвкушении
+    pos: adj
+    gradable: false
+  - en: exciting
+    ru: захватывающий
+    pos: adj
+  - en: bored
+    ru: скучающий
+    pos: adj
+    gradable: false
+  - en: boring
+    ru: скучный
+    pos: adj
+  - en: interested
+    ru: заинтересованный
+    pos: adj
+    gradable: false
+  - en: interesting
+    ru: интересный
+    pos: adj
+  - en: surprised
+    ru: удивлённый
+    pos: adj
+    gradable: false
+    level: A2
+  - en: feel
+    ru: чувствовать
+    pos: verb
+    irregular: true
+  - en: feeling
+    ru: чувство
+    pos: noun
+  - en: love
+    ru: любовь
+    pos: noun
+    uncountable: true
+  - en: good
+    ru: хороший
+    pos: adj
+    irregular: true
+    forms:
+      comparative: better
+      superlative: best
+    example: This is a good idea.
+    exampleRu: Это хорошая идея.
+  - en: bad
+    ru: плохой
+    pos: adj
+    irregular: true
+    forms:
+      comparative: worse
+      superlative: worst
+  - en: great
+    ru: замечательный
+    pos: adj
+  - en: best
+    ru: лучший
+    pos: adj
+    gradable: false
+    note: Превосходная степень от good
+  - en: better
+    ru: лучше
+    pos: adj
+    gradable: false
+    note: Сравнительная степень от good
+  - en: terrible
+    ru: ужасный
+    pos: adj
+    gradable: false
+  - en: wonderful
+    ru: прекрасный
+    pos: adj
+    gradable: false
+  - en: fantastic
+    ru: потрясающий
+    pos: adj
+    gradable: false
+  - en: amazing
+    ru: изумительный
+    pos: adj
+    gradable: false
+  - en: awesome
+    ru: классный
+    pos: adj
+    gradable: false
+  - en: perfect
+    ru: идеальный
+    pos: adj
+    gradable: false
+  - en: funny
+    ru: смешной
+    pos: adj
+  - en: friendly
+    ru: дружелюбный
+    pos: adj
+  - en: quiet
+    ru: тихий
+    pos: adj
+  - en: busy
+    ru: занятой
+    pos: adj
+  - en: important
+    ru: важный
+    pos: adj
+  - en: difficult
+    ru: трудный
+    pos: adj
+  - en: easy
+    ru: легкий
+    pos: adj
+  - en: hard
+    ru: тяжёлый, твёрдый
+    pos: adj
+  - en: dangerous
+    ru: опасный
+    pos: adj
+  - en: famous
+    ru: знаменитый
+    pos: adj
+  - en: popular
+    ru: популярный
+    pos: adj
+  - en: favorite
+    ru: любимый
+    pos: adj
+    gradable: false
+    example: Blue is my favorite color.
+    exampleRu: Синий — мой любимый цвет.
+  - en: sure
+    ru: уверенный
+    pos: adj
+    gradable: false
+  - en: ready
+    ru: готовый
+    pos: adj
+    gradable: false
+  - en: fine
+    ru: нормальный
+    pos: adj
+  - en: possible
+    ru: возможный
+    pos: adj
+    gradable: false
+  - en: real
+    ru: настоящий
+    pos: adj
+    gradable: false
+  - en: modern
+    ru: современный
+    pos: adj
+    gradable: false
+  - en: personal
+    ru: личный
+    pos: adj
+    gradable: false
+  - en: positive
+    ru: положительный
+    pos: adj
+  - en: negative
+    ru: отрицательный
+    pos: adj
+  - en: special
+    ru: особый
+    pos: adj
+    gradable: false
+  - en: common
+    ru: распространённый
+    pos: adj
+  - en: main
+    ru: главный
+    pos: adj
+    gradable: false
+  - en: only
+    ru: единственный
+    pos: adj
+    gradable: false
+  - en: extra
+    ru: дополнительный
+    pos: adj
+    gradable: false
+  - en: final
+    ru: последний, итоговый
+    pos: adj
+    gradable: false
+  - en: complete
+    ru: полный, завершённый
+    pos: adj
+    gradable: false
+  - en: married
+    ru: женатый, замужняя
+    pos: adj
+    gradable: false
+  - en: wrong
+    ru: неправильный
+    pos: adj
+    gradable: false
+  - en: quick
+    ru: быстрый (о действии)
+    pos: adj
+  - en: fast
+    ru: быстрый (о скорости)
+    pos: adj
+  - en: slow
+    ru: медленный
+    pos: adj
+  - en: smart
+    ru: умный
+    pos: adj
+  - en: useful
+    ru: полезный
+    pos: adj
+  - en: problem
+    ru: проблема
+    pos: noun
+  - en: situation
+    ru: ситуация
+    pos: noun

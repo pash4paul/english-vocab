@@ -1,0 +1,208 @@
+topic: Досуг и увлечения
+words:
+  - en: game
+    ru: игра
+    pos: noun
+  - en: sport
+    ru: спорт
+    pos: noun
+  - en: football
+    ru: американский футбол
+    pos: noun
+    uncountable: true
+  - en: baseball
+    ru: бейсбол
+    pos: noun
+    uncountable: true
+  - en: basketball
+    ru: баскетбол
+    pos: noun
+    uncountable: true
+  - en: tennis
+    ru: теннис
+    pos: noun
+    uncountable: true
+  - en: swimming
+    ru: плавание
+    pos: noun
+    uncountable: true
+  - en: gym
+    ru: спортзал
+    pos: noun
+  - en: team
+    ru: команда
+    pos: noun
+  - en: player
+    ru: игрок
+    pos: noun
+  - en: match
+    ru: матч
+    pos: noun
+  - en: ball
+    ru: мяч
+    pos: noun
+  - en: music
+    ru: музыка
+    pos: noun
+    uncountable: true
+    example: I listen to music on the bus.
+    exampleRu: Я слушаю музыку в автобусе.
+  - en: song
+    ru: песня
+    pos: noun
+  - en: sing
+    ru: петь
+    pos: verb
+    irregular: true
+  - en: singer
+    ru: певец
+    pos: noun
+  - en: band
+    ru: музыкальная группа
+    pos: noun
+  - en: concert
+    ru: концерт
+    pos: noun
+  - en: guitar
+    ru: гитара
+    pos: noun
+  - en: piano
+    ru: пианино
+    pos: noun
+    forms:
+      plural: pianos
+  - en: dance
+    ru: танцевать
+    pos: verb
+  - en: dancer
+    ru: танцор
+    pos: noun
+  - en: dancing
+    ru: танцы
+    pos: noun
+    uncountable: true
+  - en: movie
+    ru: фильм
+    pos: noun
+  - en: theater
+    ru: театр
+    pos: noun
+  - en: museum
+    ru: музей
+    pos: noun
+  - en: party
+    ru: вечеринка
+    pos: noun
+  - en: festival
+    ru: фестиваль
+    pos: noun
+  - en: club
+    ru: клуб
+    pos: noun
+  - en: hobby
+    ru: увлечение
+    pos: noun
+  - en: fun
+    ru: веселье
+    pos: noun
+    uncountable: true
+  - en: art
+    ru: искусство
+    pos: noun
+    uncountable: true
+  - en: artist
+    ru: художник
+    pos: noun
+  - en: painting
+    ru: картина
+    pos: noun
+  - en: paint
+    ru: красить, рисовать красками
+    pos: verb
+  - en: actor
+    ru: актёр
+    pos: noun
+  - en: actress
+    ru: актриса
+    pos: noun
+  - en: model
+    ru: модель
+    pos: noun
+  - en: star
+    ru: звезда
+    pos: noun
+  - en: culture
+    ru: культура
+    pos: noun
+  - en: event
+    ru: событие
+    pos: noun
+  - en: TV
+    ru: телевидение
+    pos: noun
+  - en: video
+    ru: видео
+    pos: noun
+    forms:
+      plural: videos
+  - en: DVD
+    ru: DVD-диск
+    pos: noun
+  - en: CD
+    ru: компакт-диск
+    pos: noun
+  - en: internet
+    ru: интернет
+    pos: noun
+    uncountable: true
+  - en: online
+    ru: в сети
+    pos: adj
+    gradable: false
+  - en: website
+    ru: сайт
+    pos: noun
+  - en: blog
+    ru: блог
+    pos: noun
+  - en: news
+    ru: новости
+    pos: noun
+    uncountable: true
+    note: 'Формально единственное число: the news is good'
+  - en: show
+    ru: показывать
+    pos: verb
+    irregular: true
+  - en: watch
+    ru: смотреть
+    pos: verb
+    example: We watch a movie every Friday.
+    exampleRu: Мы смотрим фильм каждую пятницу.
+  - en: see
+    ru: видеть
+    pos: verb
+    irregular: true
+  - en: look
+    ru: смотреть, выглядеть
+    pos: verb
+  - en: laugh
+    ru: смеяться
+    pos: verb
+  - en: love
+    ru: любить
+    pos: verb
+  - en: like
+    ru: нравиться
+    pos: verb
+    example: I like this song very much.
+    exampleRu: Мне очень нравится эта песня.
+  - en: hate
+    ru: ненавидеть
+    pos: verb
+  - en: hope
+    ru: надеяться
+    pos: verb
+  - en: join
+    ru: присоединяться
+    pos: verb

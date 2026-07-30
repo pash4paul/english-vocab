@@ -1,0 +1,109 @@
+topic: Цвет и внешность
+words:
+  - en: color
+    ru: цвет
+    pos: noun
+    example: What color is your car?
+    exampleRu: Какого цвета твоя машина?
+  - en: black
+    ru: чёрный
+    pos: adj
+    gradable: false
+  - en: white
+    ru: белый
+    pos: adj
+  - en: red
+    ru: красный
+    pos: adj
+  - en: blue
+    ru: синий
+    pos: adj
+  - en: green
+    ru: зелёный
+    pos: adj
+  - en: yellow
+    ru: жёлтый
+    pos: adj
+  - en: brown
+    ru: коричневый
+    pos: adj
+  - en: gray
+    ru: серый
+    pos: adj
+  - en: pink
+    ru: розовый
+    pos: adj
+  - en: purple
+    ru: фиолетовый
+    pos: adj
+    gradable: false
+  - en: blond
+    ru: светловолосый
+    pos: adj
+    gradable: false
+  - en: big
+    ru: большой
+    pos: adj
+    example: They live in a big house.
+    exampleRu: Они живут в большом доме.
+  - en: small
+    ru: маленький
+    pos: adj
+  - en: large
+    ru: крупный
+    pos: adj
+  - en: long
+    ru: длинный
+    pos: adj
+  - en: short
+    ru: короткий
+    pos: adj
+  - en: tall
+    ru: высокий (о человеке)
+    pos: adj
+  - en: high
+    ru: высокий (о предмете)
+    pos: adj
+  - en: fat
+    ru: толстый
+    pos: adj
+  - en: beautiful
+    ru: красивый
+    pos: adj
+  - en: pretty
+    ru: миловидный
+    pos: adj
+  - en: nice
+    ru: приятный
+    pos: adj
+  - en: new
+    ru: новый
+    pos: adj
+  - en: old
+    ru: старый
+    pos: adj
+  - en: young
+    ru: молодой
+    pos: adj
+  - en: dark
+    ru: тёмный
+    pos: adj
+  - en: strong
+    ru: сильный
+    pos: adj
+  - en: full
+    ru: полный
+    pos: adj
+  - en: free
+    ru: свободный, бесплатный
+    pos: adj
+  - en: same
+    ru: тот же самый
+    pos: adj
+    gradable: false
+  - en: different
+    ru: другой, отличающийся
+    pos: adj
+  - en: similar
+    ru: похожий
+    pos: adj

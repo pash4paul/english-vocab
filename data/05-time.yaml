@@ -1,0 +1,206 @@
+topic: Время
+words:
+  - en: time
+    ru: время
+    pos: noun
+    example: What time does the movie start?
+    exampleRu: Во сколько начинается фильм?
+  - en: second
+    ru: секунда
+    pos: noun
+  - en: minute
+    ru: минута
+    pos: noun
+  - en: hour
+    ru: час (60 минут)
+    pos: noun
+  - en: day
+    ru: день
+    pos: noun
+  - en: week
+    ru: неделя
+    pos: noun
+  - en: weekend
+    ru: выходные
+    pos: noun
+  - en: month
+    ru: месяц
+    pos: noun
+  - en: year
+    ru: год
+    pos: noun
+  - en: morning
+    ru: утро
+    pos: noun
+    example: I drink coffee every morning.
+    exampleRu: Я пью кофе каждое утро.
+  - en: afternoon
+    ru: время после полудня
+    pos: noun
+  - en: evening
+    ru: вечер
+    pos: noun
+  - en: night
+    ru: ночь
+    pos: noun
+  - en: midnight
+    ru: полночь
+    pos: noun
+    uncountable: true
+  - en: today
+    ru: сегодня
+    pos: adv
+  - en: tomorrow
+    ru: завтра
+    pos: adv
+  - en: yesterday
+    ru: вчера
+    pos: adv
+    example: We met her yesterday.
+    exampleRu: Мы встретили её вчера.
+  - en: tonight
+    ru: сегодня вечером
+    pos: adv
+  - en: now
+    ru: сейчас
+    pos: adv
+  - en: then
+    ru: тогда, потом
+    pos: adv
+  - en: later
+    ru: позже
+    pos: adv
+  - en: soon
+    ru: скоро
+    pos: adv
+  - en: ago
+    ru: назад (о времени)
+    pos: adv
+    example: She called me two hours ago.
+    exampleRu: Она звонила мне два часа назад.
+  - en: early
+    ru: рано
+    pos: adj
+  - en: late
+    ru: поздно
+    pos: adj
+  - en: always
+    ru: всегда
+    pos: adv
+  - en: never
+    ru: никогда
+    pos: adv
+  - en: often
+    ru: часто
+    pos: adv
+  - en: sometimes
+    ru: иногда
+    pos: adv
+  - en: usually
+    ru: обычно
+    pos: adv
+  - en: once
+    ru: один раз
+    pos: adv
+  - en: twice
+    ru: два раза
+    pos: adv
+  - en: still
+    ru: всё ещё
+    pos: adv
+  - en: date
+    ru: дата
+    pos: noun
+  - en: quarter
+    ru: четверть
+    pos: noun
+  - en: o'clock
+    ru: часов (ровно)
+    pos: adv
+  - en: moment
+    ru: момент
+    pos: noun
+  - en: period
+    ru: период
+    pos: noun
+  - en: future
+    ru: будущее
+    pos: noun
+    uncountable: true
+  - en: past
+    ru: прошлое
+    pos: noun
+    uncountable: true
+  - en: present
+    ru: настоящее время
+    pos: noun
+    uncountable: true
+  - en: spring
+    ru: весна
+    pos: noun
+  - en: summer
+    ru: лето
+    pos: noun
+  - en: winter
+    ru: зима
+    pos: noun
+  - en: Monday
+    ru: понедельник
+    pos: noun
+  - en: Tuesday
+    ru: вторник
+    pos: noun
+  - en: Wednesday
+    ru: среда
+    pos: noun
+  - en: Thursday
+    ru: четверг
+    pos: noun
+  - en: Friday
+    ru: пятница
+    pos: noun
+  - en: Saturday
+    ru: суббота
+    pos: noun
+  - en: Sunday
+    ru: воскресенье
+    pos: noun
+  - en: January
+    ru: январь
+    pos: noun
+  - en: February
+    ru: февраль
+    pos: noun
+  - en: March
+    ru: март
+    pos: noun
+  - en: April
+    ru: апрель
+    pos: noun
+  - en: May
+    ru: май
+    pos: noun
+  - en: June
+    ru: июнь
+    pos: noun
+  - en: July
+    ru: июль
+    pos: noun
+  - en: August
+    ru: август
+    pos: noun
+  - en: September
+    ru: сентябрь
+    pos: noun
+  - en: October
+    ru: октябрь
+    pos: noun
+  - en: November
+    ru: ноябрь
+    pos: noun
+  - en: December
+    ru: декабрь
+    pos: noun
+  - en: birthday
+    ru: день рождения
+    pos: noun

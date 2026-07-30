@@ -1,0 +1,116 @@
+topic: Люди и семья
+words:
+  - en: man
+    ru: мужчина
+    pos: noun
+    irregular: true
+    forms:
+      plural: men
+    example: The man in the blue shirt is my father.
+    exampleRu: Мужчина в синей рубашке — мой отец.
+  - en: woman
+    ru: женщина
+    pos: noun
+    irregular: true
+    forms:
+      plural: women
+  - en: child
+    ru: ребёнок
+    pos: noun
+    irregular: true
+    forms:
+      plural: children
+    example: Every child in the class has a book.
+    exampleRu: У каждого ребёнка в классе есть книга.
+  - en: person
+    ru: человек
+    pos: noun
+    irregular: true
+    forms:
+      plural: people
+  - en: people
+    ru: люди
+    pos: noun
+    uncountable: true
+    note: Множественное от person; своего множественного не имеет.
+  - en: baby
+    ru: младенец
+    pos: noun
+  - en: boy
+    ru: мальчик
+    pos: noun
+  - en: girl
+    ru: девочка
+    pos: noun
+  - en: family
+    ru: семья
+    pos: noun
+    example: My family lives in a small town.
+    exampleRu: Моя семья живёт в маленьком городе.
+  - en: father
+    ru: отец
+    pos: noun
+  - en: mother
+    ru: мать
+    pos: noun
+  - en: dad
+    ru: папа
+    pos: noun
+  - en: mom
+    ru: мама
+    pos: noun
+  - en: parent
+    ru: родитель
+    pos: noun
+  - en: son
+    ru: сын
+    pos: noun
+  - en: daughter
+    ru: дочь
+    pos: noun
+  - en: brother
+    ru: брат
+    pos: noun
+  - en: sister
+    ru: сестра
+    pos: noun
+  - en: husband
+    ru: муж
+    pos: noun
+  - en: wife
+    ru: жена
+    pos: noun
+    forms:
+      plural: wives
+  - en: aunt
+    ru: тётя
+    pos: noun
+  - en: uncle
+    ru: дядя
+    pos: noun
+  - en: cousin
+    ru: двоюродный брат или сестра
+    pos: noun
+  - en: grandmother
+    ru: бабушка
+    pos: noun
+  - en: grandfather
+    ru: дедушка
+    pos: noun
+  - en: friend
+    ru: друг
+    pos: noun
+    example: My best friend lives next door.
+    exampleRu: Мой лучший друг живёт по соседству.
+  - en: boyfriend
+    ru: парень (в отношениях)
+    pos: noun
+  - en: girlfriend
+    ru: девушка (в отношениях)
+    pos: noun
+  - en: name
+    ru: имя
+    pos: noun
+  - en: age
+    ru: возраст
+    pos: noun

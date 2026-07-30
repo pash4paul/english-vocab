@@ -1,0 +1,47 @@
+topic: Одежда
+words:
+  - en: clothes
+    ru: одежда
+    pos: noun
+    uncountable: true
+    note: 'Всегда множественное: these clothes are new'
+  - en: shirt
+    ru: рубашка
+    pos: noun
+  - en: T-shirt
+    ru: футболка
+    pos: noun
+  - en: sweater
+    ru: свитер
+    pos: noun
+  - en: jacket
+    ru: куртка
+    pos: noun
+  - en: coat
+    ru: пальто
+    pos: noun
+  - en: dress
+    ru: платье
+    pos: noun
+  - en: skirt
+    ru: юбка
+    pos: noun
+  - en: pants
+    ru: брюки
+    pos: noun
+    uncountable: true
+  - en: jeans
+    ru: джинсы
+    pos: noun
+    uncountable: true
+  - en: shoe
+    ru: ботинок, туфля
+    pos: noun
+    example: I need a new pair of shoes.
+    exampleRu: Мне нужна новая пара обуви.
+  - en: boot
+    ru: сапог
+    pos: noun
+  - en: hat
+    ru: шляпа
+    pos: noun

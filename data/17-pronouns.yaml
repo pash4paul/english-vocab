@@ -1,0 +1,126 @@
+topic: Местоимения
+words:
+  - en: I
+    ru: я
+    pos: pron
+  - en: you
+    ru: ты, вы
+    pos: pron
+  - en: he
+    ru: он
+    pos: pron
+  - en: she
+    ru: она
+    pos: pron
+  - en: it
+    ru: оно (о предмете)
+    pos: pron
+  - en: we
+    ru: мы
+    pos: pron
+  - en: they
+    ru: они
+    pos: pron
+  - en: me
+    ru: меня, мне
+    pos: pron
+    example: Can you help me, please?
+    exampleRu: Ты можешь мне помочь?
+  - en: him
+    ru: его, ему
+    pos: pron
+  - en: her
+    ru: её, ей
+    pos: pron
+  - en: us
+    ru: нас, нам
+    pos: pron
+  - en: them
+    ru: их, им
+    pos: pron
+  - en: my
+    ru: мой
+    pos: det
+  - en: your
+    ru: твой, ваш
+    pos: det
+  - en: his
+    ru: его (чей)
+    pos: det
+  - en: its
+    ru: его, её (о предмете)
+    pos: det
+  - en: our
+    ru: наш
+    pos: det
+  - en: their
+    ru: их (чей)
+    pos: det
+  - en: yourself
+    ru: сам, себя
+    pos: pron
+  - en: own
+    ru: собственный
+    pos: adj
+    gradable: false
+  - en: this
+    ru: этот
+    pos: det
+  - en: that
+    ru: тот
+    pos: det
+  - en: other
+    ru: другой (из остальных)
+    pos: adj
+    gradable: false
+  - en: one
+    ru: один (вместо существительного)
+    pos: pron
+    level: A1
+    note: Заменяет существительное — the red one
+  - en: everybody
+    ru: все (люди)
+    pos: pron
+  - en: everyone
+    ru: каждый (из всех)
+    pos: pron
+  - en: everything
+    ru: всё
+    pos: pron
+  - en: somebody
+    ru: кто-то
+    pos: pron
+  - en: someone
+    ru: некто
+    pos: pron
+  - en: something
+    ru: что-то
+    pos: pron
+  - en: anyone
+    ru: кто-либо
+    pos: pron
+  - en: anything
+    ru: что-либо
+    pos: pron
+  - en: nobody
+    ru: никто (никого нет)
+    pos: pron
+  - en: no one
+    ru: ни один человек
+    pos: pron
+  - en: nothing
+    ru: ничего
+    pos: pron
+  - en: who
+    ru: кто
+    pos: pron
+  - en: what
+    ru: что
+    pos: pron
+  - en: which
+    ru: который
+    pos: pron
+  - en: whose
+    ru: чей
+    pos: pron
+    level: A2

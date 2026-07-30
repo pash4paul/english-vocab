@@ -1,0 +1,184 @@
+topic: Еда и напитки
+words:
+  - en: food
+    ru: еда
+    pos: noun
+    uncountable: true
+  - en: bread
+    ru: хлеб
+    pos: noun
+    uncountable: true
+  - en: butter
+    ru: масло (сливочное)
+    pos: noun
+    uncountable: true
+  - en: cheese
+    ru: сыр
+    pos: noun
+    uncountable: true
+  - en: egg
+    ru: яйцо
+    pos: noun
+  - en: meat
+    ru: мясо
+    pos: noun
+    uncountable: true
+  - en: chicken
+    ru: курица
+    pos: noun
+  - en: fish
+    ru: рыба
+    pos: noun
+    irregular: true
+    forms:
+      plural: fish
+    note: 'Множественное совпадает с единственным: two fish.'
+  - en: rice
+    ru: рис
+    pos: noun
+    uncountable: true
+  - en: soup
+    ru: суп
+    pos: noun
+  - en: salad
+    ru: салат
+    pos: noun
+  - en: sandwich
+    ru: сэндвич
+    pos: noun
+  - en: cake
+    ru: торт
+    pos: noun
+  - en: chocolate
+    ru: шоколад
+    pos: noun
+  - en: ice cream
+    ru: мороженое
+    pos: noun
+  - en: sugar
+    ru: сахар
+    pos: noun
+    uncountable: true
+  - en: salt
+    ru: соль
+    pos: noun
+    uncountable: true
+  - en: pepper
+    ru: перец
+    pos: noun
+    uncountable: true
+  - en: cream
+    ru: сливки
+    pos: noun
+    uncountable: true
+  - en: fruit
+    ru: фрукты
+    pos: noun
+    uncountable: true
+  - en: apple
+    ru: яблоко
+    pos: noun
+  - en: banana
+    ru: банан
+    pos: noun
+  - en: orange
+    ru: апельсин
+    pos: noun
+  - en: vegetable
+    ru: овощ
+    pos: noun
+  - en: potato
+    ru: картофель
+    pos: noun
+    forms:
+      plural: potatoes
+  - en: tomato
+    ru: помидор
+    pos: noun
+    forms:
+      plural: tomatoes
+  - en: carrot
+    ru: морковь
+    pos: noun
+  - en: onion
+    ru: лук
+    pos: noun
+  - en: water
+    ru: вода
+    pos: noun
+    uncountable: true
+    example: Can I have a glass of water?
+    exampleRu: Можно мне стакан воды?
+  - en: milk
+    ru: молоко
+    pos: noun
+    uncountable: true
+  - en: juice
+    ru: сок
+    pos: noun
+  - en: tea
+    ru: чай
+    pos: noun
+  - en: coffee
+    ru: кофе
+    pos: noun
+  - en: beer
+    ru: пиво
+    pos: noun
+  - en: wine
+    ru: вино
+    pos: noun
+  - en: ice
+    ru: лёд
+    pos: noun
+    uncountable: true
+  - en: meal
+    ru: приём пищи
+    pos: noun
+  - en: breakfast
+    ru: завтрак
+    pos: noun
+    example: I have breakfast at seven o'clock.
+    exampleRu: Я завтракаю в семь часов.
+  - en: lunch
+    ru: обед
+    pos: noun
+  - en: dinner
+    ru: ужин
+    pos: noun
+  - en: menu
+    ru: меню
+    pos: noun
+  - en: restaurant
+    ru: ресторан
+    pos: noun
+  - en: cafe
+    ru: кафе
+    pos: noun
+    forms:
+      plural: cafes
+  - en: bar
+    ru: бар
+    pos: noun
+  - en: eat
+    ru: есть, кушать
+    pos: verb
+    example: We usually eat at home.
+    exampleRu: Мы обычно едим дома.
+  - en: drink
+    ru: пить
+    pos: verb
+  - en: cook
+    ru: готовить (еду)
+    pos: verb
+  - en: cooking
+    ru: приготовление еды
+    pos: noun
+    uncountable: true
+  - en: delicious
+    ru: очень вкусный
+    pos: adj
+    gradable: false
+  - en: dear
+    ru: дорогой (в обращении)
+    pos: adj

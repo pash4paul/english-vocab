@@ -1,0 +1,164 @@
+topic: Числа и количество
+words:
+  - en: one
+    ru: один
+    pos: num
+  - en: two
+    ru: два
+    pos: num
+  - en: three
+    ru: три
+    pos: num
+  - en: four
+    ru: четыре
+    pos: num
+  - en: five
+    ru: пять
+    pos: num
+  - en: six
+    ru: шесть
+    pos: num
+  - en: seven
+    ru: семь
+    pos: num
+  - en: eight
+    ru: восемь
+    pos: num
+  - en: nine
+    ru: девять
+    pos: num
+  - en: ten
+    ru: десять
+    pos: num
+  - en: eleven
+    ru: одиннадцать
+    pos: num
+  - en: twelve
+    ru: двенадцать
+    pos: num
+  - en: thirteen
+    ru: тринадцать
+    pos: num
+  - en: fourteen
+    ru: четырнадцать
+    pos: num
+  - en: fifteen
+    ru: пятнадцать
+    pos: num
+  - en: sixteen
+    ru: шестнадцать
+    pos: num
+  - en: seventeen
+    ru: семнадцать
+    pos: num
+  - en: eighteen
+    ru: восемнадцать
+    pos: num
+  - en: nineteen
+    ru: девятнадцать
+    pos: num
+  - en: twenty
+    ru: двадцать
+    pos: num
+  - en: thirty
+    ru: тридцать
+    pos: num
+  - en: forty
+    ru: сорок
+    pos: num
+  - en: fifty
+    ru: пятьдесят
+    pos: num
+  - en: sixty
+    ru: шестьдесят
+    pos: num
+  - en: seventy
+    ru: семьдесят
+    pos: num
+  - en: eighty
+    ru: восемьдесят
+    pos: num
+  - en: ninety
+    ru: девяносто
+    pos: num
+  - en: hundred
+    ru: сто
+    pos: num
+  - en: thousand
+    ru: тысяча
+    pos: num
+  - en: million
+    ru: миллион
+    pos: num
+  - en: first
+    ru: первый
+    pos: num
+  - en: second
+    ru: второй
+    pos: num
+    note: Это же слово значит «секунда» — здесь порядковый номер
+  - en: third
+    ru: третий
+    pos: num
+  - en: fourth
+    ru: четвёртый
+    pos: num
+  - en: fifth
+    ru: пятый
+    pos: num
+  - en: half
+    ru: половина
+    pos: noun
+    forms:
+      plural: halves
+  - en: number
+    ru: число, номер
+    pos: noun
+  - en: many
+    ru: много (со счётными)
+    pos: det
+    example: How many people are there in your family?
+    exampleRu: Сколько человек в твоей семье?
+  - en: much
+    ru: много (с несчётными)
+    pos: det
+  - en: more
+    ru: больше
+    pos: det
+  - en: most
+    ru: больше всего
+    pos: det
+  - en: few
+    ru: мало, несколько
+    pos: det
+  - en: little
+    ru: мало (с несчётными)
+    pos: det
+  - en: enough
+    ru: достаточно
+    pos: det
+  - en: lot
+    ru: множество
+    pos: pron
+    note: Обычно в связке a lot of — «много»
+  - en: all
+    ru: все, всё
+    pos: det
+  - en: both
+    ru: оба
+    pos: det
+  - en: each
+    ru: каждый (из двух и более)
+    pos: det
+  - en: every
+    ru: каждый (без исключения)
+    pos: det
+  - en: some
+    ru: несколько, немного
+    pos: det
+  - en: any
+    ru: любой, какой-нибудь
+    pos: det
+  - en: another
+    ru: другой, ещё один
+    pos: det

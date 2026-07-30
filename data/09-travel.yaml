@@ -1,0 +1,181 @@
+topic: Дорога и путешествия
+words:
+  - en: travel
+    ru: путешествовать
+    pos: verb
+    example: They travel to Spain every summer.
+    exampleRu: Они ездят в Испанию каждое лето.
+  - en: trip
+    ru: поездка
+    pos: noun
+  - en: vacation
+    ru: отпуск, каникулы
+    pos: noun
+  - en: tourist
+    ru: турист
+    pos: noun
+  - en: visitor
+    ru: посетитель
+    pos: noun
+  - en: visit
+    ru: посещать
+    pos: verb
+  - en: arrive
+    ru: прибывать
+    pos: verb
+    example: The train arrives at six.
+    exampleRu: Поезд прибывает в шесть.
+  - en: leave
+    ru: уезжать, покидать
+    pos: verb
+    irregular: true
+  - en: return
+    ru: возвращаться
+    pos: verb
+  - en: walk
+    ru: ходить пешком
+    pos: verb
+  - en: run
+    ru: бегать
+    pos: verb
+    irregular: true
+  - en: swim
+    ru: плавать
+    pos: verb
+    irregular: true
+  - en: climb
+    ru: взбираться
+    pos: verb
+  - en: fly
+    ru: летать
+    pos: verb
+    irregular: true
+  - en: drive
+    ru: водить машину
+    pos: verb
+    irregular: true
+  - en: ride
+    ru: ехать (на велосипеде, лошади)
+    pos: verb
+    irregular: true
+  - en: car
+    ru: автомобиль
+    pos: noun
+  - en: bus
+    ru: автобус
+    pos: noun
+    example: I take the bus to work.
+    exampleRu: Я езжу на работу автобусом.
+  - en: train
+    ru: поезд
+    pos: noun
+  - en: plane
+    ru: самолёт
+    pos: noun
+  - en: flight
+    ru: авиарейс
+    pos: noun
+  - en: boat
+    ru: лодка
+    pos: noun
+  - en: bike
+    ru: велосипед (разговорно)
+    pos: noun
+  - en: bicycle
+    ru: велосипед
+    pos: noun
+  - en: taxi
+    ru: такси
+    pos: noun
+  - en: truck
+    ru: грузовик
+    pos: noun
+  - en: station
+    ru: станция
+    pos: noun
+  - en: airport
+    ru: аэропорт
+    pos: noun
+  - en: ticket
+    ru: билет
+    pos: noun
+  - en: passport
+    ru: паспорт
+    pos: noun
+  - en: map
+    ru: карта (местности)
+    pos: noun
+  - en: road
+    ru: дорога
+    pos: noun
+  - en: street
+    ru: улица
+    pos: noun
+  - en: way
+    ru: путь, способ
+    pos: noun
+  - en: traffic
+    ru: дорожное движение
+    pos: noun
+    uncountable: true
+  - en: driver
+    ru: водитель
+    pos: noun
+  - en: park
+    ru: парк
+    pos: noun
+  - en: hotel
+    ru: гостиница
+    pos: noun
+  - en: island
+    ru: остров
+    pos: noun
+  - en: beach
+    ru: пляж
+    pos: noun
+  - en: town
+    ru: городок
+    pos: noun
+  - en: city
+    ru: город
+    pos: noun
+  - en: country
+    ru: страна
+    pos: noun
+  - en: place
+    ru: место
+    pos: noun
+  - en: area
+    ru: район, площадь
+    pos: noun
+  - en: local
+    ru: местный
+    pos: adj
+    gradable: false
+  - en: far
+    ru: далеко
+    pos: adv
+    irregular: true
+    note: Степени сравнения — farther/further, farthest/furthest
+  - en: near
+    ru: близко
+    pos: prep
+  - en: building
+    ru: здание
+    pos: noun
+  - en: bank
+    ru: банк
+    pos: noun
+  - en: post
+    ru: отправлять по почте
+    pos: verb
+  - en: police
+    ru: полиция
+    pos: noun
+    uncountable: true
+  - en: policeman
+    ru: полицейский
+    pos: noun
+    irregular: true
+    forms:
+      plural: policemen

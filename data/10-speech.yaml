@@ -1,0 +1,152 @@
+topic: Речь и общение
+words:
+  - en: say
+    ru: сказать
+    pos: verb
+    irregular: true
+    example: She said nothing about it.
+    exampleRu: Она ничего об этом не сказала.
+  - en: tell
+    ru: рассказывать
+    pos: verb
+    irregular: true
+  - en: speak
+    ru: говорить (на языке)
+    pos: verb
+    irregular: true
+    example: Do you speak English?
+    exampleRu: Ты говоришь по-английски?
+  - en: talk
+    ru: разговаривать
+    pos: verb
+  - en: ask
+    ru: спрашивать
+    pos: verb
+  - en: answer
+    ru: отвечать
+    pos: verb
+  - en: call
+    ru: звонить, называть
+    pos: verb
+  - en: discuss
+    ru: обсуждать
+    pos: verb
+  - en: explain
+    ru: объяснять
+    pos: verb
+  - en: describe
+    ru: описывать
+    pos: verb
+  - en: repeat
+    ru: повторять
+    pos: verb
+  - en: spell
+    ru: писать по буквам
+    pos: verb
+  - en: mean
+    ru: значить
+    pos: verb
+    irregular: true
+    example: What does this word mean?
+    exampleRu: Что значит это слово?
+  - en: thank
+    ru: благодарить
+    pos: verb
+  - en: introduce
+    ru: представлять (знакомить)
+    pos: verb
+  - en: share
+    ru: делиться
+    pos: verb
+  - en: agree
+    ru: соглашаться
+    pos: verb
+  - en: guess
+    ru: догадываться
+    pos: verb
+  - en: word
+    ru: слово
+    pos: noun
+  - en: sentence
+    ru: предложение (фраза)
+    pos: noun
+  - en: phrase
+    ru: словосочетание
+    pos: noun
+  - en: question
+    ru: вопрос
+    pos: noun
+  - en: conversation
+    ru: беседа
+    pos: noun
+  - en: message
+    ru: сообщение
+    pos: noun
+  - en: email
+    ru: электронное письмо
+    pos: noun
+  - en: language
+    ru: язык (речь)
+    pos: noun
+  - en: meaning
+    ru: значение
+    pos: noun
+  - en: sound
+    ru: звук
+    pos: noun
+  - en: voice
+    ru: голос
+    pos: noun
+    level: A2
+  - en: hello
+    ru: здравствуй
+    pos: exclam
+  - en: hi
+    ru: привет
+    pos: exclam
+  - en: hey
+    ru: эй
+    pos: exclam
+  - en: goodbye
+    ru: до свидания
+    pos: exclam
+  - en: bye
+    ru: пока
+    pos: exclam
+  - en: please
+    ru: пожалуйста (просьба)
+    pos: exclam
+  - en: thanks
+    ru: спасибо
+    pos: exclam
+  - en: sorry
+    ru: извини
+    pos: adj
+    gradable: false
+  - en: welcome
+    ru: добро пожаловать
+    pos: exclam
+  - en: 'yes'
+    ru: да
+    pos: exclam
+  - en: 'no'
+    ru: нет
+    pos: exclam
+  - en: yeah
+    ru: ага
+    pos: exclam
+  - en: OK
+    ru: ладно, нормально
+    pos: exclam
+  - en: oh
+    ru: ох
+    pos: exclam
+  - en: hear
+    ru: слышать
+    pos: verb
+    irregular: true
+  - en: listen
+    ru: слушать
+    pos: verb
+    example: I listen to music every day.
+    exampleRu: Я слушаю музыку каждый день.

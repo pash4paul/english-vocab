@@ -1,0 +1,272 @@
+topic: Служебные слова
+words:
+  - en: a
+    ru: неопределённый артикль
+    pos: article
+    note: Перед согласным звуком — a book, перед гласным — an apple
+  - en: an
+    ru: неопределённый артикль перед гласным
+    pos: article
+  - en: the
+    ru: определённый артикль
+    pos: article
+  - en: in
+    ru: в (внутри)
+    pos: prep
+    example: The keys are in my bag.
+    exampleRu: Ключи в моей сумке.
+  - en: on
+    ru: на (поверхности)
+    pos: prep
+  - en: at
+    ru: у, в (в точке)
+    pos: prep
+    example: We meet at the station.
+    exampleRu: Мы встречаемся на станции.
+  - en: to
+    ru: к, в (направление)
+    pos: prep
+  - en: from
+    ru: из, от
+    pos: prep
+  - en: of
+    ru: предлог принадлежности
+    pos: prep
+  - en: for
+    ru: для
+    pos: prep
+  - en: with
+    ru: с (вместе)
+    pos: prep
+  - en: without
+    ru: без
+    pos: prep
+  - en: about
+    ru: о, про
+    pos: prep
+  - en: after
+    ru: после
+    pos: prep
+  - en: before
+    ru: до, перед
+    pos: prep
+  - en: during
+    ru: в течение
+    pos: prep
+  - en: until
+    ru: до тех пор пока
+    pos: conj
+  - en: by
+    ru: возле, посредством
+    pos: prep
+  - en: as
+    ru: как, в качестве
+    pos: prep
+  - en: into
+    ru: внутрь
+    pos: prep
+  - en: over
+    ru: над, через
+    pos: prep
+  - en: under
+    ru: под
+    pos: prep
+  - en: above
+    ru: выше
+    pos: prep
+  - en: below
+    ru: ниже
+    pos: adv
+  - en: behind
+    ru: позади
+    pos: prep
+  - en: between
+    ru: между
+    pos: prep
+  - en: across
+    ru: через (поперёк)
+    pos: prep
+  - en: through
+    ru: сквозь
+    pos: prep
+  - en: around
+    ru: вокруг
+    pos: prep
+  - en: next to
+    ru: рядом (по соседству)
+    pos: prep
+  - en: opposite
+    ru: напротив
+    pos: prep
+  - en: past
+    ru: мимо
+    pos: prep
+    level: A1
+  - en: up
+    ru: вверх
+    pos: adv
+  - en: down
+    ru: вниз
+    pos: adv
+  - en: out
+    ru: наружу
+    pos: adv
+  - en: off
+    ru: с, прочь
+    pos: adv
+  - en: away
+    ru: в стороне, прочь
+    pos: adv
+  - en: back
+    ru: назад
+    pos: adv
+  - en: outside
+    ru: снаружи
+    pos: adv
+  - en: upstairs
+    ru: наверху (этажом выше)
+    pos: adv
+  - en: downstairs
+    ru: внизу (этажом ниже)
+    pos: adv
+  - en: here
+    ru: здесь
+    pos: adv
+  - en: there
+    ru: там
+    pos: adv
+  - en: together
+    ru: вместе
+    pos: adv
+  - en: left
+    ru: левый
+    pos: adj
+    gradable: false
+  - en: right
+    ru: правый
+    pos: adj
+    gradable: false
+  - en: front
+    ru: передняя часть
+    pos: noun
+  - en: and
+    ru: и
+    pos: conj
+  - en: but
+    ru: но
+    pos: conj
+  - en: or
+    ru: или
+    pos: conj
+  - en: so
+    ru: поэтому
+    pos: conj
+  - en: because
+    ru: потому что
+    pos: conj
+    example: I stayed home because it was raining.
+    exampleRu: Я остался дома, потому что шёл дождь.
+  - en: 'if'
+    ru: если
+    pos: conj
+  - en: than
+    ru: чем (при сравнении)
+    pos: conj
+  - en: that
+    ru: что (союз)
+    pos: conj
+    level: A1
+  - en: when
+    ru: когда
+    pos: adv
+  - en: where
+    ru: где
+    pos: adv
+  - en: why
+    ru: почему
+    pos: adv
+  - en: how
+    ru: как
+    pos: adv
+  - en: however
+    ru: однако
+    pos: adv
+  - en: also
+    ru: также
+    pos: adv
+  - en: too
+    ru: слишком, тоже
+    pos: adv
+  - en: very
+    ru: очень
+    pos: adv
+  - en: quite
+    ru: довольно
+    pos: adv
+  - en: really
+    ru: действительно
+    pos: adv
+  - en: just
+    ru: только что, просто
+    pos: adv
+  - en: even
+    ru: даже
+    pos: adv
+  - en: only
+    ru: только
+    pos: adv
+    level: A1
+  - en: else
+    ru: ещё, другой
+    pos: adv
+  - en: maybe
+    ru: может быть
+    pos: adv
+  - en: probably
+    ru: вероятно
+    pos: adv
+  - en: quickly
+    ru: быстро
+    pos: adv
+  - en: well
+    ru: хорошо
+    pos: adv
+    irregular: true
+    note: Наречие от good; степени — better, best
+  - en: not
+    ru: не
+    pos: adv
+  - en: 'no'
+    ru: никакой
+    pos: det
+    level: A1
+  - en: can
+    ru: мочь, уметь
+    pos: modal
+    example: I can swim very well.
+    exampleRu: Я умею хорошо плавать.
+  - en: cannot
+    ru: не мочь
+    pos: modal
+  - en: could
+    ru: мог бы
+    pos: modal
+  - en: must
+    ru: должен
+    pos: modal
+  - en: should
+    ru: следует
+    pos: modal
+  - en: will
+    ru: буду (будущее время)
+    pos: modal
+  - en: would
+    ru: бы (условное)
+    pos: modal
+  - en: have to
+    ru: приходится, обязан
+    pos: modal
+  - en: may
+    ru: можно, возможно
+    pos: modal
+    level: A2

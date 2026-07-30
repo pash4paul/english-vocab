@@ -1,0 +1,235 @@
+topic: Основные глаголы
+words:
+  - en: be
+    ru: быть
+    pos: verb
+    irregular: true
+    example: I am a student and she is a teacher.
+    exampleRu: Я студент, а она учительница.
+  - en: have
+    ru: иметь
+    pos: verb
+    irregular: true
+    example: They have two children.
+    exampleRu: У них двое детей.
+  - en: do
+    ru: делать
+    pos: verb
+    irregular: true
+  - en: go
+    ru: идти, ехать
+    pos: verb
+    irregular: true
+    example: We went to the beach yesterday.
+    exampleRu: Мы ходили на пляж вчера.
+  - en: come
+    ru: приходить
+    pos: verb
+    irregular: true
+  - en: get
+    ru: получать
+    pos: verb
+    irregular: true
+  - en: make
+    ru: делать, изготавливать
+    pos: verb
+    irregular: true
+  - en: take
+    ru: брать
+    pos: verb
+    irregular: true
+  - en: give
+    ru: давать
+    pos: verb
+    irregular: true
+    example: She gave me a book.
+    exampleRu: Она дала мне книгу.
+  - en: put
+    ru: класть
+    pos: verb
+    irregular: true
+    note: 'Все три формы совпадают: put — put — put.'
+  - en: keep
+    ru: хранить, продолжать
+    pos: verb
+    irregular: true
+  - en: let
+    ru: позволять
+    pos: verb
+    irregular: true
+  - en: become
+    ru: становиться
+    pos: verb
+    irregular: true
+  - en: happen
+    ru: происходить
+    pos: verb
+  - en: use
+    ru: использовать
+    pos: verb
+  - en: need
+    ru: нуждаться
+    pos: verb
+    example: I need more time.
+    exampleRu: Мне нужно больше времени.
+  - en: want
+    ru: хотеть
+    pos: verb
+  - en: try
+    ru: пытаться
+    pos: verb
+  - en: help
+    ru: помогать
+    pos: verb
+  - en: work
+    ru: работать
+    pos: verb
+  - en: play
+    ru: играть
+    pos: verb
+  - en: live
+    ru: жить
+    pos: verb
+    example: My grandparents live in the country.
+    exampleRu: Мои бабушка с дедушкой живут в деревне.
+  - en: die
+    ru: умирать
+    pos: verb
+  - en: born
+    ru: рождённый
+    pos: verb
+    irregular: true
+    forms:
+      past: was born
+      participle: born
+    note: Живёт только в связке be born — «родиться».
+  - en: stay
+    ru: оставаться
+    pos: verb
+  - en: wait
+    ru: ждать
+    pos: verb
+  - en: start
+    ru: начинать
+    pos: verb
+  - en: begin
+    ru: приступать
+    pos: verb
+    irregular: true
+  - en: finish
+    ru: заканчивать
+    pos: verb
+  - en: stop
+    ru: останавливаться
+    pos: verb
+    example: The bus stopped near the school.
+    exampleRu: Автобус остановился у школы.
+  - en: end
+    ru: заканчиваться
+    pos: verb
+  - en: open
+    ru: открывать
+    pos: verb
+  - en: close
+    ru: закрывать
+    pos: verb
+  - en: break
+    ru: ломать
+    pos: verb
+    irregular: true
+  - en: cut
+    ru: резать
+    pos: verb
+    irregular: true
+  - en: fill
+    ru: наполнять
+    pos: verb
+  - en: carry
+    ru: носить, нести
+    pos: verb
+  - en: bring
+    ru: приносить
+    pos: verb
+    irregular: true
+  - en: send
+    ru: отправлять
+    pos: verb
+    irregular: true
+  - en: find
+    ru: находить
+    pos: verb
+    irregular: true
+  - en: lose
+    ru: терять
+    pos: verb
+    irregular: true
+  - en: win
+    ru: побеждать
+    pos: verb
+    irregular: true
+  - en: choose
+    ru: выбирать
+    pos: verb
+    irregular: true
+  - en: decide
+    ru: решать
+    pos: verb
+  - en: change
+    ru: менять
+    pos: verb
+  - en: move
+    ru: двигать, переезжать
+    pos: verb
+  - en: turn
+    ru: поворачивать
+    pos: verb
+  - en: sit
+    ru: сидеть
+    pos: verb
+    irregular: true
+  - en: stand
+    ru: стоять
+    pos: verb
+    irregular: true
+  - en: wear
+    ru: носить (одежду)
+    pos: verb
+    irregular: true
+  - en: grow
+    ru: расти
+    pos: verb
+    irregular: true
+  - en: follow
+    ru: следовать
+    pos: verb
+  - en: add
+    ru: добавлять
+    pos: verb
+  - en: include
+    ru: включать в себя
+    pos: verb
+  - en: miss
+    ru: пропускать, скучать
+    pos: verb
+  - en: relax
+    ru: расслабляться
+    pos: verb
+  - en: enjoy
+    ru: получать удовольствие
+    pos: verb
+    example: I really enjoy this music.
+    exampleRu: Мне очень нравится эта музыка.
+  - en: prepare
+    ru: готовить (заранее)
+    pos: verb
+  - en: create
+    ru: создавать
+    pos: verb
+  - en: improve
+    ru: улучшать
+    pos: verb
+  - en: prefer
+    ru: предпочитать
+    pos: verb
+    example: I prefer tea to coffee.
+    exampleRu: Я предпочитаю чай кофе.

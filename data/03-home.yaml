@@ -1,0 +1,176 @@
+topic: Дом и вещи
+words:
+  - en: home
+    ru: дом (место, где живёшь)
+    pos: noun
+    example: I go home after work.
+    exampleRu: Я иду домой после работы.
+  - en: house
+    ru: дом (здание)
+    pos: noun
+  - en: apartment
+    ru: квартира
+    pos: noun
+  - en: room
+    ru: комната
+    pos: noun
+  - en: bedroom
+    ru: спальня
+    pos: noun
+  - en: bathroom
+    ru: ванная комната
+    pos: noun
+  - en: kitchen
+    ru: кухня
+    pos: noun
+    example: We are cooking dinner in the kitchen.
+    exampleRu: Мы готовим ужин на кухне.
+  - en: garden
+    ru: сад
+    pos: noun
+  - en: yard
+    ru: двор
+    pos: noun
+  - en: door
+    ru: дверь
+    pos: noun
+  - en: window
+    ru: окно
+    pos: noun
+  - en: wall
+    ru: стена
+    pos: noun
+  - en: floor
+    ru: пол
+    pos: noun
+  - en: toilet
+    ru: туалет
+    pos: noun
+  - en: table
+    ru: стол
+    pos: noun
+  - en: desk
+    ru: письменный стол
+    pos: noun
+  - en: chair
+    ru: стул
+    pos: noun
+  - en: bed
+    ru: кровать
+    pos: noun
+  - en: clock
+    ru: часы (настенные)
+    pos: noun
+  - en: key
+    ru: ключ
+    pos: noun
+  - en: box
+    ru: коробка
+    pos: noun
+  - en: bottle
+    ru: бутылка
+    pos: noun
+  - en: glass
+    ru: стакан
+    pos: noun
+  - en: cup
+    ru: чашка
+    pos: noun
+  - en: dish
+    ru: блюдо, тарелка
+    pos: noun
+  - en: television
+    ru: телевизор
+    pos: noun
+  - en: computer
+    ru: компьютер
+    pos: noun
+  - en: phone
+    ru: телефон (мобильный)
+    pos: noun
+    example: My phone is on the table.
+    exampleRu: Мой телефон на столе.
+  - en: telephone
+    ru: телефон (аппарат)
+    pos: noun
+  - en: camera
+    ru: фотоаппарат
+    pos: noun
+  - en: radio
+    ru: радио
+    pos: noun
+  - en: machine
+    ru: машина (механизм)
+    pos: noun
+  - en: umbrella
+    ru: зонт
+    pos: noun
+  - en: picture
+    ru: картинка
+    pos: noun
+  - en: paper
+    ru: бумага
+    pos: noun
+    uncountable: true
+  - en: pen
+    ru: ручка (писать)
+    pos: noun
+  - en: pencil
+    ru: карандаш
+    pos: noun
+  - en: book
+    ru: книга
+    pos: noun
+  - en: dictionary
+    ru: словарь
+    pos: noun
+  - en: magazine
+    ru: журнал
+    pos: noun
+  - en: newspaper
+    ru: газета
+    pos: noun
+  - en: letter
+    ru: письмо
+    pos: noun
+  - en: note
+    ru: записка
+    pos: noun
+  - en: card
+    ru: открытка, карточка
+    pos: noun
+  - en: photo
+    ru: фотография
+    pos: noun
+    forms:
+      plural: photos
+  - en: photograph
+    ru: фотоснимок
+    pos: noun
+  - en: light
+    ru: свет
+    pos: noun
+    uncountable: true
+  - en: fire
+    ru: огонь
+    pos: noun
+  - en: thing
+    ru: вещь
+    pos: noun
+  - en: object
+    ru: предмет
+    pos: noun
+  - en: piece
+    ru: кусок
+    pos: noun
+    example: Give me a piece of paper, please.
+    exampleRu: Дай мне лист бумаги, пожалуйста.
+  - en: pair
+    ru: пара
+    pos: noun
+  - en: clean
+    ru: чистый
+    pos: adj
+  - en: dirty
+    ru: грязный
+    pos: adj
