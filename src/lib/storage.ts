@@ -12,6 +12,7 @@ export function emptyProgress(): Progress {
     cards: {},
     reviews: [],
     days: {},
+    known: {},
     settings: { ...DEFAULT_SETTINGS },
   };
 }
@@ -27,6 +28,7 @@ function migrate(raw: unknown): Progress {
     cards: p.cards ?? {},
     reviews: p.reviews ?? [],
     days: p.days ?? {},
+    known: p.known ?? {},
     // Новые настройки, добавленные после того как пользователь сохранил свои,
     // подмешиваем из дефолтов, а не сбрасываем весь объект.
     settings: { ...DEFAULT_SETTINGS, ...(p.settings ?? {}) },
@@ -127,6 +129,7 @@ export function exportProgress(p: Progress, deck?: Deck): string {
     сохранено: new Date().toISOString(),
     сводка: {
       'слов начато': byWord.size,
+      'отмечено «уже знаю»': Object.keys(p.known ?? {}).length,
       'карточек': cards.length,
       'в долгой памяти': cards.filter((c) => c.state === 2).length,
       'ответов всего': p.reviews.length,

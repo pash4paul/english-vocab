@@ -1,0 +1,437 @@
+topic: Действия и глаголы
+words:
+  - en: access
+    ru: получать доступ
+    pos: verb
+  - en: admire
+    ru: восхищаться
+    pos: verb
+  - en: admit
+    ru: признавать
+    pos: verb
+  - en: advise
+    ru: советовать
+    pos: verb
+  - en: announce
+    ru: объявлять
+    pos: verb
+  - en: annoy
+    ru: раздражать
+    pos: verb
+  - en: apologize
+    ru: извиняться
+    pos: verb
+  - en: appreciate
+    ru: ценить
+    pos: verb
+  - en: arrest
+    ru: арестовывать
+    pos: verb
+  - en: assist
+    ru: содействовать
+    pos: verb
+  - en: attach
+    ru: прикреплять
+    pos: verb
+  - en: attract
+    ru: привлекать
+    pos: verb
+  - en: bake
+    ru: печь (в духовке)
+    pos: verb
+  - en: ban
+    ru: запрещать
+    pos: verb
+  - en: bend
+    ru: сгибать
+    pos: verb
+    irregular: true
+  - en: bite
+    ru: кусать
+    pos: verb
+    irregular: true
+  - en: bother
+    ru: беспокоить, утруждаться
+    pos: verb
+  - en: breathe
+    ru: дышать
+    pos: verb
+  - en: bury
+    ru: хоронить, закапывать
+    pos: verb
+  - en: cheat
+    ru: обманывать, списывать
+    pos: verb
+  - en: claim
+    ru: утверждать, требовать
+    pos: verb
+  - en: click
+    ru: щёлкать мышью
+    pos: verb
+  - en: combine
+    ru: объединять
+    pos: verb
+  - en: commit
+    ru: совершать, обязываться
+    pos: verb
+  - en: concentrate
+    ru: сосредоточиваться
+    pos: verb
+  - en: conclude
+    ru: делать вывод
+    pos: verb
+  - en: confirm
+    ru: подтверждать
+    pos: verb
+  - en: confuse
+    ru: путать
+    pos: verb
+  - en: consist
+    ru: состоять из
+    pos: verb
+  - en: consume
+    ru: потреблять
+    pos: verb
+  - en: contact
+    ru: связываться с кем-то
+    pos: verb
+  - en: convince
+    ru: убеждать
+    pos: verb
+  - en: damage
+    ru: повреждать
+    pos: verb
+  - en: define
+    ru: определять значение
+    pos: verb
+  - en: deliver
+    ru: доставлять
+    pos: verb
+  - en: determine
+    ru: устанавливать, определять
+    pos: verb
+  - en: dislike
+    ru: не любить
+    pos: verb
+  - en: divide
+    ru: делить
+    pos: verb
+  - en: donate
+    ru: жертвовать
+    pos: verb
+  - en: doubt
+    ru: сомневаться
+    pos: verb
+  - en: educate
+    ru: обучать
+    pos: verb
+  - en: encourage
+    ru: поощрять
+    pos: verb
+  - en: entertain
+    ru: развлекать
+    pos: verb
+  - en: escape
+    ru: сбегать
+    pos: verb
+  - en: examine
+    ru: осматривать
+    pos: verb
+  - en: exchange
+    ru: обменивать
+    pos: verb
+  - en: expand
+    ru: расширять
+    pos: verb
+  - en: explode
+    ru: взрываться
+    pos: verb
+  - en: explore
+    ru: исследовать (местность)
+    pos: verb
+  - en: export
+    ru: экспортировать
+    pos: verb
+  - en: fasten
+    ru: застёгивать
+    pos: verb
+  - en: fold
+    ru: складывать
+    pos: verb
+  - en: force
+    ru: заставлять
+    pos: verb
+  - en: freeze
+    ru: замораживать
+    pos: verb
+    irregular: true
+  - en: frighten
+    ru: пугать
+    pos: verb
+  - en: fry
+    ru: жарить
+    pos: verb
+  - en: gather
+    ru: собираться, собирать
+    pos: verb
+  - en: graduate
+    ru: оканчивать учебное заведение
+    pos: verb
+  - en: hang
+    ru: вешать
+    pos: verb
+    irregular: true
+  - en: hire
+    ru: нанимать на работу
+    pos: verb
+  - en: hunt
+    ru: охотиться
+    pos: verb
+  - en: hurry
+    ru: торопиться
+    pos: verb
+  - en: ignore
+    ru: игнорировать
+    pos: verb
+  - en: import
+    ru: импортировать
+    pos: verb
+  - en: indicate
+    ru: указывать
+    pos: verb
+  - en: injure
+    ru: травмировать
+    pos: verb
+  - en: intend
+    ru: намереваться
+    pos: verb
+  - en: invest
+    ru: вкладывать деньги
+    pos: verb
+  - en: investigate
+    ru: расследовать
+    pos: verb
+  - en: judge
+    ru: судить, оценивать
+    pos: verb
+  - en: kick
+    ru: пинать
+    pos: verb
+  - en: kiss
+    ru: целовать
+    pos: verb
+  - en: lack
+    ru: испытывать нехватку
+    pos: verb
+  - en: lay
+    ru: класть, укладывать
+    pos: verb
+    irregular: true
+  - en: limit
+    ru: ограничивать
+    pos: verb
+  - en: locate
+    ru: располагать, находить
+    pos: verb
+  - en: measure
+    ru: измерять
+    pos: verb
+  - en: mix
+    ru: смешивать
+    pos: verb
+  - en: murder
+    ru: убивать умышленно
+    pos: verb
+  - en: occur
+    ru: случаться
+    pos: verb
+  - en: participate
+    ru: участвовать
+    pos: verb
+  - en: persuade
+    ru: уговаривать
+    pos: verb
+  - en: pour
+    ru: наливать
+    pos: verb
+  - en: pray
+    ru: молиться
+    pos: verb
+  - en: press
+    ru: нажимать
+    pos: verb
+  - en: pretend
+    ru: притворяться
+    pos: verb
+  - en: promote
+    ru: продвигать
+    pos: verb
+  - en: protest
+    ru: протестовать
+    pos: verb
+  - en: prove
+    ru: доказывать
+    pos: verb
+    irregular: true
+  - en: punish
+    ru: наказывать
+    pos: verb
+  - en: qualify
+    ru: соответствовать требованиям
+    pos: verb
+  - en: quit
+    ru: бросать (дело, работу)
+    pos: verb
+    irregular: true
+  - en: quote
+    ru: цитировать
+    pos: verb
+  - en: reflect
+    ru: отражать, размышлять
+    pos: verb
+  - en: reject
+    ru: отклонять
+    pos: verb
+  - en: relate
+    ru: соотносить
+    pos: verb
+  - en: release
+    ru: выпускать
+    pos: verb
+  - en: remain
+    ru: оставаться (сохраняться)
+    pos: verb
+  - en: remind
+    ru: напоминать
+    pos: verb
+  - en: rent
+    ru: снимать, арендовать
+    pos: verb
+  - en: represent
+    ru: представлять (быть представителем)
+    pos: verb
+  - en: require
+    ru: требовать
+    pos: verb
+  - en: respect
+    ru: уважать
+    pos: verb
+  - en: retire
+    ru: выходить на пенсию
+    pos: verb
+  - en: revise
+    ru: пересматривать, повторять
+    pos: verb
+  - en: risk
+    ru: рисковать
+    pos: verb
+  - en: roll
+    ru: катить
+    pos: verb
+  - en: row
+    ru: грести
+    pos: verb
+  - en: scan
+    ru: сканировать, бегло просматривать
+    pos: verb
+  - en: shine
+    ru: светить
+    pos: verb
+    irregular: true
+  - en: shoot
+    ru: стрелять
+    pos: verb
+    irregular: true
+  - en: sink
+    ru: тонуть
+    pos: verb
+    irregular: true
+  - en: slice
+    ru: нарезать ломтиками
+    pos: verb
+  - en: spot
+    ru: замечать (высматривать)
+    pos: verb
+  - en: stick
+    ru: приклеивать, застревать
+    pos: verb
+    irregular: true
+  - en: suffer
+    ru: страдать
+    pos: verb
+  - en: summarize
+    ru: подводить итог
+    pos: verb
+  - en: supply
+    ru: снабжать
+    pos: verb
+  - en: survive
+    ru: выживать
+    pos: verb
+  - en: switch
+    ru: переключать
+    pos: verb
+  - en: tend
+    ru: иметь склонность
+    pos: verb
+  - en: trade
+    ru: торговать
+    pos: verb
+  - en: translate
+    ru: переводить (на другой язык)
+    pos: verb
+  - en: transport
+    ru: перевозить
+    pos: verb
+  - en: treat
+    ru: обращаться с кем-то, лечить
+    pos: verb
+  - en: update
+    ru: обновлять
+    pos: verb
+  - en: volunteer
+    ru: вызываться добровольно
+    pos: verb
+  - en: vote
+    ru: голосовать
+    pos: verb
+  - en: warn
+    ru: предупреждать
+    pos: verb
+  - en: waste
+    ru: тратить впустую
+    pos: verb
+  - en: weigh
+    ru: весить
+    pos: verb
+  - en: wonder
+    ru: задаваться вопросом
+    pos: verb
+    example: I wonder why he left so early.
+    exampleRu: Интересно, почему он ушёл так рано.
+  - en: base
+    ru: основывать
+    pos: verb
+  - en: charge
+    ru: брать плату, заряжать
+    pos: verb
+  - en: challenge
+    ru: бросать вызов
+    pos: verb
+  - en: balance
+    ru: удерживать равновесие
+    pos: verb
+  - en: aim
+    ru: стремиться
+    pos: verb
+  - en: set
+    ru: устанавливать (задавать)
+    pos: verb
+    irregular: true
+  - en: shift
+    ru: сдвигать
+    pos: verb
+  - en: spread
+    ru: распространять
+    pos: verb
+    irregular: true

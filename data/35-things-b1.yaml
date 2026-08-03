@@ -1,0 +1,462 @@
+topic: Мир вокруг
+words:
+  - en: alarm
+    ru: сигнализация, будильник
+    pos: noun
+  - en: album
+    ru: альбом
+    pos: noun
+  - en: atmosphere
+    ru: атмосфера
+    pos: noun
+  - en: battery
+    ru: батарея, аккумулятор
+    pos: noun
+  - en: bee
+    ru: пчела
+    pos: noun
+  - en: bell
+    ru: колокол, звонок
+    pos: noun
+  - en: brand
+    ru: марка (бренд)
+    pos: noun
+  - en: bubble
+    ru: пузырь
+    pos: noun
+  - en: cable
+    ru: кабель
+    pos: noun
+  - en: cap
+    ru: кепка, крышка
+    pos: noun
+  - en: chemical
+    ru: химическое вещество
+    pos: noun
+  - en: chest
+    ru: грудная клетка, сундук
+    pos: noun
+  - en: cloth
+    ru: ткань
+    pos: noun
+    uncountable: true
+  - en: coal
+    ru: уголь
+    pos: noun
+    uncountable: true
+  - en: coin
+    ru: монета
+    pos: noun
+  - en: collection
+    ru: коллекция
+    pos: noun
+  - en: container
+    ru: контейнер
+    pos: noun
+  - en: content
+    ru: содержимое
+    pos: noun
+    uncountable: true
+  - en: corn
+    ru: кукуруза
+    pos: noun
+    uncountable: true
+  - en: costume
+    ru: костюм (карнавальный)
+    pos: noun
+  - en: cotton
+    ru: хлопок
+    pos: noun
+    uncountable: true
+  - en: diagram
+    ru: диаграмма
+    pos: noun
+  - en: diamond
+    ru: бриллиант
+    pos: noun
+  - en: dirt
+    ru: грязь
+    pos: noun
+    uncountable: true
+  - en: dust
+    ru: пыль
+    pos: noun
+    uncountable: true
+  - en: mud
+    ru: слякоть
+    pos: noun
+    uncountable: true
+  - en: drum
+    ru: барабан
+    pos: noun
+  - en: earthquake
+    ru: землетрясение
+    pos: noun
+  - en: hurricane
+    ru: ураган
+    pos: noun
+  - en: flood
+    ru: наводнение
+    pos: noun
+  - en: edge
+    ru: край
+    pos: noun
+  - en: surface
+    ru: поверхность
+    pos: noun
+  - en: layer
+    ru: слой
+    pos: noun
+  - en: flag
+    ru: флаг
+    pos: noun
+  - en: flour
+    ru: мука
+    pos: noun
+    uncountable: true
+  - en: grain
+    ru: зерно
+    pos: noun
+  - en: seed
+    ru: семя
+    pos: noun
+  - en: soil
+    ru: почва
+    pos: noun
+    uncountable: true
+  - en: sand
+    ru: песок
+    pos: noun
+    uncountable: true
+  - en: powder
+    ru: порошок
+    pos: noun
+    uncountable: true
+  - en: liquid
+    ru: жидкость
+    pos: noun
+  - en: substance
+    ru: вещество
+    pos: noun
+  - en: fuel
+    ru: топливо
+    pos: noun
+    uncountable: true
+  - en: iron
+    ru: железо, утюг
+    pos: noun
+  - en: frame
+    ru: рамка
+    pos: noun
+  - en: fur
+    ru: мех
+    pos: noun
+    uncountable: true
+  - en: leather
+    ru: кожа (материал)
+    pos: noun
+    uncountable: true
+  - en: wool
+    ru: шерсть
+    pos: noun
+    uncountable: true
+  - en: glove
+    ru: перчатка
+    pos: noun
+  - en: underwear
+    ru: нижнее бельё
+    pos: noun
+    uncountable: true
+  - en: helicopter
+    ru: вертолёт
+    pos: noun
+  - en: robot
+    ru: робот
+    pos: noun
+  - en: keyboard
+    ru: клавиатура
+    pos: noun
+  - en: needle
+    ru: игла
+    pos: noun
+  - en: net
+    ru: сетка
+    pos: noun
+  - en: pan
+    ru: сковорода
+    pos: noun
+  - en: pot
+    ru: кастрюля, горшок
+    pos: noun
+  - en: pin
+    ru: булавка
+    pos: noun
+  - en: pipe
+    ru: труба
+    pos: noun
+  - en: rope
+    ru: верёвка
+    pos: noun
+  - en: string
+    ru: бечёвка, строка
+    pos: noun
+  - en: tape
+    ru: лента, скотч
+    pos: noun
+  - en: tent
+    ru: палатка
+    pos: noun
+  - en: tube
+    ru: тюбик, труба
+    pos: noun
+  - en: tire
+    ru: шина
+    pos: noun
+  - en: shell
+    ru: раковина, оболочка
+    pos: noun
+  - en: leaf
+    ru: лист (растения)
+    pos: noun
+    forms:
+      plural: leaves
+  - en: branch
+    ru: ветка, филиал
+    pos: noun
+  - en: wing
+    ru: крыло
+    pos: noun
+  - en: tail
+    ru: хвост
+    pos: noun
+  - en: nail
+    ru: ноготь, гвоздь
+    pos: noun
+  - en: muscle
+    ru: мышца
+    pos: noun
+  - en: throat
+    ru: горло
+    pos: noun
+  - en: tongue
+    ru: язык (орган)
+    pos: noun
+  - en: toe
+    ru: палец ноги
+    pos: noun
+  - en: lip
+    ru: губа
+    pos: noun
+  - en: breath
+    ru: вдох, дыхание
+    pos: noun
+  - en: breathing
+    ru: дыхание (процесс)
+    pos: noun
+    uncountable: true
+  - en: symptom
+    ru: симптом
+    pos: noun
+  - en: treatment
+    ru: лечение
+    pos: noun
+  - en: alcohol
+    ru: алкоголь
+    pos: noun
+    uncountable: true
+  - en: alcoholic
+    ru: алкогольный
+    pos: adj
+    gradable: false
+  - en: poison
+    ru: яд
+    pos: noun
+  - en: poisonous
+    ru: ядовитый
+    pos: adj
+    gradable: false
+  - en: ingredient
+    ru: ингредиент
+    pos: noun
+  - en: mixture
+    ru: смесь
+    pos: noun
+  - en: heating
+    ru: отопление
+    pos: noun
+    uncountable: true
+  - en: ton
+    ru: тонна
+    pos: noun
+  - en: statue
+    ru: статуя
+    pos: noun
+  - en: sculpture
+    ru: скульптура
+    pos: noun
+  - en: portrait
+    ru: портрет
+    pos: noun
+  - en: photography
+    ru: фотография (занятие)
+    pos: noun
+    uncountable: true
+  - en: literature
+    ru: литература
+    pos: noun
+    uncountable: true
+  - en: poem
+    ru: стихотворение
+    pos: noun
+  - en: poetry
+    ru: поэзия
+    pos: noun
+    uncountable: true
+  - en: journal
+    ru: журнал (научный)
+    pos: noun
+  - en: headline
+    ru: заголовок новости
+    pos: noun
+  - en: episode
+    ru: эпизод
+    pos: noun
+  - en: documentary
+    ru: документальный фильм
+    pos: noun
+  - en: script
+    ru: сценарий
+    pos: noun
+  - en: plot
+    ru: сюжет
+    pos: noun
+  - en: theme
+    ru: тема (произведения)
+    pos: noun
+  - en: narrative
+    ru: повествование
+    pos: noun
+  - en: theory
+    ru: теория
+    pos: noun
+  - en: magic
+    ru: магия
+    pos: noun
+    uncountable: true
+  - en: ghost
+    ru: призрак
+    pos: noun
+  - en: horror
+    ru: ужас
+    pos: noun
+    uncountable: true
+  - en: mystery
+    ru: загадка
+    pos: noun
+  - en: clue
+    ru: зацепка
+    pos: noun
+  - en: trick
+    ru: трюк, уловка
+    pos: noun
+  - en: talent
+    ru: талант
+    pos: noun
+  - en: leisure
+    ru: досуг
+    pos: noun
+    uncountable: true
+  - en: fitness
+    ru: физическая форма
+    pos: noun
+    uncountable: true
+  - en: trainer
+    ru: тренер (персональный)
+    pos: noun
+  - en: racing
+    ru: гонки
+    pos: noun
+    uncountable: true
+  - en: exhibition
+    ru: выставка
+    pos: noun
+  - en: entertainment
+    ru: развлечения
+    pos: noun
+    uncountable: true
+  - en: excitement
+    ru: волнение (радостное)
+    pos: noun
+    uncountable: true
+  - en: pleasure
+    ru: удовольствие
+    pos: noun
+  - en: passion
+    ru: страсть
+    pos: noun
+  - en: emotion
+    ru: эмоция
+    pos: noun
+  - en: mood
+    ru: настроение
+    pos: noun
+  - en: spirit
+    ru: дух
+    pos: noun
+  - en: beauty
+    ru: красота
+    pos: noun
+    uncountable: true
+  - en: happiness
+    ru: счастье
+    pos: noun
+    uncountable: true
+  - en: strength
+    ru: сила (мощь)
+    pos: noun
+    uncountable: true
+  - en: intelligence
+    ru: интеллект
+    pos: noun
+    uncountable: true
+  - en: belief
+    ru: убеждение
+    pos: noun
+    forms:
+      plural: beliefs
+  - en: truth
+    ru: правда
+    pos: noun
+    uncountable: true
+  - en: reality
+    ru: реальность
+    pos: noun
+    uncountable: true
+  - en: sight
+    ru: зрение, вид
+    pos: noun
+  - en: signal
+    ru: сигнал
+    pos: noun
+  - en: occasion
+    ru: случай (повод)
+    pos: noun
+  - en: custom
+    ru: обычай
+    pos: noun
+  - en: prediction
+    ru: прогноз
+    pos: noun
+  - en: killing
+    ru: убийство (факт)
+    pos: noun
+  - en: mess
+    ru: беспорядок
+    pos: noun
+  - en: stuff
+    ru: вещи, штуки
+    pos: noun
+    uncountable: true
+  - en: medium
+    ru: средство передачи
+    pos: noun

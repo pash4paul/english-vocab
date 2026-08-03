@@ -168,39 +168,75 @@ words:
   - en: January
     ru: январь
     pos: noun
+    forms:
+      plural: ~
+
   - en: February
     ru: февраль
     pos: noun
+    forms:
+      plural: ~
+
   - en: March
     ru: март
     pos: noun
+    forms:
+      plural: ~
+
   - en: April
     ru: апрель
     pos: noun
+    forms:
+      plural: ~
+
   - en: May
     ru: май
     pos: noun
+    forms:
+      plural: ~
+
   - en: June
     ru: июнь
     pos: noun
+    forms:
+      plural: ~
+
   - en: July
     ru: июль
     pos: noun
+    forms:
+      plural: ~
+
   - en: August
     ru: август
     pos: noun
+    forms:
+      plural: ~
+
   - en: September
     ru: сентябрь
     pos: noun
+    forms:
+      plural: ~
+
   - en: October
     ru: октябрь
     pos: noun
+    forms:
+      plural: ~
+
   - en: November
     ru: ноябрь
     pos: noun
+    forms:
+      plural: ~
+
   - en: December
     ru: декабрь
     pos: noun
+    forms:
+      plural: ~
+
   - en: birthday
     ru: день рождения
     pos: noun

@@ -7,22 +7,31 @@ import { mainForm, spokenForm } from '../lib/session.ts';
 import { speak, ttsAvailable } from '../lib/tts.ts';
 import { WordDetails } from './WordDetails.tsx';
 
-type Filter = 'all' | 'new' | 'learning' | 'known' | 'leech';
+type Filter = 'all' | 'new' | 'learning' | 'memorized' | 'leech' | 'known';
 
 const FILTERS: [Filter, string][] = [
   ['all', 'Все'],
   ['new', 'Не начаты'],
   ['learning', 'Учатся'],
-  ['known', 'Знаю'],
+  ['memorized', 'В долгой памяти'],
   ['leech', 'Проблемные'],
+  ['known', 'Уже знаю'],
 ];
 
-export function WordList({ deck, progress }: { deck: Deck; progress: Progress }) {
+interface Props {
+  deck: Deck;
+  progress: Progress;
+  onSetKnown: (wordIds: string[], known: boolean) => void;
+}
+
+export function WordList({ deck, progress, onSetKnown }: Props) {
   const [query, setQuery] = useState('');
   const [filter, setFilter] = useState<Filter>('all');
   const [topic, setTopic] = useState<string>('');
   const [level, setLevel] = useState<Level | ''>('');
   const [open, setOpen] = useState<string | null>(null);
+
+  const known = progress.known ?? {};
 
   const rows = useMemo(() => {
     const q = normalize(query.trim());
@@ -32,11 +41,29 @@ export function WordList({ deck, progress }: { deck: Deck; progress: Progress })
       .filter(({ word, cards }) => {
         if (topic && word.topic !== topic) return false;
         if (level && word.level !== level) return false;
-        if (filter !== 'all' && status(cards) !== filter) return false;
+        const isKnown = !!known[word.id];
+        // «Уже знаю» — не состояние карточек, а решение человека, поэтому
+        // в остальных фильтрах такие слова не мешаются.
+        if (filter === 'known' ? !isKnown : isKnown) return false;
+        if (filter !== 'all' && filter !== 'known' && status(cards) !== filter) return false;
         if (!q && !qRu) return true;
         return normalize(word.en).includes(q) || word.ru.toLowerCase().includes(qRu);
       });
-  }, [deck, progress, query, filter, topic, level]);
+  }, [deck, progress, known, query, filter, topic, level]);
+
+  const bulk = () => {
+    const ids = rows.map((r) => r.word.id);
+    if (!ids.length) return;
+    if (filter === 'known') {
+      onSetKnown(ids, false);
+      return;
+    }
+    const ok = confirm(
+      `Отметить ${ids.length} слов как уже известные? Они перестанут попадать ` +
+      'в занятия. Вернуть можно фильтром «Уже знаю».',
+    );
+    if (ok) onSetKnown(ids, true);
+  };
 
   return (
     <div className="words">
@@ -83,7 +110,18 @@ export function WordList({ deck, progress }: { deck: Deck; progress: Progress })
         ))}
       </div>
 
-      <p className="muted small">{rows.length} слов</p>
+      <div className="list-head">
+        <p className="muted small">
+          {rows.length} слов
+          {Object.keys(known).length > 0 && filter !== 'known' &&
+            ` · ${Object.keys(known).length} отмечено «уже знаю»`}
+        </p>
+        {rows.length > 0 && (
+          <button className="btn small-btn" onClick={bulk}>
+            {filter === 'known' ? `Вернуть в учёбу · ${rows.length}` : `Уже знаю все · ${rows.length}`}
+          </button>
+        )}
+      </div>
 
       <ul className="word-list">
         {rows.map(({ word, cards }) => {
@@ -130,14 +168,19 @@ export function WordList({ deck, progress }: { deck: Deck; progress: Progress })
                       );
                     })}
                   </div>
-                  {ttsAvailable() && (
-                    <button
-                      className="btn wide"
-                      onClick={() => speak(word.example || spokenForm(word), progress.settings.ttsRate)}
-                    >
-                      🔊 Прослушать {word.example ? 'пример' : 'слово'}
+                  <div className="btn-row">
+                    {ttsAvailable() && (
+                      <button
+                        className="btn"
+                        onClick={() => speak(word.example || spokenForm(word), progress.settings.ttsRate)}
+                      >
+                        🔊 {word.example ? 'Пример' : 'Слово'}
+                      </button>
+                    )}
+                    <button className="btn" onClick={() => onSetKnown([word.id], !known[word.id])}>
+                      {known[word.id] ? 'Вернуть в учёбу' : 'Уже знаю'}
                     </button>
-                  )}
+                  </div>
                 </div>
               )}
             </li>
@@ -175,7 +218,7 @@ function status(cards: Partial<Record<string, StoredCard>>): Filter {
   const list = Object.values(cards).filter(Boolean) as StoredCard[];
   if (!list.length) return 'new';
   if (list.some(isLeech)) return 'leech';
-  if (list.every((c) => c.state === State.Review)) return 'known';
+  if (list.every((c) => c.state === State.Review)) return 'memorized';
   return 'learning';
 }
 

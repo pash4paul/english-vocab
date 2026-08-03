@@ -148,13 +148,17 @@ function buildWord(file, topic, docLevel, lesson, raw, index) {
   }
 
   const forms = {};
+  // Пустое значение (`plural: ~`) — не пропуск, а заявление: такой формы у слова
+  // не бывает. «Januaries» грамматически возможно, но спрашивать его незачем.
+  const suppressed = new Set();
   const f = raw.forms ?? {};
   for (const key of Object.keys(f)) {
     if (!FORM_KEYS.includes(key)) {
       err(file, en, `неизвестная форма "${key}". Допустимо: ${FORM_KEYS.join(', ')}`);
       return null;
     }
-    if (f[key] != null) forms[key] = String(f[key]).trim();
+    if (f[key] == null) suppressed.add(key);
+    else forms[key] = String(f[key]).trim();
   }
 
   const uncountable = raw.uncountable === true;
@@ -168,7 +172,7 @@ function buildWord(file, topic, docLevel, lesson, raw, index) {
     warn(file, en, 'слово помечено uncountable, но у него задано множественное число');
   }
 
-  applyMorphology(file, en, pos, forms, { irregular, uncountable, gradable });
+  applyMorphology(file, en, pos, forms, { irregular, uncountable, gradable, suppressed });
 
   if (raw.example && !raw.example.includes(' ')) {
     warn(file, en, 'example выглядит как одно слово — для пропуска нужно предложение');
@@ -220,6 +224,7 @@ function applyMorphology(file, en, pos, forms, flags) {
   const rules = ruleForms(pos, en);
 
   for (const key of keys) {
+    if (flags.suppressed?.has(key)) continue;
     const manual = forms[key];
     const expected = rules.forms?.[key];
     const known = table?.[key];

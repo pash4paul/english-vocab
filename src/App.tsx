@@ -85,6 +85,24 @@ export default function App() {
     [update],
   );
 
+  /**
+   * «Уже знаю»: слово перестаёт попадать в занятия, но карточки и их
+   * расписание остаются. Вернуть в учёбу можно в словаре — прогресс найдётся
+   * на месте, а не начнётся с нуля.
+   */
+  const setKnown = useCallback((wordIds: string[], known: boolean) => {
+    if (!wordIds.length) return;
+    const at = new Date().toISOString();
+    update((prev) => {
+      const next = { ...prev.known };
+      for (const id of wordIds) {
+        if (known) next[id] = at;
+        else delete next[id];
+      }
+      return { ...prev, known: next };
+    });
+  }, [update]);
+
   const counts = useMemo(() => {
     if (!progress) return null;
     const p = buildSession(deck, progress, new Date(), tts);
@@ -115,6 +133,7 @@ export default function App() {
         progress={progress}
         plan={plan}
         onAnswer={handleAnswer}
+        onKnown={(word) => setKnown([word.id], true)}
         onExit={() => { setPlan(null); setView('home'); }}
       />
     );
@@ -126,7 +145,9 @@ export default function App() {
         {view === 'home' && (
           <Home deck={deck} progress={progress} counts={counts!} tts={tts} onStart={startSession} />
         )}
-        {view === 'words' && <WordList deck={deck} progress={progress} />}
+        {view === 'words' && (
+          <WordList deck={deck} progress={progress} onSetKnown={setKnown} />
+        )}
         {view === 'stats' && <Stats deck={deck} progress={progress} />}
         {view === 'settings' && (
           <SettingsView

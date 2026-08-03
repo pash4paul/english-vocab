@@ -14,6 +14,7 @@ interface Props {
   progress: Progress;
   plan: SessionPlan;
   onAnswer: (word: Word, kind: CardKind, rating: Rating, ms: number) => void;
+  onKnown: (word: Word) => void;
   onExit: () => void;
 }
 
@@ -25,7 +26,7 @@ const RELAPSE_GAP = 5;
 /** Виды карточек, где ответ набирается руками. */
 const TYPED: CardKind[] = ['spell', 'produce', 'cloze', 'forms'];
 
-export function Session({ deck, progress, plan, onAnswer, onExit }: Props) {
+export function Session({ deck, progress, plan, onAnswer, onKnown, onExit }: Props) {
   const [queue, setQueue] = useState<QueueItem[]>(plan.items);
   const [index, setIndex] = useState(0);
   const [phase, setPhase] = useState<Phase>('question');
@@ -118,6 +119,17 @@ export function Session({ deck, progress, plan, onAnswer, onExit }: Props) {
     setIndex(index + 1);
   };
 
+  const markKnown = () => {
+    if (item.type !== 'intro') return;
+    const { id } = item.word;
+    onKnown(item.word);
+    // Слово уходит целиком: за знакомством в очереди стоит его первая карточка,
+    // и показывать её после «уже знаю» было бы издевательством.
+    const next = queue.filter((q, i) => i <= index || q.word.id !== id);
+    setQueue(next);
+    setIndex(index + 1);
+  };
+
   const submitRating = (rating: Rating) => {
     if (item.type !== 'card') return;
     const ms = Date.now() - startedAt.current;
@@ -166,7 +178,12 @@ export function Session({ deck, progress, plan, onAnswer, onExit }: Props) {
       </header>
 
       {item.type === 'intro' ? (
-        <Intro word={item.word} rate={progress.settings.ttsRate} onNext={() => setIndex(index + 1)} />
+        <Intro
+          word={item.word}
+          rate={progress.settings.ttsRate}
+          onNext={() => setIndex(index + 1)}
+          onKnown={markKnown}
+        />
       ) : (
         <div className="card-area">
           <div className="kind-tag">
@@ -318,7 +335,9 @@ const GRADE_LABEL: Record<number, string> = {
   [Rating.Easy]: 'Легко',
 };
 
-function Intro({ word, rate, onNext }: { word: Word; rate: number; onNext: () => void }) {
+function Intro({
+  word, rate, onNext, onKnown,
+}: { word: Word; rate: number; onNext: () => void; onKnown: () => void }) {
   useEffect(() => {
     if (canAutoSpeak()) speak(spokenForm(word), rate);
     return stopSpeaking;
@@ -333,6 +352,9 @@ function Intro({ word, rate, onNext }: { word: Word; rate: number; onNext: () =>
       </div>
       <WordDetails word={word} rate={rate} expanded />
       <button className="btn primary wide" onClick={onNext}>Понятно</button>
+      {/* Тому, кто уже говорит на языке, половина новых слов знакома.
+          Отметить и не возвращаться дешевле, чем прогонять их лестницей. */}
+      <button className="btn wide" onClick={onKnown}>Уже знаю это слово</button>
     </div>
   );
 }

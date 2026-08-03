@@ -276,6 +276,10 @@ code { background: var(--surface-2); padding: 1px 5px; border-radius: 4px; font-
 .summary { display: grid; place-content: center; gap: 14px; text-align: center; height: 100%; padding: 24px; }
 .big-number { font-size: 3.4rem; font-weight: 700; color: var(--accent); }
 
+/* Шапка списка слов: счётчик слева, массовое действие справа. */
+.list-head { display: flex; align-items: center; justify-content: space-between; gap: 10px; }
+.small-btn { padding: 5px 10px; font-size: .8rem; white-space: nowrap; }
+
 /* ─── Ввод ответа ───────────────────────────────────────── */
 
 .typing-actions { display: flex; gap: 8px; margin-top: 8px; }

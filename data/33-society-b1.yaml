@@ -1,0 +1,267 @@
+topic: Общество и государство
+words:
+  - en: administration
+    ru: администрация
+    pos: noun
+  - en: authority
+    ru: власть, инстанция
+    pos: noun
+  - en: agent
+    ru: агент
+    pos: noun
+  - en: agreement
+    ru: соглашение
+    pos: noun
+  - en: campaign
+    ru: кампания
+    pos: noun
+  - en: candidate
+    ru: кандидат
+    pos: noun
+  - en: election
+    ru: выборы
+    pos: noun
+  - en: politician
+    ru: политик
+    pos: noun
+  - en: political
+    ru: политический
+    pos: adj
+    gradable: false
+  - en: politics
+    ru: политика
+    pos: noun
+    uncountable: true
+  - en: policy
+    ru: курс, политика организации
+    pos: noun
+  - en: nation
+    ru: нация
+    pos: noun
+  - en: native
+    ru: коренной, родной
+    pos: adj
+    gradable: false
+  - en: immigrant
+    ru: иммигрант
+    pos: noun
+  - en: union
+    ru: союз, профсоюз
+    pos: noun
+  - en: court
+    ru: суд
+    pos: noun
+  - en: legal
+    ru: законный
+    pos: adj
+    gradable: false
+  - en: illegal
+    ru: незаконный
+    pos: adj
+    gradable: false
+  - en: guilty
+    ru: виновный
+    pos: adj
+  - en: innocent
+    ru: невиновный
+    pos: adj
+    gradable: false
+  - en: prisoner
+    ru: заключённый
+    pos: noun
+  - en: punishment
+    ru: наказание
+    pos: noun
+  - en: victim
+    ru: жертва
+    pos: noun
+  - en: enemy
+    ru: враг
+    pos: noun
+  - en: battle
+    ru: сражение
+    pos: noun
+  - en: fighting
+    ru: боевые действия
+    pos: noun
+    uncountable: true
+  - en: weapon
+    ru: оружие
+    pos: noun
+  - en: bomb
+    ru: бомба
+    pos: noun
+  - en: guard
+    ru: охранник
+    pos: noun
+  - en: security
+    ru: безопасность, охрана
+    pos: noun
+    uncountable: true
+  - en: safety
+    ru: безопасность (отсутствие риска)
+    pos: noun
+    uncountable: true
+  - en: emergency
+    ru: чрезвычайная ситуация
+    pos: noun
+  - en: border
+    ru: граница
+    pos: noun
+  - en: district
+    ru: округ
+    pos: noun
+  - en: countryside
+    ru: сельская местность
+    pos: noun
+    uncountable: true
+  - en: port
+    ru: порт
+    pos: noun
+  - en: highway
+    ru: шоссе
+    pos: noun
+  - en: path
+    ru: тропа
+    pos: noun
+  - en: entrance
+    ru: вход
+    pos: noun
+  - en: exit
+    ru: выход
+    pos: noun
+  - en: garage
+    ru: гараж
+    pos: noun
+  - en: fence
+    ru: забор
+    pos: noun
+  - en: ceiling
+    ru: потолок
+    pos: noun
+  - en: cupboard
+    ru: шкафчик
+    pos: noun
+  - en: curtain
+    ru: штора
+    pos: noun
+  - en: shelf
+    ru: полка
+    pos: noun
+    forms:
+      plural: shelves
+  - en: stadium
+    ru: стадион
+    pos: noun
+  - en: studio
+    ru: студия
+    pos: noun
+  - en: laboratory
+    ru: лаборатория (полное слово)
+    pos: noun
+  - en: religion
+    ru: религия
+    pos: noun
+  - en: religious
+    ru: религиозный
+    pos: adj
+  - en: priest
+    ru: священник
+    pos: noun
+  - en: ceremony
+    ru: церемония
+    pos: noun
+  - en: celebration
+    ru: празднование
+    pos: noun
+  - en: marriage
+    ru: брак
+    pos: noun
+  - en: bride
+    ru: невеста
+    pos: noun
+  - en: gentleman
+    ru: джентльмен
+    pos: noun
+    irregular: true
+    forms:
+      plural: gentlemen
+  - en: servant
+    ru: слуга
+    pos: noun
+  - en: slave
+    ru: раб
+    pos: noun
+  - en: royal
+    ru: королевский
+    pos: adj
+    gradable: false
+  - en: prince
+    ru: принц
+    pos: noun
+  - en: princess
+    ru: принцесса
+    pos: noun
+  - en: captain
+    ru: капитан
+    pos: noun
+  - en: sailor
+    ru: моряк
+    pos: noun
+  - en: host
+    ru: хозяин, ведущий
+    pos: noun
+  - en: client
+    ru: клиент
+    pos: noun
+  - en: consumer
+    ru: потребитель
+    pos: noun
+  - en: competitor
+    ru: конкурент
+    pos: noun
+  - en: supporter
+    ru: сторонник
+    pos: noun
+  - en: organizer
+    ru: организатор
+    pos: noun
+  - en: photographer
+    ru: фотограф
+    pos: noun
+  - en: editor
+    ru: редактор
+    pos: noun
+  - en: producer
+    ru: продюсер
+    pos: noun
+  - en: poet
+    ru: поэт
+    pos: noun
+  - en: stranger
+    ru: незнакомец
+    pos: noun
+  - en: youth
+    ru: молодёжь, юность
+    pos: noun
+    uncountable: true
+  - en: childhood
+    ru: детство
+    pos: noun
+  - en: generation
+    ru: поколение
+    pos: noun
+  - en: identity
+    ru: личность (кто ты)
+    pos: noun
+  - en: friendship
+    ru: дружба
+    pos: noun
+  - en: poverty
+    ru: бедность
+    pos: noun
+    uncountable: true
+  - en: luxury
+    ru: роскошь
+    pos: noun
+    uncountable: true

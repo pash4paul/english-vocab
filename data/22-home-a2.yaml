@@ -1,0 +1,173 @@
+topic: Дом и вещи
+words:
+  - en: furniture
+    ru: мебель
+    pos: noun
+    uncountable: true
+  - en: carpet
+    ru: ковёр
+    pos: noun
+  - en: closet
+    ru: шкаф встроенный
+    pos: noun
+  - en: lamp
+    ru: лампа
+    pos: noun
+  - en: mirror
+    ru: зеркало
+    pos: noun
+  - en: oven
+    ru: духовка
+    pos: noun
+  - en: stove
+    ru: плита (кухонная)
+    pos: noun
+  - en: refrigerator
+    ru: холодильник
+    pos: noun
+  - en: towel
+    ru: полотенце
+    pos: noun
+  - en: soap
+    ru: мыло
+    pos: noun
+    uncountable: true
+  - en: button
+    ru: кнопка, пуговица
+    pos: noun
+  - en: knife
+    ru: нож
+    pos: noun
+    forms:
+      plural: knives
+  - en: fork
+    ru: вилка
+    pos: noun
+  - en: spoon
+    ru: ложка
+    pos: noun
+  - en: plate
+    ru: тарелка
+    pos: noun
+  - en: bowl
+    ru: миска
+    pos: noun
+  - en: garbage
+    ru: мусор
+    pos: noun
+    uncountable: true
+  - en: trash
+    ru: отходы
+    pos: noun
+    uncountable: true
+  - en: washing
+    ru: стирка
+    pos: noun
+    uncountable: true
+  - en: hall
+    ru: холл, зал
+    pos: noun
+  - en: stair
+    ru: ступенька
+    pos: noun
+  - en: roof
+    ru: крыша
+    pos: noun
+    forms:
+      plural: roofs
+  - en: gate
+    ru: ворота
+    pos: noun
+  - en: hole
+    ru: дыра
+    pos: noun
+  - en: block
+    ru: квартал, блок
+    pos: noun
+  - en: corner
+    ru: угол
+    pos: noun
+    example: The store is on the corner of my street.
+    exampleRu: Магазин на углу моей улицы.
+  - en: middle
+    ru: середина
+    pos: noun
+  - en: side
+    ru: сторона
+    pos: noun
+  - en: top
+    ru: верх
+    pos: noun
+  - en: bottom
+    ru: низ
+    pos: noun
+  - en: shape
+    ru: форма (очертание)
+    pos: noun
+  - en: size
+    ru: размер
+    pos: noun
+  - en: pocket
+    ru: карман
+    pos: noun
+  - en: belt
+    ru: ремень
+    pos: noun
+  - en: sock
+    ru: носок
+    pos: noun
+  - en: sneaker
+    ru: кроссовок
+    pos: noun
+  - en: suit
+    ru: костюм
+    pos: noun
+  - en: uniform
+    ru: форменная одежда
+    pos: noun
+  - en: clothing
+    ru: предметы одежды
+    pos: noun
+    uncountable: true
+  - en: jewelry
+    ru: украшения
+    pos: noun
+    uncountable: true
+  - en: ring
+    ru: кольцо
+    pos: noun
+  - en: gift
+    ru: подарок
+    pos: noun
+  - en: toy
+    ru: игрушка
+    pos: noun
+  - en: material
+    ru: материал
+    pos: noun
+  - en: metal
+    ru: металл
+    pos: noun
+  - en: plastic
+    ru: пластик
+    pos: noun
+    uncountable: true
+  - en: wood
+    ru: древесина
+    pos: noun
+    uncountable: true
+  - en: wooden
+    ru: деревянный
+    pos: adj
+    gradable: false
+  - en: gold
+    ru: золото
+    pos: noun
+    uncountable: true
+  - en: silver
+    ru: серебро
+    pos: noun
+    uncountable: true
+  - en: stone
+    ru: камень
+    pos: noun

@@ -1,0 +1,186 @@
+topic: Наречия и связки
+words:
+  - en: actually
+    ru: на самом деле
+    pos: adv
+    example: Actually, I have never been there.
+    exampleRu: На самом деле я там никогда не был.
+  - en: almost
+    ru: почти
+    pos: adv
+  - en: already
+    ru: уже
+    pos: adv
+  - en: alone
+    ru: в одиночку
+    pos: adv
+  - en: along
+    ru: вдоль
+    pos: prep
+  - en: among
+    ru: среди
+    pos: prep
+  - en: although
+    ru: хотя
+    pos: conj
+  - en: against
+    ru: против
+    pos: prep
+  - en: anymore
+    ru: больше не
+    pos: adv
+  - en: anyway
+    ru: в любом случае
+    pos: adv
+  - en: anywhere
+    ru: где угодно
+    pos: adv
+  - en: somewhere
+    ru: где-то
+    pos: adv
+  - en: nowhere
+    ru: нигде
+    pos: adv
+  - en: everywhere
+    ru: везде
+    pos: adv
+  - en: badly
+    ru: плохо
+    pos: adv
+  - en: certainly
+    ru: несомненно
+    pos: adv
+  - en: clearly
+    ru: чётко, явно
+    pos: adv
+  - en: completely
+    ru: полностью
+    pos: adv
+  - en: correctly
+    ru: правильно
+    pos: adv
+  - en: definitely
+    ru: точно, определённо
+    pos: adv
+  - en: differently
+    ru: иначе
+    pos: adv
+  - en: easily
+    ru: легко
+    pos: adv
+  - en: especially
+    ru: особенно
+    pos: adv
+  - en: exactly
+    ru: в точности
+    pos: adv
+  - en: extremely
+    ru: чрезвычайно
+    pos: adv
+  - en: finally
+    ru: наконец
+    pos: adv
+  - en: fortunately
+    ru: к счастью
+    pos: adv
+  - en: unfortunately
+    ru: к сожалению
+    pos: adv
+  - en: forward
+    ru: вперёд
+    pos: adv
+  - en: happily
+    ru: радостно
+    pos: adv
+  - en: immediately
+    ru: немедленно
+    pos: adv
+  - en: instead
+    ru: вместо этого
+    pos: adv
+  - en: least
+    ru: меньше всего
+    pos: adv
+  - en: less
+    ru: меньше
+    pos: adv
+  - en: loudly
+    ru: громко
+    pos: adv
+  - en: quietly
+    ru: тихо
+    pos: adv
+  - en: slowly
+    ru: медленно
+    pos: adv
+  - en: sadly
+    ru: печально
+    pos: adv
+  - en: mostly
+    ru: в основном
+    pos: adv
+  - en: nearly
+    ru: чуть не, почти
+    pos: adv
+  - en: normally
+    ru: обычно (как правило)
+    pos: adv
+  - en: perhaps
+    ru: возможно
+    pos: adv
+  - en: rather
+    ru: скорее, довольно
+    pos: adv
+  - en: recently
+    ru: недавно
+    pos: adv
+  - en: suddenly
+    ru: внезапно
+    pos: adv
+  - en: yet
+    ru: ещё не, всё же
+    pos: adv
+  - en: while
+    ru: пока, в то время как
+    pos: conj
+  - en: since
+    ru: с тех пор как
+    pos: conj
+  - en: except
+    ru: кроме
+    pos: prep
+  - en: including
+    ru: включая
+    pos: prep
+  - en: inside
+    ru: внутри
+    pos: prep
+  - en: onto
+    ru: на (поверх, с движением)
+    pos: prep
+  - en: toward
+    ru: по направлению к
+    pos: prep
+  - en: per
+    ru: за (единицу)
+    pos: prep
+  - en: according to
+    ru: согласно
+    pos: prep
+  - en: used to
+    ru: раньше бывало
+    pos: modal
+    note: 'Про прошлую привычку: I used to smoke'
+  - en: might
+    ru: может быть (предположение)
+    pos: modal
+  - en: all right
+    ru: нормально, ладно
+    pos: adj
+    gradable: false
+  - en: ah
+    ru: а (возглас)
+    pos: exclam
+  - en: wow
+    ru: ух ты
+    pos: exclam

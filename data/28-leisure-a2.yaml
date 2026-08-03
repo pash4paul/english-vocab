@@ -1,0 +1,246 @@
+topic: Досуг и увлечения
+words:
+  - en: adventure
+    ru: приключение
+    pos: noun
+  - en: audience
+    ru: зрители
+    pos: noun
+  - en: comedy
+    ru: комедия
+    pos: noun
+  - en: drama
+    ru: драма
+    pos: noun
+  - en: cartoon
+    ru: мультфильм
+    pos: noun
+  - en: film
+    ru: кинокартина
+    pos: noun
+  - en: scene
+    ru: сцена (эпизод)
+    pos: noun
+  - en: stage
+    ru: сцена (площадка)
+    pos: noun
+  - en: recording
+    ru: запись (аудио)
+    pos: noun
+  - en: singing
+    ru: пение
+    pos: noun
+    uncountable: true
+  - en: musician
+    ru: музыкант
+    pos: noun
+  - en: musical
+    ru: музыкальный
+    pos: adj
+    gradable: false
+  - en: classical
+    ru: классический
+    pos: adj
+    gradable: false
+  - en: jazz
+    ru: джаз
+    pos: noun
+    uncountable: true
+  - en: pop
+    ru: поп-музыка
+    pos: noun
+    uncountable: true
+  - en: speaker
+    ru: выступающий, динамик
+    pos: noun
+  - en: listener
+    ru: слушатель
+    pos: noun
+  - en: drawing
+    ru: рисунок
+    pos: noun
+  - en: fashion
+    ru: мода
+    pos: noun
+    uncountable: true
+  - en: joke
+    ru: шутка
+    pos: noun
+  - en: prize
+    ru: приз
+    pos: noun
+  - en: award
+    ru: награда
+    pos: noun
+  - en: winner
+    ru: победитель
+    pos: noun
+  - en: runner
+    ru: бегун
+    pos: noun
+  - en: athlete
+    ru: спортсмен
+    pos: noun
+  - en: coach
+    ru: тренер
+    pos: noun
+  - en: competition
+    ru: соревнование
+    pos: noun
+  - en: soccer
+    ru: футбол
+    pos: noun
+    uncountable: true
+  - en: hockey
+    ru: хоккей
+    pos: noun
+    uncountable: true
+  - en: golf
+    ru: гольф
+    pos: noun
+    uncountable: true
+  - en: running
+    ru: бег
+    pos: noun
+    uncountable: true
+  - en: skiing
+    ru: катание на лыжах
+    pos: noun
+    uncountable: true
+  - en: sailing
+    ru: парусный спорт
+    pos: noun
+    uncountable: true
+  - en: fishing
+    ru: рыбалка
+    pos: noun
+    uncountable: true
+  - en: camping
+    ru: поход с палаткой
+    pos: noun
+    uncountable: true
+  - en: driving
+    ru: вождение
+    pos: noun
+    uncountable: true
+  - en: smoking
+    ru: курение
+    pos: noun
+    uncountable: true
+  - en: crowd
+    ru: толпа
+    pos: noun
+  - en: fan
+    ru: болельщик, поклонник
+    pos: noun
+  - en: dream
+    ru: мечта, сон
+    pos: noun
+  - en: invitation
+    ru: приглашение
+    pos: noun
+  - en: reception
+    ru: приём, стойка регистрации
+    pos: noun
+  - en: seat
+    ru: место (сидячее)
+    pos: noun
+  - en: service
+    ru: обслуживание
+    pos: noun
+  - en: recipe
+    ru: рецепт
+    pos: noun
+  - en: sauce
+    ru: соус
+    pos: noun
+  - en: dessert
+    ru: десерт
+    pos: noun
+  - en: candy
+    ru: конфета
+    pos: noun
+  - en: cookie
+    ru: печенье
+    pos: noun
+  - en: chip
+    ru: чипсы, ломтик
+    pos: noun
+  - en: nut
+    ru: орех
+    pos: noun
+  - en: bean
+    ru: фасоль
+    pos: noun
+  - en: beef
+    ru: говядина
+    pos: noun
+    uncountable: true
+  - en: lemon
+    ru: лимон
+    pos: noun
+  - en: jam
+    ru: варенье
+    pos: noun
+    uncountable: true
+  - en: grocery
+    ru: продуктовый магазин
+    pos: noun
+  - en: chef
+    ru: шеф-повар
+    pos: noun
+    forms:
+      plural: chefs
+  - en: taste
+    ru: вкус
+    pos: noun
+  - en: cigarette
+    ru: сигарета
+    pos: noun
+  - en: drug
+    ru: лекарственное средство
+    pos: noun
+  - en: detective
+    ru: детектив (сыщик)
+    pos: noun
+  - en: director
+    ru: режиссёр, директор
+    pos: noun
+  - en: instructor
+    ru: инструктор
+    pos: noun
+  - en: pilot
+    ru: пилот
+    pos: noun
+  - en: leader
+    ru: лидер
+    pos: noun
+  - en: background
+    ru: фон, происхождение
+    pos: noun
+  - en: appearance
+    ru: внешность
+    pos: noun
+  - en: tradition
+    ru: традиция
+    pos: noun
+  - en: traditional
+    ru: традиционный
+    pos: adj
+    gradable: false
+  - en: disaster
+    ru: катастрофа
+    pos: noun
+  - en: advertisement
+    ru: рекламное объявление
+    pos: noun
+  - en: advertising
+    ru: реклама (отрасль)
+    pos: noun
+    uncountable: true
+  - en: ending
+    ru: концовка
+    pos: noun
+  - en: field
+    ru: поле
+    pos: noun

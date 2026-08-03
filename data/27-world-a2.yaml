@@ -1,0 +1,228 @@
+topic: Мир вокруг
+words:
+  - en: earth
+    ru: Земля (планета)
+    pos: noun
+    uncountable: true
+  - en: planet
+    ru: планета
+    pos: noun
+  - en: moon
+    ru: луна
+    pos: noun
+  - en: sky
+    ru: небо
+    pos: noun
+  - en: cloud
+    ru: облако
+    pos: noun
+  - en: storm
+    ru: буря
+    pos: noun
+  - en: wind
+    ru: ветер
+    pos: noun
+  - en: wave
+    ru: волна
+    pos: noun
+  - en: sea
+    ru: море
+    pos: noun
+  - en: coast
+    ru: побережье
+    pos: noun
+  - en: lake
+    ru: озеро
+    pos: noun
+  - en: hill
+    ru: холм
+    pos: noun
+  - en: valley
+    ru: долина
+    pos: noun
+  - en: desert
+    ru: пустыня
+    pos: noun
+  - en: forest
+    ru: лес
+    pos: noun
+  - en: grass
+    ru: трава
+    pos: noun
+    uncountable: true
+  - en: ground
+    ru: земля (поверхность)
+    pos: noun
+    uncountable: true
+  - en: climate
+    ru: климат
+    pos: noun
+  - en: temperature
+    ru: температура
+    pos: noun
+  - en: pollution
+    ru: загрязнение
+    pos: noun
+    uncountable: true
+  - en: environment
+    ru: окружающая среда
+    pos: noun
+  - en: energy
+    ru: энергия
+    pos: noun
+    uncountable: true
+  - en: electricity
+    ru: электричество
+    pos: noun
+    uncountable: true
+  - en: gas
+    ru: газ, бензин
+    pos: noun
+    uncountable: true
+  - en: oil
+    ru: масло растительное, нефть
+    pos: noun
+    uncountable: true
+  - en: farming
+    ru: сельское хозяйство
+    pos: noun
+    uncountable: true
+  - en: bear
+    ru: медведь
+    pos: noun
+  - en: monkey
+    ru: обезьяна
+    pos: noun
+  - en: frog
+    ru: лягушка
+    pos: noun
+  - en: spider
+    ru: паук
+    pos: noun
+  - en: insect
+    ru: насекомое
+    pos: noun
+  - en: pet
+    ru: домашнее животное
+    pos: noun
+  - en: rock
+    ru: скала, камень крупный
+    pos: noun
+  - en: season
+    ru: время года
+    pos: noun
+  - en: engine
+    ru: двигатель
+    pos: noun
+  - en: device
+    ru: устройство
+    pos: noun
+  - en: equipment
+    ru: оборудование
+    pos: noun
+    uncountable: true
+  - en: instrument
+    ru: инструмент (музыкальный, точный)
+    pos: noun
+  - en: tool
+    ru: инструмент (рабочий)
+    pos: noun
+  - en: technology
+    ru: технология
+    pos: noun
+  - en: laptop
+    ru: ноутбук
+    pos: noun
+  - en: tablet
+    ru: планшет
+    pos: noun
+  - en: smartphone
+    ru: смартфон
+    pos: noun
+  - en: printer
+    ru: принтер
+    pos: noun
+  - en: screen
+    ru: экран
+    pos: noun
+  - en: app
+    ru: приложение (программа)
+    pos: noun
+  - en: web
+    ru: сеть (веб)
+    pos: noun
+    uncountable: true
+  - en: site
+    ru: площадка, сайт (место)
+    pos: noun
+  - en: code
+    ru: код
+    pos: noun
+  - en: network
+    ru: сеть (соединение)
+    pos: noun
+  - en: virus
+    ru: вирус
+    pos: noun
+  - en: cell
+    ru: клетка, ячейка
+    pos: noun
+  - en: user
+    ru: пользователь
+    pos: noun
+  - en: profile
+    ru: профиль
+    pos: noun
+  - en: mail
+    ru: почта
+    pos: noun
+    uncountable: true
+  - en: wheel
+    ru: колесо
+    pos: noun
+  - en: board
+    ru: доска
+    pos: noun
+  - en: sheet
+    ru: лист
+    pos: noun
+  - en: column
+    ru: колонка, столбец
+    pos: noun
+  - en: poster
+    ru: плакат
+    pos: noun
+  - en: stamp
+    ru: марка почтовая
+    pos: noun
+  - en: step
+    ru: шаг
+    pos: noun
+  - en: gap
+    ru: пробел, промежуток
+    pos: noun
+  - en: speed
+    ru: скорость
+    pos: noun
+  - en: kilometer
+    ru: километр
+    pos: noun
+  - en: penny
+    ru: пенни
+    pos: noun
+  - en: ship
+    ru: корабль
+    pos: noun
+  - en: airline
+    ru: авиакомпания
+    pos: noun
+  - en: race
+    ru: гонка
+    pos: noun
+  - en: architecture
+    ru: архитектура
+    pos: noun
+    uncountable: true
+  - en: god
+    ru: бог
+    pos: noun

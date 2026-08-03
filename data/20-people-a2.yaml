@@ -1,0 +1,148 @@
+topic: Люди и семья
+words:
+  - en: guy
+    ru: парень (о человеке вообще)
+    pos: noun
+  - en: kid
+    ru: ребёнок (разговорно)
+    pos: noun
+  - en: lady
+    ru: дама
+    pos: noun
+  - en: guest
+    ru: гость
+    pos: noun
+  - en: couple
+    ru: пара (двое)
+    pos: noun
+  - en: twin
+    ru: близнец
+    pos: noun
+  - en: human
+    ru: человек (как вид)
+    pos: noun
+  - en: individual
+    ru: отдельный человек
+    pos: noun
+  - en: male
+    ru: мужского пола
+    pos: adj
+    gradable: false
+  - en: female
+    ru: женского пола
+    pos: adj
+    gradable: false
+  - en: personality
+    ru: характер, личность
+    pos: noun
+  - en: hero
+    ru: герой
+    pos: noun
+    forms:
+      plural: heroes
+  - en: celebrity
+    ru: знаменитость
+    pos: noun
+  - en: king
+    ru: король
+    pos: noun
+  - en: queen
+    ru: королева
+    pos: noun
+  - en: sir
+    ru: сэр (обращение)
+    pos: noun
+  - en: owner
+    ru: владелец
+    pos: noun
+  - en: wedding
+    ru: свадьба
+    pos: noun
+  - en: marry
+    ru: жениться, выходить замуж
+    pos: verb
+    example: They married in the spring.
+    exampleRu: Они поженились весной.
+  - en: divorced
+    ru: разведённый
+    pos: adj
+    gradable: false
+  - en: birth
+    ru: рождение
+    pos: noun
+  - en: death
+    ru: смерть
+    pos: noun
+  - en: dead
+    ru: мёртвый
+    pos: adj
+    gradable: false
+  - en: alive
+    ru: живой
+    pos: adj
+    gradable: false
+  - en: teenage
+    ru: подростковый
+    pos: adj
+    gradable: false
+  - en: behave
+    ru: вести себя
+    pos: verb
+  - en: behavior
+    ru: поведение
+    pos: noun
+    uncountable: true
+  - en: habit
+    ru: привычка
+    pos: noun
+  - en: manner
+    ru: манера
+    pos: noun
+  - en: lifestyle
+    ru: образ жизни
+    pos: noun
+  - en: myself
+    ru: себя, сам (о себе)
+    pos: pron
+  - en: herself
+    ru: себя, сама (о ней)
+    pos: pron
+  - en: himself
+    ru: себя, сам (о нём)
+    pos: pron
+  - en: itself
+    ru: себя (о предмете)
+    pos: pron
+  - en: ourselves
+    ru: себя, сами (о нас)
+    pos: pron
+  - en: themselves
+    ru: себя, сами (о них)
+    pos: pron
+  - en: mine
+    ru: мой (без существительного)
+    pos: pron
+  - en: yours
+    ru: твой (без существительного)
+    pos: pron
+  - en: hers
+    ru: её (без существительного)
+    pos: pron
+  - en: anybody
+    ru: кто угодно
+    pos: pron
+  - en: none
+    ru: ни один
+    pos: pron
+  - en: neither
+    ru: ни тот ни другой
+    pos: det
+  - en: either
+    ru: любой из двух
+    pos: det
+  - en: several
+    ru: несколько (немало)
+    pos: det
+  - en: such
+    ru: такой
+    pos: det

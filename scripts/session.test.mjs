@@ -115,6 +115,23 @@ eq(formCards.length, 1, 'осталась одна карточка форм —
 eq(formCards[0].word.id, 'child:noun', 'и это не неисчисляемое слово');
 eq(formCards[0].cell, 'plural', 'спрашивается именно множественное число');
 
+console.log('Отмеченное «уже знаю» слово не попадает в занятие');
+const knownPlan = buildSession(
+  { version: 1, builtFrom: [], topics: ['Люди', 'Еда'], levels: ['A1'], words: [noun, water] },
+  {
+    version: 1,
+    cards: { 'child:noun|forms': stale('child:noun') },
+    known: { 'child:noun': '2026-08-03T10:00:00.000Z' },
+    reviews: [], days: {}, settings: { ...DEFAULT_SETTINGS },
+  },
+  new Date('2026-08-03T10:00:00.000Z'),
+  true,
+);
+eq(knownPlan.items.some((i) => i.word.id === 'child:noun'), 'false',
+  'ни просроченная карточка, ни знакомство не показываются');
+eq(knownPlan.items.some((i) => i.word.id === 'water:noun'), 'true',
+  'остальные слова учатся как раньше');
+
 console.log('Новые слова идут по уровням: A1 раньше B1');
 const later = { ...noun, id: 'issue:noun', en: 'issue', ru: 'вопрос', level: 'B1', forms: { plural: 'issues' }, example: undefined };
 const fresh = buildSession(

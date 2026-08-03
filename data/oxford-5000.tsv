@@ -1452,7 +1452,7 @@ pay	n.	A2
 peace	n.	A2		
 penny	n.	A2		
 per	prep.	A2		
-percent noun	adj./adv.	A2		
+percent	n.	A2		
 perform	v.	A2		
 perhaps	adv.	A2		
 permission	n.	A2		
@@ -1755,7 +1755,7 @@ wide	adj.	A2
 wild	adj.	A2		
 wind	n.	A2		1
 winner	n.	A2		
-wish v	n.	A2		
+wish	v., n.	A2		
 wood	n.	A2		
 wooden	adj.	A2		
 working	adj.	A2		
@@ -2606,7 +2606,6 @@ additionally	adv.	B2
 address	v.	B2		
 adequate	adj.	B2		
 adequately	adv.	B2		
-adjtemple	n.	B2		
 adjust	v.	B2		
 adopt	v.	B2		
 advance	n., v., adj.	B2		
@@ -3051,9 +3050,10 @@ excuse	n., v.	B2
 executive	n., adj.	B2		
 exhibit	v., n.	B2		
 existence	n.	B2		
-exit vexpectation	n.	B2		
+exit	v.	B2		
 exotic	adj.	B2		
 expansion	n.	B2		
+expectation	n.	B2		
 expedition	n.	B2		
 expense	n.	B2		
 expertise	n.	B2		
@@ -3859,6 +3859,7 @@ tear	v., n.	B2		1
 tear	n.	B2		2
 technological	adj.	B2		
 teen	n.	B2		
+temple	n.	B2		
 temporarily	adv.	B2		
 temporary	adj.	B2		
 tendency	n.	B2		
@@ -4949,10 +4950,6 @@ punch	n., v.	C1
 query	n.	C1		
 quest	n.	C1		
 quota	n.	C1		
-r epresentation	n.	C1		
-r esidential	adj.	C1		
-r esignation	n.	C1		
-r esistance	n.	C1		
 radar	n.	C1		
 radical	adj.	C1		
 rage	n.	C1		
@@ -4963,9 +4960,6 @@ rape	n., v.	C1
 ratio	n.	C1		
 rational	adj.	C1		
 ray	n.	C1		
-re nowned	adj.	C1		
-re placement	n.	C1		
-re vival	n.	C1		
 readily	adv.	C1		
 realization	n.	C1		
 realm	n.	C1		
@@ -5001,14 +4995,20 @@ reminder	n.	C1
 removal	n.	C1		
 render	v.	C1		
 renew	v.	C1		
+renowned	adj.	C1		
+replacement	n.	C1		
 reportedly	adv.	C1		
+representation	n.	C1		
 reproduce	v.	C1		
 reproduction	n.	C1		
 republic	n.	C1		
-res ide	v.	C1		
 resemble	v.	C1		
-residen ce	n.	C1		
+reside	v.	C1		
+residence	n.	C1		
+residential	adj.	C1		
 residue	n.	C1		
+resignation	n.	C1		
+resistance	n.	C1		
 respective	adj.	C1		
 respectively	adv.	C1		
 restoration	n.	C1		
@@ -5016,9 +5016,10 @@ restraint	n.	C1
 resume	v.	C1		
 retreat	n., v.	C1		
 retrieve	v.	C1		
-rev erse	v., n., adj.	C1		
-reve nge	n.	C1		
 revelation	n.	C1		
+revenge	n.	C1		
+reverse	v., n., adj.	C1		
+revival	n.	C1		
 revive	v.	C1		
 revolutionary	adj.	C1		
 rhetoric	n.	C1		
@@ -5035,17 +5036,16 @@ rotate	v.	C1
 rotation	n.	C1		
 ruling	n.	C1		
 rumor	n.	C1		
-s cope	n.	C1		
-sa nction	n.	C1		
-sa y	n.	C1		
 sacred	adj.	C1		
 sacrifice	n., v.	C1		
 saint	n.	C1		
 sake	n.	C1		
+sanction	n.	C1		
+say	n.	C1		
 scattered	adj.	C1		
+scope	n.	C1		
 screw	v., n.	C1		
 scrutiny	n.	C1		
-se rial	adj.	C1		
 seal	v., n.	C1		
 secondly	adv.	C1		
 secular	adj.	C1		
@@ -5056,10 +5056,11 @@ sensation	n.	C1
 sensitivity	n.	C1		
 sentiment	n.	C1		
 separation	n.	C1		
+serial	adj.	C1		
 settlement	n.	C1		
 setup	n.	C1		
 sexuality	n.	C1		
-sharehol der	n.	C1		
+shareholder	n.	C1		
 shatter	v.	C1		
 shed	v.	C1		
 sheer	adj.	C1		

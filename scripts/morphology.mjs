@@ -66,21 +66,24 @@ function attach(word, suffix) {
  */
 export function pluralize(noun) {
   const parts = noun.trim().split(/\s+/);
-  const head = parts.pop().toLowerCase();
+  const head = parts.pop();
   const rest = parts.length ? parts.join(' ') + ' ' : '';
   const done = (form) => ({ form: rest + form });
+  // Решения принимаем по строчным буквам, а форму строим из исходного слова:
+  // иначе Monday превращается в mondays, а T-shirt — в t-shirts.
+  const lower = head.toLowerCase();
 
-  if (/sis$/.test(head)) {
+  if (/sis$/.test(lower)) {
     return { skip: 'слова на -sis берут греческое множественное: analysis → analyses' };
   }
-  if (/(?:[^f]f|fe|lf)$/.test(head)) {
+  if (/(?:[^f]f|fe|lf)$/.test(lower)) {
     return { skip: 'на -f/-fe непредсказуемо: leaf → leaves, но roof → roofs' };
   }
-  if (/[^aeiou]o$/.test(head)) {
+  if (/[^aeiou]o$/.test(lower)) {
     return { skip: 'на согласную + -o непредсказуемо: potato → potatoes, но photo → photos' };
   }
-  if (/(?:s|x|z|ch|sh)$/.test(head)) return done(head + 'es');
-  if (/[^aeiou]y$/.test(head)) return done(head.slice(0, -1) + 'ies');
+  if (/(?:s|x|z|ch|sh)$/.test(lower)) return done(head + 'es');
+  if (/[^aeiou]y$/.test(lower)) return done(head.slice(0, -1) + 'ies');
   return done(head + 's');
 }
 

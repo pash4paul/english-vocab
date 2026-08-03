@@ -1,0 +1,182 @@
+topic: Город и общество
+words:
+  - en: bridge
+    ru: мост
+    pos: noun
+  - en: church
+    ru: церковь
+    pos: noun
+  - en: palace
+    ru: дворец
+    pos: noun
+  - en: tower
+    ru: башня
+    pos: noun
+  - en: gallery
+    ru: галерея
+    pos: noun
+  - en: prison
+    ru: тюрьма
+    pos: noun
+  - en: village
+    ru: деревня
+    pos: noun
+  - en: downtown
+    ru: центр города
+    pos: noun
+  - en: campus
+    ru: кампус
+    pos: noun
+  - en: parking
+    ru: парковка
+    pos: noun
+    uncountable: true
+  - en: elevator
+    ru: лифт
+    pos: noun
+  - en: platform
+    ru: платформа
+    pos: noun
+  - en: railroad
+    ru: железная дорога
+    pos: noun
+  - en: subway
+    ru: метро
+    pos: noun
+  - en: motorcycle
+    ru: мотоцикл
+    pos: noun
+  - en: vehicle
+    ru: транспортное средство
+    pos: noun
+  - en: passenger
+    ru: пассажир
+    pos: noun
+  - en: route
+    ru: маршрут
+    pos: noun
+  - en: track
+    ru: путь, трек
+    pos: noun
+  - en: sign
+    ru: знак, вывеска
+    pos: noun
+  - en: government
+    ru: правительство
+    pos: noun
+  - en: president
+    ru: президент
+    pos: noun
+  - en: mayor
+    ru: мэр
+    pos: noun
+  - en: law
+    ru: закон
+    pos: noun
+  - en: lawyer
+    ru: юрист
+    pos: noun
+  - en: officer
+    ru: офицер, сотрудник
+    pos: noun
+  - en: soldier
+    ru: солдат
+    pos: noun
+  - en: army
+    ru: армия
+    pos: noun
+  - en: war
+    ru: война
+    pos: noun
+  - en: peace
+    ru: мир (не война)
+    pos: noun
+    uncountable: true
+  - en: crime
+    ru: преступление
+    pos: noun
+  - en: criminal
+    ru: преступник
+    pos: noun
+  - en: thief
+    ru: вор
+    pos: noun
+    forms:
+      plural: thieves
+  - en: steal
+    ru: красть
+    pos: verb
+    irregular: true
+  - en: gun
+    ru: оружие (ствол)
+    pos: noun
+  - en: society
+    ru: общество
+    pos: noun
+  - en: community
+    ru: сообщество
+    pos: noun
+  - en: population
+    ru: население
+    pos: noun
+  - en: public
+    ru: общественный
+    pos: adj
+    gradable: false
+  - en: social
+    ru: социальный
+    pos: adj
+    gradable: false
+  - en: national
+    ru: национальный
+    pos: adj
+    gradable: false
+  - en: international
+    ru: международный
+    pos: adj
+    gradable: false
+  - en: united
+    ru: объединённый
+    pos: adj
+    gradable: false
+  - en: charity
+    ru: благотворительность
+    pos: noun
+  - en: state
+    ru: штат, государство
+    pos: noun
+  - en: region
+    ru: регион
+    pos: noun
+  - en: continent
+    ru: континент
+    pos: noun
+  - en: overseas
+    ru: за границей
+    pos: adv
+  - en: foreign
+    ru: иностранный
+    pos: adj
+    gradable: false
+  - en: tourism
+    ru: туризм
+    pos: noun
+    uncountable: true
+  - en: traveler
+    ru: путешественник
+    pos: noun
+  - en: holiday
+    ru: праздник
+    pos: noun
+    example: Monday is a national holiday.
+    exampleRu: Понедельник — государственный праздник.
+  - en: tour
+    ru: экскурсия
+    pos: noun
+  - en: guide
+    ru: гид, путеводитель
+    pos: noun
+  - en: transportation
+    ru: транспорт
+    pos: noun
+    uncountable: true

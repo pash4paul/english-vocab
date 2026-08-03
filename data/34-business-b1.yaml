@@ -1,0 +1,327 @@
+topic: Работа и деньги
+words:
+  - en: account
+    ru: счёт (банковский, учётная запись)
+    pos: noun
+  - en: achievement
+    ru: достижение
+    pos: noun
+  - en: ad
+    ru: объявление (сокращённо)
+    pos: noun
+  - en: addition
+    ru: дополнение
+    pos: noun
+  - en: ambition
+    ru: амбиция, стремление
+    pos: noun
+  - en: application
+    ru: заявление, заявка
+    pos: noun
+  - en: appointment
+    ru: назначенная встреча
+    pos: noun
+  - en: arrival
+    ru: прибытие
+    pos: noun
+  - en: departure
+    ru: отправление
+    pos: noun
+  - en: destination
+    ru: пункт назначения
+    pos: noun
+  - en: journey
+    ru: путешествие (поездка)
+    pos: noun
+  - en: assignment
+    ru: задание
+    pos: noun
+  - en: attitude
+    ru: отношение (к чему-то)
+    pos: noun
+  - en: basis
+    ru: основа
+    pos: noun
+    forms:
+      plural: bases
+  - en: category
+    ru: категория
+    pos: noun
+  - en: challenge
+    ru: сложная задача
+    pos: noun
+  - en: champion
+    ru: чемпион
+    pos: noun
+  - en: chain
+    ru: цепь, сеть заведений
+    pos: noun
+  - en: complaint
+    ru: жалоба
+    pos: noun
+  - en: conclusion
+    ru: вывод
+    pos: noun
+  - en: connection
+    ru: связь (соединение)
+    pos: noun
+  - en: consequence
+    ru: последствие
+    pos: noun
+  - en: comparison
+    ru: сравнение
+    pos: noun
+  - en: contrast
+    ru: противоположность
+    pos: noun
+  - en: currency
+    ru: валюта
+    pos: noun
+  - en: decade
+    ru: десятилетие
+    pos: noun
+  - en: definition
+    ru: определение (толкование)
+    pos: noun
+  - en: development
+    ru: развитие
+    pos: noun
+  - en: difficulty
+    ru: сложность
+    pos: noun
+  - en: disadvantage
+    ru: недостаток
+    pos: noun
+  - en: discount
+    ru: скидка
+    pos: noun
+  - en: duty
+    ru: обязанность
+    pos: noun
+  - en: economy
+    ru: экономика
+    pos: noun
+  - en: economic
+    ru: экономический
+    pos: adj
+    gradable: false
+  - en: effort
+    ru: усилие
+    pos: noun
+  - en: element
+    ru: элемент
+    pos: noun
+  - en: employment
+    ru: занятость
+    pos: noun
+    uncountable: true
+  - en: unemployment
+    ru: безработица
+    pos: noun
+    uncountable: true
+  - en: unemployed
+    ru: безработный
+    pos: adj
+    gradable: false
+  - en: engineering
+    ru: инженерное дело
+    pos: noun
+    uncountable: true
+  - en: entry
+    ru: запись, вход (право)
+    pos: noun
+  - en: file
+    ru: файл, папка
+    pos: noun
+  - en: financial
+    ru: финансовый
+    pos: adj
+    gradable: false
+  - en: function
+    ru: функция
+    pos: noun
+  - en: growth
+    ru: рост
+    pos: noun
+    uncountable: true
+  - en: impact
+    ru: воздействие (сильное)
+    pos: noun
+  - en: importance
+    ru: важность
+    pos: noun
+    uncountable: true
+  - en: impression
+    ru: впечатление
+    pos: noun
+  - en: improvement
+    ru: улучшение
+    pos: noun
+  - en: influence
+    ru: влияние
+    pos: noun
+  - en: intention
+    ru: намерение
+    pos: noun
+  - en: issue
+    ru: вопрос, проблема
+    pos: noun
+  - en: label
+    ru: этикетка
+    pos: noun
+  - en: leading
+    ru: ведущий (главный)
+    pos: adj
+    gradable: false
+  - en: length
+    ru: длина
+    pos: noun
+  - en: location
+    ru: местоположение
+    pos: noun
+  - en: loss
+    ru: потеря
+    pos: noun
+  - en: management
+    ru: управление, руководство
+    pos: noun
+    uncountable: true
+  - en: marketing
+    ru: маркетинг
+    pos: noun
+    uncountable: true
+  - en: operation
+    ru: операция
+    pos: noun
+  - en: package
+    ru: посылка, пакет
+    pos: noun
+  - en: payment
+    ru: платёж
+    pos: noun
+  - en: percentage
+    ru: доля в процентах
+    pos: noun
+  - en: performance
+    ru: выступление, показатели
+    pos: noun
+  - en: planning
+    ru: планирование
+    pos: noun
+    uncountable: true
+  - en: presentation
+    ru: презентация
+    pos: noun
+  - en: pressure
+    ru: давление
+    pos: noun
+    uncountable: true
+  - en: printing
+    ru: печать (процесс)
+    pos: noun
+    uncountable: true
+  - en: production
+    ru: производство
+    pos: noun
+    uncountable: true
+  - en: profession
+    ru: профессия
+    pos: noun
+  - en: profit
+    ru: прибыль
+    pos: noun
+  - en: property
+    ru: собственность
+    pos: noun
+  - en: qualification
+    ru: квалификация
+    pos: noun
+  - en: qualified
+    ru: квалифицированный
+    pos: adj
+    gradable: false
+  - en: quotation
+    ru: цитата
+    pos: noun
+  - en: range
+    ru: диапазон
+    pos: noun
+  - en: reaction
+    ru: реакция
+    pos: noun
+  - en: receipt
+    ru: чек, квитанция
+    pos: noun
+  - en: recommendation
+    ru: рекомендация
+    pos: noun
+  - en: reference
+    ru: упоминание, рекомендация
+    pos: noun
+  - en: relation
+    ru: отношение (связь)
+    pos: noun
+  - en: reservation
+    ru: бронь
+    pos: noun
+  - en: resource
+    ru: ресурс
+    pos: noun
+  - en: responsibility
+    ru: ответственность
+    pos: noun
+  - en: responsible
+    ru: ответственный
+    pos: adj
+    gradable: false
+  - en: sample
+    ru: образец
+    pos: noun
+  - en: setting
+    ru: настройка, обстановка
+    pos: noun
+  - en: software
+    ru: программное обеспечение
+    pos: noun
+    uncountable: true
+  - en: staff
+    ru: персонал
+    pos: noun
+    uncountable: true
+  - en: standard
+    ru: стандарт
+    pos: noun
+  - en: statistic
+    ru: статистический показатель
+    pos: noun
+  - en: summary
+    ru: краткое изложение
+    pos: noun
+  - en: tax
+    ru: налог
+    pos: noun
+  - en: technique
+    ru: приём, методика
+    pos: noun
+  - en: technical
+    ru: технический
+    pos: adj
+    gradable: false
+  - en: trend
+    ru: тенденция
+    pos: noun
+  - en: value
+    ru: ценность, значение
+    pos: noun
+  - en: version
+    ru: версия
+    pos: noun
+  - en: spending
+    ru: расходы
+    pos: noun
+    uncountable: true
+  - en: analysis
+    ru: анализ
+    pos: noun
+    forms:
+      plural: analyses

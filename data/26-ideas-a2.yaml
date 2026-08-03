@@ -1,0 +1,339 @@
+topic: Мысли и понятия
+words:
+  - en: ability
+    ru: способность
+    pos: noun
+  - en: advantage
+    ru: преимущество
+    pos: noun
+  - en: alternative
+    ru: альтернатива
+    pos: noun
+  - en: argument
+    ru: спор, довод
+    pos: noun
+  - en: arrangement
+    ru: договорённость
+    pos: noun
+  - en: attention
+    ru: внимание
+    pos: noun
+    uncountable: true
+  - en: case
+    ru: случай
+    pos: noun
+  - en: chance
+    ru: шанс
+    pos: noun
+  - en: character
+    ru: персонаж, характер
+    pos: noun
+  - en: choice
+    ru: выбор
+    pos: noun
+  - en: comment
+    ru: комментарий
+    pos: noun
+  - en: condition
+    ru: состояние, условие
+    pos: noun
+  - en: context
+    ru: контекст
+    pos: noun
+  - en: decision
+    ru: решение
+    pos: noun
+    example: It was a difficult decision.
+    exampleRu: Это было трудное решение.
+  - en: discussion
+    ru: обсуждение
+    pos: noun
+  - en: distance
+    ru: расстояние
+    pos: noun
+  - en: effect
+    ru: эффект, воздействие
+    pos: noun
+  - en: error
+    ru: погрешность, сбой
+    pos: noun
+  - en: evidence
+    ru: доказательства
+    pos: noun
+    uncountable: true
+  - en: experience
+    ru: опыт
+    pos: noun
+  - en: explanation
+    ru: объяснение
+    pos: noun
+  - en: expression
+    ru: выражение (речи, лица)
+    pos: noun
+  - en: factor
+    ru: фактор
+    pos: noun
+  - en: fear
+    ru: страх
+    pos: noun
+  - en: feature
+    ru: особенность
+    pos: noun
+  - en: figure
+    ru: цифра, фигура
+    pos: noun
+  - en: image
+    ru: образ, изображение
+    pos: noun
+  - en: instruction
+    ru: инструкция
+    pos: noun
+  - en: introduction
+    ru: вступление
+    pos: noun
+  - en: item
+    ru: пункт, единица
+    pos: noun
+  - en: knowledge
+    ru: знания
+    pos: noun
+    uncountable: true
+  - en: level
+    ru: уровень
+    pos: noun
+  - en: link
+    ru: ссылка, связь
+    pos: noun
+  - en: luck
+    ru: везение
+    pos: noun
+    uncountable: true
+  - en: memory
+    ru: память, воспоминание
+    pos: noun
+  - en: method
+    ru: метод
+    pos: noun
+  - en: mind
+    ru: ум, сознание
+    pos: noun
+  - en: movement
+    ru: движение
+    pos: noun
+  - en: option
+    ru: вариант выбора
+    pos: noun
+  - en: pattern
+    ru: закономерность, узор
+    pos: noun
+  - en: permission
+    ru: разрешение
+    pos: noun
+    uncountable: true
+  - en: position
+    ru: положение
+    pos: noun
+  - en: possession
+    ru: владение, вещь
+    pos: noun
+  - en: possibility
+    ru: возможность (вероятность)
+    pos: noun
+  - en: power
+    ru: сила, власть
+    pos: noun
+  - en: process
+    ru: процесс
+    pos: noun
+  - en: purpose
+    ru: цель, назначение
+    pos: noun
+  - en: relationship
+    ru: отношения
+    pos: noun
+  - en: research
+    ru: исследование
+    pos: noun
+    uncountable: true
+  - en: response
+    ru: ответная реакция
+    pos: noun
+  - en: rest
+    ru: остальное
+    pos: noun
+    uncountable: true
+  - en: review
+    ru: обзор, отзыв
+    pos: noun
+  - en: role
+    ru: роль
+    pos: noun
+  - en: secret
+    ru: секрет
+    pos: noun
+  - en: sense
+    ru: чувство, смысл
+    pos: noun
+  - en: series
+    ru: серия, сериал
+    pos: noun
+    irregular: true
+    forms:
+      plural: series
+    note: 'Множественное совпадает с единственным: two series'
+  - en: solution
+    ru: решение (способ)
+    pos: noun
+  - en: sort
+    ru: сорт, вид
+    pos: noun
+  - en: source
+    ru: источник
+    pos: noun
+  - en: speech
+    ru: речь (выступление)
+    pos: noun
+  - en: strategy
+    ru: стратегия
+    pos: noun
+  - en: stress
+    ru: стресс
+    pos: noun
+    uncountable: true
+  - en: structure
+    ru: структура
+    pos: noun
+  - en: suggestion
+    ru: предложение (идея)
+    pos: noun
+  - en: survey
+    ru: опрос
+    pos: noun
+  - en: symbol
+    ru: символ
+    pos: noun
+  - en: system
+    ru: система
+    pos: noun
+  - en: term
+    ru: термин, срок
+    pos: noun
+  - en: thinking
+    ru: мышление
+    pos: noun
+    uncountable: true
+  - en: thought
+    ru: мысль
+    pos: noun
+  - en: tip
+    ru: совет (подсказка)
+    pos: noun
+  - en: trouble
+    ru: неприятность
+    pos: noun
+  - en: understanding
+    ru: понимание
+    pos: noun
+    uncountable: true
+  - en: unit
+    ru: единица (измерения)
+    pos: noun
+  - en: variety
+    ru: разнообразие
+    pos: noun
+  - en: view
+    ru: взгляд, вид
+    pos: noun
+  - en: bit
+    ru: немного, кусочек
+    pos: noun
+  - en: century
+    ru: век
+    pos: noun
+  - en: degree
+    ru: градус, степень
+    pos: noun
+  - en: data
+    ru: данные
+    pos: noun
+    uncountable: true
+  - en: media
+    ru: СМИ
+    pos: noun
+    uncountable: true
+  - en: document
+    ru: документ
+    pos: noun
+  - en: essay
+    ru: эссе
+    pos: noun
+  - en: diary
+    ru: дневник
+    pos: noun
+  - en: novel
+    ru: роман (книга)
+    pos: noun
+  - en: fiction
+    ru: художественная литература
+    pos: noun
+    uncountable: true
+  - en: author
+    ru: автор
+    pos: noun
+  - en: lecture
+    ru: лекция
+    pos: noun
+  - en: education
+    ru: образование
+    pos: noun
+    uncountable: true
+  - en: learning
+    ru: обучение (процесс)
+    pos: noun
+    uncountable: true
+  - en: teaching
+    ru: преподавание
+    pos: noun
+    uncountable: true
+  - en: training
+    ru: подготовка, тренировка
+    pos: noun
+    uncountable: true
+  - en: experiment
+    ru: эксперимент
+    pos: noun
+  - en: discovery
+    ru: открытие (находка)
+    pos: noun
+  - en: invention
+    ru: изобретение
+    pos: noun
+  - en: expert
+    ru: эксперт
+    pos: noun
+  - en: researcher
+    ru: исследователь
+    pos: noun
+  - en: chemistry
+    ru: химия
+    pos: noun
+    uncountable: true
+  - en: physics
+    ru: физика
+    pos: noun
+    uncountable: true
+  - en: biology
+    ru: биология
+    pos: noun
+    uncountable: true
+  - en: math
+    ru: математика (разговорно)
+    pos: noun
+    uncountable: true
+  - en: mathematics
+    ru: математика
+    pos: noun
+    uncountable: true
+  - en: lab
+    ru: лаборатория
+    pos: noun

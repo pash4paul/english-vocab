@@ -58,6 +58,7 @@ function sample() {
     }
   }
   p.days['2026-07-27'] = { newWords: 3, unlocked: 3, reviewed: 6, correct: 5 };
+  p.known['big:adj'] = '2026-07-27T10:00:00.000Z';
   p.settings.newWordsPerDay = 12;
   p.settings.strictAccents = true;
   p.lastStudied = iso;

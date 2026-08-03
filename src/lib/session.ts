@@ -156,7 +156,16 @@ function topicAllowed(word: Word, settings: Settings) {
   return settings.enabledTopics.length === 0 || settings.enabledTopics.includes(word.topic);
 }
 
-function allowed(word: Word, settings: Settings) {
+/**
+ * Слово участвует в занятии.
+ *
+ * «Уже знаю» отсекает слово целиком — и новые ступени, и накопившиеся
+ * повторения. Тому, кто половину словаря знает с работы, важнее закрыть
+ * пробелы, чем прогонять известное.
+ */
+function allowed(word: Word, progress: Progress) {
+  const { settings } = progress;
+  if (progress.known?.[word.id]) return false;
   return topicAllowed(word, settings) && levelAllowed(word, settings);
 }
 
@@ -178,14 +187,14 @@ export function buildSession(
   const { settings, cards } = progress;
   const today = progress.days[dayKey(now)] ?? emptyDay();
   const byId = new Map(deck.words.map((w) => [w.id, w]));
-  const words = deck.words.filter((w) => allowed(w, settings));
+  const words = deck.words.filter((w) => allowed(w, progress));
 
   // 1. Просроченные повторения.
   const nowMs = now.getTime();
   let due: QueueItem[] = [];
   for (const card of Object.values(cards)) {
     const word = byId.get(card.wordId);
-    if (!word || !allowed(word, settings)) continue;
+    if (!word || !allowed(word, progress)) continue;
     if (!settings.enabledKinds.includes(card.kind)) continue;
     if ((card.kind === 'listen' || card.kind === 'spell') && !ttsAvailable) continue;
     if (new Date(card.due).getTime() <= nowMs) {

@@ -1,0 +1,179 @@
+topic: Работа и деньги
+words:
+  - en: boss
+    ru: начальник
+    pos: noun
+  - en: colleague
+    ru: коллега
+    pos: noun
+    example: I discussed the plan with my colleagues.
+    exampleRu: Я обсудил план с коллегами.
+  - en: employee
+    ru: сотрудник
+    pos: noun
+  - en: employer
+    ru: работодатель
+    pos: noun
+  - en: employ
+    ru: нанимать
+    pos: verb
+  - en: manager
+    ru: руководитель
+    pos: noun
+  - en: manage
+    ru: управлять, справляться
+    pos: verb
+  - en: assistant
+    ru: помощник
+    pos: noun
+  - en: secretary
+    ru: секретарь
+    pos: noun
+  - en: clerk
+    ru: клерк
+    pos: noun
+  - en: professor
+    ru: профессор
+    pos: noun
+  - en: journalist
+    ru: журналист
+    pos: noun
+  - en: reporter
+    ru: репортёр
+    pos: noun
+  - en: engineer
+    ru: инженер
+    pos: noun
+  - en: architect
+    ru: архитектор
+    pos: noun
+  - en: designer
+    ru: дизайнер
+    pos: noun
+  - en: painter
+    ru: маляр, живописец
+    pos: noun
+  - en: businessman
+    ru: бизнесмен
+    pos: noun
+    irregular: true
+    forms:
+      plural: businessmen
+  - en: department
+    ru: отдел
+    pos: noun
+  - en: conference
+    ru: конференция
+    pos: noun
+  - en: organization
+    ru: организация
+    pos: noun
+  - en: industry
+    ru: отрасль
+    pos: noun
+  - en: factory
+    ru: завод
+    pos: noun
+  - en: salary
+    ru: зарплата
+    pos: noun
+  - en: sale
+    ru: продажа
+    pos: noun
+  - en: cash
+    ru: наличные
+    pos: noun
+    uncountable: true
+  - en: credit
+    ru: кредит
+    pos: noun
+  - en: benefit
+    ru: выгода, льгота
+    pos: noun
+  - en: earn
+    ru: зарабатывать
+    pos: verb
+  - en: save
+    ru: копить, сохранять
+    pos: verb
+  - en: borrow
+    ru: брать взаймы
+    pos: verb
+  - en: lend
+    ru: давать взаймы
+    pos: verb
+    irregular: true
+  - en: afford
+    ru: позволить себе по деньгам
+    pos: verb
+    level: B1
+  - en: opportunity
+    ru: возможность (шанс)
+    pos: noun
+  - en: task
+    ru: задача
+    pos: noun
+  - en: goal
+    ru: цель
+    pos: noun
+  - en: target
+    ru: ориентир, мишень
+    pos: noun
+  - en: progress
+    ru: продвижение
+    pos: noun
+    uncountable: true
+  - en: deal
+    ru: иметь дело, справляться
+    pos: verb
+    irregular: true
+  - en: offer
+    ru: предлагать
+    pos: verb
+  - en: request
+    ru: запрос
+    pos: noun
+  - en: promise
+    ru: обещать
+    pos: verb
+  - en: schedule
+    ru: расписание
+    pos: noun
+  - en: professional
+    ru: профессиональный
+    pos: adj
+    gradable: false
+  - en: succeed
+    ru: добиваться успеха
+    pos: verb
+  - en: successful
+    ru: успешный
+    pos: adj
+  - en: fail
+    ru: терпеть неудачу
+    pos: verb
+  - en: quality
+    ru: качество
+    pos: noun
+  - en: quantity
+    ru: количество
+    pos: noun
+  - en: percent
+    ru: процент
+    pos: noun
+  - en: rate
+    ru: ставка, темп
+    pos: noun
+  - en: average
+    ru: средний
+    pos: adj
+    gradable: false
+  - en: amount
+    ru: сумма, объём
+    pos: noun
+  - en: billion
+    ru: миллиард
+    pos: num
+  - en: zero
+    ru: ноль
+    pos: num

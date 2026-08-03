@@ -1,0 +1,132 @@
+topic: Тело и здоровье
+words:
+  - en: ankle
+    ru: лодыжка
+    pos: noun
+  - en: knee
+    ru: колено
+    pos: noun
+  - en: neck
+    ru: шея
+    pos: noun
+  - en: shoulder
+    ru: плечо
+    pos: noun
+  - en: finger
+    ru: палец руки
+    pos: noun
+  - en: stomach
+    ru: живот
+    pos: noun
+    irregular: true
+    forms:
+      plural: stomachs
+    note: '-ch здесь звучит как «к», поэтому не stomaches'
+  - en: skin
+    ru: кожа
+    pos: noun
+  - en: bone
+    ru: кость
+    pos: noun
+  - en: blood
+    ru: кровь
+    pos: noun
+    uncountable: true
+  - en: brain
+    ru: мозг
+    pos: noun
+  - en: heart
+    ru: сердце
+    pos: noun
+  - en: heat
+    ru: жар, тепло
+    pos: noun
+    uncountable: true
+  - en: headache
+    ru: головная боль
+    pos: noun
+  - en: fever
+    ru: высокая температура
+    pos: noun
+  - en: flu
+    ru: грипп
+    pos: noun
+    uncountable: true
+  - en: illness
+    ru: болезнь (состояние)
+    pos: noun
+  - en: ill
+    ru: нездоровый
+    pos: adj
+    gradable: false
+  - en: disease
+    ru: заболевание
+    pos: noun
+  - en: injury
+    ru: травма
+    pos: noun
+  - en: pain
+    ru: боль
+    pos: noun
+  - en: hurt
+    ru: причинять боль
+    pos: verb
+    irregular: true
+  - en: medicine
+    ru: лекарство
+    pos: noun
+  - en: medical
+    ru: медицинский
+    pos: adj
+    gradable: false
+  - en: dentist
+    ru: стоматолог
+    pos: noun
+  - en: patient
+    ru: пациент
+    pos: noun
+  - en: physical
+    ru: физический
+    pos: adj
+    gradable: false
+  - en: weight
+    ru: вес
+    pos: noun
+  - en: height
+    ru: рост, высота
+    pos: noun
+  - en: asleep
+    ru: спящий
+    pos: adj
+    gradable: false
+  - en: care
+    ru: забота
+    pos: noun
+    uncountable: true
+  - en: careful
+    ru: осторожный
+    pos: adj
+  - en: carefully
+    ru: осторожно
+    pos: adv
+  - en: safe
+    ru: безопасный
+    pos: adj
+  - en: danger
+    ru: опасность
+    pos: noun
+  - en: accident
+    ru: несчастный случай
+    pos: noun
+  - en: cry
+    ru: плакать
+    pos: verb
+    example: The baby cried all night.
+    exampleRu: Малыш плакал всю ночь.
+  - en: laughter
+    ru: смех
+    pos: noun
+    uncountable: true
+  - en: smile
+    ru: улыбаться
+    pos: verb

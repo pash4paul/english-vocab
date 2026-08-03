@@ -1,0 +1,414 @@
+topic: Действия и глаголы
+words:
+  - en: accept
+    ru: принимать (соглашаться)
+    pos: verb
+  - en: achieve
+    ru: достигать
+    pos: verb
+  - en: act
+    ru: действовать
+    pos: verb
+  - en: affect
+    ru: влиять
+    pos: verb
+  - en: allow
+    ru: разрешать
+    pos: verb
+    example: My parents allow me to stay out late.
+    exampleRu: Родители разрешают мне задерживаться допоздна.
+  - en: appear
+    ru: появляться
+    pos: verb
+  - en: apply
+    ru: подавать заявку, применять
+    pos: verb
+  - en: arrange
+    ru: организовывать
+    pos: verb
+  - en: attend
+    ru: посещать (мероприятие)
+    pos: verb
+  - en: avoid
+    ru: избегать
+    pos: verb
+  - en: beat
+    ru: побеждать, бить
+    pos: verb
+    irregular: true
+  - en: belong
+    ru: принадлежать
+    pos: verb
+  - en: blow
+    ru: дуть
+    pos: verb
+    irregular: true
+  - en: boil
+    ru: кипятить
+    pos: verb
+  - en: brush
+    ru: чистить щёткой
+    pos: verb
+  - en: burn
+    ru: гореть, жечь
+    pos: verb
+    irregular: true
+  - en: catch
+    ru: ловить
+    pos: verb
+    irregular: true
+  - en: celebrate
+    ru: праздновать
+    pos: verb
+  - en: collect
+    ru: собирать (коллекционировать)
+    pos: verb
+  - en: compete
+    ru: соревноваться
+    pos: verb
+  - en: connect
+    ru: соединять
+    pos: verb
+  - en: consider
+    ru: рассматривать, обдумывать
+    pos: verb
+  - en: contain
+    ru: содержать в себе
+    pos: verb
+  - en: continue
+    ru: продолжать
+    pos: verb
+  - en: control
+    ru: контролировать
+    pos: verb
+  - en: copy
+    ru: копировать
+    pos: verb
+  - en: count
+    ru: считать (числа)
+    pos: verb
+  - en: cover
+    ru: покрывать
+    pos: verb
+  - en: cross
+    ru: пересекать
+    pos: verb
+  - en: depend
+    ru: зависеть
+    pos: verb
+  - en: destroy
+    ru: разрушать
+    pos: verb
+  - en: develop
+    ru: развивать
+    pos: verb
+  - en: disagree
+    ru: не соглашаться
+    pos: verb
+  - en: disappear
+    ru: исчезать
+    pos: verb
+  - en: discover
+    ru: обнаруживать
+    pos: verb
+  - en: download
+    ru: скачивать
+    pos: verb
+  - en: drop
+    ru: ронять
+    pos: verb
+  - en: enter
+    ru: входить
+    pos: verb
+  - en: exist
+    ru: существовать
+    pos: verb
+  - en: expect
+    ru: ожидать
+    pos: verb
+    example: We expect the letter tomorrow.
+    exampleRu: Мы ждём письмо завтра.
+  - en: express
+    ru: выражать
+    pos: verb
+  - en: feed
+    ru: кормить
+    pos: verb
+    irregular: true
+  - en: fight
+    ru: драться, бороться
+    pos: verb
+    irregular: true
+  - en: fit
+    ru: подходить по размеру
+    pos: verb
+    irregular: true
+  - en: fix
+    ru: чинить
+    pos: verb
+  - en: focus
+    ru: сосредотачиваться
+    pos: verb
+  - en: greet
+    ru: приветствовать
+    pos: verb
+  - en: hide
+    ru: прятать
+    pos: verb
+    irregular: true
+  - en: hit
+    ru: ударять
+    pos: verb
+    irregular: true
+  - en: hold
+    ru: держать
+    pos: verb
+    irregular: true
+  - en: identify
+    ru: определять, опознавать
+    pos: verb
+  - en: increase
+    ru: увеличивать
+    pos: verb
+  - en: invent
+    ru: изобретать
+    pos: verb
+  - en: invite
+    ru: приглашать
+    pos: verb
+  - en: involve
+    ru: вовлекать
+    pos: verb
+  - en: jump
+    ru: прыгать
+    pos: verb
+  - en: kill
+    ru: убивать
+    pos: verb
+  - en: knock
+    ru: стучать
+    pos: verb
+  - en: lead
+    ru: вести, возглавлять
+    pos: verb
+    irregular: true
+  - en: lift
+    ru: поднимать
+    pos: verb
+  - en: lock
+    ru: запирать
+    pos: verb
+  - en: mark
+    ru: отмечать
+    pos: verb
+  - en: matter
+    ru: иметь значение
+    pos: verb
+  - en: mention
+    ru: упоминать
+    pos: verb
+  - en: notice
+    ru: замечать
+    pos: verb
+  - en: organize
+    ru: организовать
+    pos: verb
+  - en: pack
+    ru: упаковывать
+    pos: verb
+  - en: pass
+    ru: передавать, проходить
+    pos: verb
+  - en: perform
+    ru: выступать, выполнять
+    pos: verb
+  - en: pick
+    ru: выбирать, собирать
+    pos: verb
+  - en: predict
+    ru: предсказывать
+    pos: verb
+  - en: prevent
+    ru: предотвращать
+    pos: verb
+  - en: print
+    ru: печатать
+    pos: verb
+  - en: produce
+    ru: производить
+    pos: verb
+  - en: pronounce
+    ru: произносить
+    pos: verb
+  - en: protect
+    ru: защищать
+    pos: verb
+  - en: provide
+    ru: предоставлять
+    pos: verb
+  - en: publish
+    ru: публиковать
+    pos: verb
+  - en: pull
+    ru: тянуть
+    pos: verb
+  - en: push
+    ru: толкать
+    pos: verb
+  - en: raise
+    ru: поднимать, повышать
+    pos: verb
+  - en: reach
+    ru: достигать, дотягиваться
+    pos: verb
+  - en: react
+    ru: реагировать
+    pos: verb
+  - en: realize
+    ru: осознавать
+    pos: verb
+  - en: receive
+    ru: получать (принимать присланное)
+    pos: verb
+  - en: recognize
+    ru: узнавать (опознавать)
+    pos: verb
+  - en: recommend
+    ru: рекомендовать
+    pos: verb
+  - en: record
+    ru: записывать (на носитель)
+    pos: verb
+  - en: recycle
+    ru: перерабатывать
+    pos: verb
+  - en: reduce
+    ru: сокращать
+    pos: verb
+  - en: refer
+    ru: ссылаться
+    pos: verb
+  - en: refuse
+    ru: отказываться
+    pos: verb
+  - en: remove
+    ru: убирать, удалять
+    pos: verb
+  - en: repair
+    ru: ремонтировать
+    pos: verb
+  - en: replace
+    ru: заменять
+    pos: verb
+  - en: reply
+    ru: отвечать (в переписке)
+    pos: verb
+  - en: respond
+    ru: откликаться
+    pos: verb
+  - en: rise
+    ru: подниматься
+    pos: verb
+    irregular: true
+  - en: sail
+    ru: плыть под парусом
+    pos: verb
+  - en: score
+    ru: забивать, набирать очки
+    pos: verb
+  - en: search
+    ru: искать
+    pos: verb
+  - en: seem
+    ru: казаться
+    pos: verb
+  - en: serve
+    ru: обслуживать, подавать
+    pos: verb
+  - en: shake
+    ru: трясти
+    pos: verb
+    irregular: true
+  - en: shout
+    ru: кричать
+    pos: verb
+  - en: shut
+    ru: захлопывать
+    pos: verb
+    irregular: true
+  - en: ski
+    ru: кататься на лыжах
+    pos: verb
+  - en: smell
+    ru: пахнуть, нюхать
+    pos: verb
+    irregular: true
+  - en: smoke
+    ru: курить
+    pos: verb
+  - en: solve
+    ru: решать (задачу)
+    pos: verb
+  - en: suggest
+    ru: предлагать (идею)
+    pos: verb
+  - en: support
+    ru: поддерживать
+    pos: verb
+  - en: suppose
+    ru: полагать
+    pos: verb
+  - en: surprise
+    ru: удивлять
+    pos: verb
+  - en: throw
+    ru: бросать
+    pos: verb
+    irregular: true
+  - en: tie
+    ru: завязывать
+    pos: verb
+  - en: touch
+    ru: трогать
+    pos: verb
+  - en: worry
+    ru: беспокоиться
+    pos: verb
+    example: Don't worry about the exam.
+    exampleRu: Не переживай из-за экзамена.
+  - en: wish
+    ru: желать
+    pos: verb
+  - en: analyze
+    ru: анализировать
+    pos: verb
+  - en: advertise
+    ru: рекламировать
+    pos: verb
+  - en: argue
+    ru: спорить
+    pos: verb
+  - en: attack
+    ru: атаковать
+    pos: verb
+  - en: camp
+    ru: жить в палатке
+    pos: verb
+  - en: cause
+    ru: вызывать (быть причиной)
+    pos: verb
+  - en: chat
+    ru: болтать
+    pos: verb
+  - en: circle
+    ru: обводить в кружок
+    pos: verb
+  - en: communicate
+    ru: общаться
+    pos: verb
+  - en: complain
+    ru: жаловаться
+    pos: verb
+  - en: cycle
+    ru: ездить на велосипеде
+    pos: verb

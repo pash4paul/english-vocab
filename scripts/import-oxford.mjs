@@ -27,18 +27,30 @@ const DEFAULT_DIR = join(ROOT, '../dictionaries');
 /** Части речи, которые в PDF всегда с точкой: «n.», «adj.», «modal v.» */
 const DOTTED = ['modal v', 'auxiliary v', 'exclam', 'adj', 'adv', 'prep', 'conj', 'pron', 'det', 'n', 'v'];
 /** …и без точки. */
-const BARE = ['indefinite article', 'definite article', 'infinitive marker', 'number'];
+const BARE = ['indefinite article', 'definite article', 'infinitive marker', 'number', 'noun'];
 
 const esc = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 // Точка иногда отбита от метки пробелом («reproduce v . reproduction») — это кернинг,
 // а не новое слово. «number» — часть речи только если за ним не идёт своя метка:
 // «number n.» — это слово.
+const ABBR = DOTTED.map(esc).join('|');
 const ONE =
-  `(?:(?:${DOTTED.map(esc).join('|')})\\s?\\.` +
-  `|(?:in|)definite article|infinitive marker|number(?!\\s*(?:n|v|adj|adv)\\.))`;
+  `(?:(?:${ABBR})\\s?\\.` +
+  // «wish v, n.» — точка потерялась, но метка узнаётся по соседке через запятую.
+  `|(?:${ABBR})(?=\\s*,\\s*(?:${ABBR})\\s?\\.)` +
+  `|(?:in|)definite article|infinitive marker` +
+  // «number» и «noun» — части речи, только если следом не идёт своя метка:
+  // «number n.» и «noun n.» это слова.
+  `|(?:number|noun)(?!\\s*(?:n|v|adj|adv)\\s?\\.))`;
 const POS_RE = new RegExp(`(?<=[\\s)])${ONE}(?:\\s*[,/]\\s*${ONE})*`, 'g');
 const LEVEL_RE = /(?<![A-Za-z0-9])(A1|A2|B1|B2|C1)(?=[a-z\s]|$)/g;
 const LEVELS = ['A1', 'A2', 'B1', 'B2', 'C1'];
+
+/** Единственные головки списка, которые действительно состоят из двух слов. */
+const MULTIWORD = new Set([
+  'a, an', 'according to', 'all right', 'have to', 'ice cream', 'next to',
+  'no one', 'used to',
+]);
 
 /** Колонтитулы и вступительный текст — не слова. */
 const JUNK = /^(\(c\) Oxford|©|\d+ \/ \d+$|The Oxford \d+|by CEFR level|\(American English\)|, from A1|, it includes|3000$|words to learn)/;
@@ -95,7 +107,7 @@ function pdfLines(file) {
     if (!raw.includes('Tj') && !raw.includes('TJ')) continue;
 
     let cur = '';
-    let lastY = null;
+    let curY = null;
     const ops = /\[((?:[^[\]\\]|\\.)*)\]\s*TJ|\(((?:[^()\\]|\\.)*)\)\s*Tj|[-\d.]+\s+[-\d.]+\s+[-\d.]+\s+[-\d.]+\s+[-\d.]+\s+([-\d.]+)\s+Tm|[-\d.]+\s+([-\d.]+)\s+T[dD]|(T\*)/g;
     let op;
     while ((op = ops.exec(raw))) {
@@ -106,13 +118,18 @@ function pdfLines(file) {
         }
       } else if (str !== undefined) {
         cur += unescapePdf(str);
+      } else if (star) {
+        if (cur.trim()) lines.push(cur.trim());
+        cur = '';
       } else {
-        const y = star ? null : (tmY ?? `rel:${tdY}`);
-        if (star || y !== lastY) {
+        // Tm задаёт координату целиком, Td сдвигает от текущей. Считаем y сами:
+        // «sa» и «y» стоят на одной строке, просто заданы разными операторами.
+        const y = tmY !== undefined ? Number(tmY) : (curY ?? 0) + Number(tdY);
+        if (curY === null || Math.abs(y - curY) > 0.5) {
           if (cur.trim()) lines.push(cur.trim());
           cur = '';
         }
-        lastY = y;
+        curY = y;
       }
     }
     if (cur.trim()) lines.push(cur.trim());
@@ -153,8 +170,33 @@ function parse(file) {
         if (head) problems.push(`${basename(file)}: не разобрано «${head}»`);
         continue;
       }
+
       // Кернинг оставляет пробел перед точкой метки — «v .» это та же «v.».
-      const pos = m[0].trim().replace(/\s+\./g, '.').replace(/\s*,\s*/g, ', ');
+      // Метка «noun» иногда выписана словом, а «wish v, n.» теряет точку.
+      const pos = m[0].trim()
+        .replace(/\s+\./g, '.')
+        .replace(/\bnoun\b/g, 'n.')
+        .replace(/\b(adj|adv|prep|pron|conj|det|n|v)\b(?!\.)/g, '$1.')
+        .replace(/\s*,\s*/g, ', ');
+
+      // Пробел внутри головки — почти всегда дефект PDF, а не составное слово.
+      if (head.includes(' ') && !MULTIWORD.has(head.toLowerCase())) {
+        const parts = head.split(/\s+/);
+        const at = parts.findIndex((x) => /^(adj|adv|prep|pron|conj|det|n|v)$/.test(x));
+        if (at >= 0) {
+          // Метка части речи осталась без точки: слово слева забирает её себе,
+          // слово справа продолжает с текущей меткой.
+          const left = parts.slice(0, at).join(' ');
+          if (left) out.push({ word: left, pos: `${parts[at]}.`, level: mark[1], hint: '', idx: '' });
+          head = parts.slice(at + 1).join(' ');
+          if (!head) continue;
+        } else {
+          // Кернинг разорвал слово на середине: «s cope» — это scope.
+          const glued = parts.join('');
+          problems.push(`${basename(file)}: склеено «${head}» → «${glued}»`);
+          head = glued;
+        }
+      }
       // Единственная составная головка списка — «a, an indefinite article».
       for (const one of head.split(/,\s*/)) {
         out.push({ word: one, pos, level: mark[1], hint, idx });

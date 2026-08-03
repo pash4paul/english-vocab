@@ -1,0 +1,526 @@
+topic: Признаки и оценки
+words:
+  - en: academic
+    ru: академический
+    pos: adj
+    gradable: false
+  - en: advanced
+    ru: продвинутый
+    pos: adj
+    gradable: false
+  - en: amazed
+    ru: изумлённый
+    pos: adj
+    gradable: false
+  - en: annoyed
+    ru: раздражённый
+    pos: adj
+    gradable: false
+  - en: annoying
+    ru: раздражающий
+    pos: adj
+  - en: automatic
+    ru: автоматический
+    pos: adj
+    gradable: false
+  - en: aware
+    ru: осведомлённый
+    pos: adj
+    gradable: false
+  - en: basic
+    ru: базовый
+    pos: adj
+    gradable: false
+  - en: brave
+    ru: храбрый
+    pos: adj
+  - en: calm
+    ru: спокойный
+    pos: adj
+  - en: careless
+    ru: небрежный
+    pos: adj
+  - en: central
+    ru: центральный
+    pos: adj
+    gradable: false
+  - en: cheerful
+    ru: жизнерадостный
+    pos: adj
+  - en: clever
+    ru: смышлёный
+    pos: adj
+  - en: colored
+    ru: цветной
+    pos: adj
+    gradable: false
+  - en: commercial
+    ru: коммерческий
+    pos: adj
+    gradable: false
+  - en: competitive
+    ru: конкурентный
+    pos: adj
+  - en: complex
+    ru: сложный (составной)
+    pos: adj
+    gradable: false
+  - en: confident
+    ru: уверенный в себе
+    pos: adj
+  - en: confused
+    ru: сбитый с толку
+    pos: adj
+    gradable: false
+  - en: continuous
+    ru: непрерывный
+    pos: adj
+    gradable: false
+  - en: convenient
+    ru: удобный (по обстоятельствам)
+    pos: adj
+  - en: covered
+    ru: покрытый
+    pos: adj
+    gradable: false
+  - en: cruel
+    ru: жестокий
+    pos: adj
+  - en: cultural
+    ru: культурный (о культуре)
+    pos: adj
+    gradable: false
+  - en: current
+    ru: текущий
+    pos: adj
+    gradable: false
+  - en: definite
+    ru: определённый (чёткий)
+    pos: adj
+    gradable: false
+  - en: determined
+    ru: решительный
+    pos: adj
+    gradable: false
+  - en: disappointed
+    ru: разочарованный
+    pos: adj
+    gradable: false
+  - en: disappointing
+    ru: разочаровывающий
+    pos: adj
+  - en: dressed
+    ru: одетый
+    pos: adj
+    gradable: false
+  - en: drunk
+    ru: пьяный
+    pos: adj
+    gradable: false
+  - en: due
+    ru: ожидаемый в срок
+    pos: adj
+    gradable: false
+  - en: eastern
+    ru: восточный
+    pos: adj
+    gradable: false
+  - en: western
+    ru: западный
+    pos: adj
+    gradable: false
+  - en: northern
+    ru: северный
+    pos: adj
+    gradable: false
+  - en: southern
+    ru: южный
+    pos: adj
+    gradable: false
+  - en: educated
+    ru: образованный
+    pos: adj
+    gradable: false
+  - en: educational
+    ru: учебный
+    pos: adj
+    gradable: false
+  - en: effective
+    ru: действенный
+    pos: adj
+  - en: embarrassed
+    ru: смущённый
+    pos: adj
+    gradable: false
+  - en: embarrassing
+    ru: неловкий (о ситуации)
+    pos: adj
+  - en: engaged
+    ru: помолвленный, занятый
+    pos: adj
+    gradable: false
+  - en: environmental
+    ru: экологический
+    pos: adj
+    gradable: false
+  - en: equal
+    ru: равный
+    pos: adj
+    gradable: false
+  - en: essential
+    ru: необходимый (важнейший)
+    pos: adj
+    gradable: false
+  - en: expected
+    ru: ожидаемый
+    pos: adj
+    gradable: false
+  - en: experienced
+    ru: опытный
+    pos: adj
+  - en: familiar
+    ru: знакомый
+    pos: adj
+  - en: fancy
+    ru: причудливый, дорогой
+    pos: adj
+  - en: fascinating
+    ru: захватывающе интересный
+    pos: adj
+    gradable: false
+  - en: fashionable
+    ru: модный
+    pos: adj
+  - en: federal
+    ru: федеральный
+    pos: adj
+    gradable: false
+  - en: fixed
+    ru: фиксированный
+    pos: adj
+    gradable: false
+  - en: frightened
+    ru: напуганный
+    pos: adj
+    gradable: false
+  - en: frightening
+    ru: страшный
+    pos: adj
+  - en: frozen
+    ru: замороженный
+    pos: adj
+    gradable: false
+  - en: generous
+    ru: щедрый
+    pos: adj
+  - en: gentle
+    ru: мягкий (по обращению)
+    pos: adj
+  - en: giant
+    ru: гигантский
+    pos: adj
+    gradable: false
+  - en: glad
+    ru: рад
+    pos: adj
+    gradable: false
+  - en: global
+    ru: глобальный
+    pos: adj
+    gradable: false
+  - en: grateful
+    ru: благодарный
+    pos: adj
+  - en: historic
+    ru: исторически важный
+    pos: adj
+    gradable: false
+  - en: historical
+    ru: относящийся к истории
+    pos: adj
+    gradable: false
+  - en: honest
+    ru: честный
+    pos: adj
+  - en: horrible
+    ru: жуткий
+    pos: adj
+    gradable: false
+  - en: imaginary
+    ru: воображаемый
+    pos: adj
+    gradable: false
+  - en: immediate
+    ru: незамедлительный
+    pos: adj
+    gradable: false
+  - en: impressive
+    ru: впечатляющий
+    pos: adj
+  - en: indirect
+    ru: косвенный
+    pos: adj
+    gradable: false
+  - en: indoor
+    ru: находящийся в помещении
+    pos: adj
+    gradable: false
+  - en: outdoor
+    ru: находящийся на улице
+    pos: adj
+    gradable: false
+  - en: injured
+    ru: травмированный
+    pos: adj
+    gradable: false
+  - en: involved
+    ru: вовлечённый
+    pos: adj
+    gradable: false
+  - en: latest
+    ru: самый свежий
+    pos: adj
+    gradable: false
+  - en: living
+    ru: живой (о существе)
+    pos: adj
+    gradable: false
+  - en: located
+    ru: расположенный
+    pos: adj
+    gradable: false
+  - en: lonely
+    ru: одинокий
+    pos: adj
+  - en: mad
+    ru: злой, безумный
+    pos: adj
+  - en: mental
+    ru: психический
+    pos: adj
+    gradable: false
+  - en: mild
+    ru: мягкий (о погоде, вкусе)
+    pos: adj
+  - en: neat
+    ru: аккуратный
+    pos: adj
+  - en: nuclear
+    ru: ядерный
+    pos: adj
+    gradable: false
+  - en: obvious
+    ru: очевидный
+    pos: adj
+    gradable: false
+  - en: odd
+    ru: странный (нечётный)
+    pos: adj
+  - en: official
+    ru: официальный (от лица власти)
+    pos: adj
+    gradable: false
+  - en: old-fashioned
+    ru: старомодный
+    pos: adj
+    gradable: false
+  - en: organized
+    ru: организованный
+    pos: adj
+  - en: painful
+    ru: болезненный
+    pos: adj
+  - en: pale
+    ru: бледный
+    pos: adj
+  - en: peaceful
+    ru: мирный
+    pos: adj
+  - en: pleasant
+    ru: приятный (о впечатлении)
+    pos: adj
+  - en: unpleasant
+    ru: неприятный
+    pos: adj
+  - en: powerful
+    ru: мощный
+    pos: adj
+  - en: practical
+    ru: практичный
+    pos: adj
+  - en: prepared
+    ru: подготовленный
+    pos: adj
+    gradable: false
+  - en: previous
+    ru: предыдущий
+    pos: adj
+    gradable: false
+  - en: primary
+    ru: первичный, начальный
+    pos: adj
+    gradable: false
+  - en: principal
+    ru: главный (важнейший)
+    pos: adj
+    gradable: false
+  - en: private
+    ru: частный
+    pos: adj
+    gradable: false
+  - en: proper
+    ru: подобающий
+    pos: adj
+    gradable: false
+  - en: proud
+    ru: гордый
+    pos: adj
+  - en: rare
+    ru: редкий
+    pos: adj
+  - en: related
+    ru: связанный (родственный)
+    pos: adj
+    gradable: false
+  - en: relative
+    ru: относительный
+    pos: adj
+    gradable: false
+  - en: relaxed
+    ru: расслабленный
+    pos: adj
+  - en: relaxing
+    ru: расслабляющий
+    pos: adj
+  - en: reliable
+    ru: надёжный
+    pos: adj
+  - en: remote
+    ru: удалённый
+    pos: adj
+  - en: repeated
+    ru: повторяющийся
+    pos: adj
+    gradable: false
+  - en: retired
+    ru: на пенсии
+    pos: adj
+    gradable: false
+  - en: romantic
+    ru: романтический
+    pos: adj
+  - en: rough
+    ru: шероховатый, грубый
+    pos: adj
+  - en: scientific
+    ru: научный
+    pos: adj
+    gradable: false
+  - en: secondary
+    ru: вторичный, средний (о школе)
+    pos: adj
+    gradable: false
+  - en: sensible
+    ru: здравомыслящий
+    pos: adj
+  - en: sexual
+    ru: половой
+    pos: adj
+    gradable: false
+  - en: sharp
+    ru: острый
+    pos: adj
+  - en: shiny
+    ru: блестящий (о поверхности)
+    pos: adj
+  - en: shy
+    ru: застенчивый
+    pos: adj
+    gradable: false
+  - en: silent
+    ru: безмолвный
+    pos: adj
+    gradable: false
+  - en: silly
+    ru: глупенький
+    pos: adj
+  - en: smooth
+    ru: гладкий
+    pos: adj
+  - en: solid
+    ru: твёрдый, прочный
+    pos: adj
+  - en: spicy
+    ru: острый (о еде)
+    pos: adj
+  - en: spoken
+    ru: устный
+    pos: adj
+    gradable: false
+  - en: written
+    ru: письменный
+    pos: adj
+    gradable: false
+  - en: sudden
+    ru: внезапный
+    pos: adj
+    gradable: false
+  - en: suitable
+    ru: подходящий
+    pos: adj
+  - en: talented
+    ru: талантливый
+    pos: adj
+  - en: tight
+    ru: тесный, тугой
+    pos: adj
+  - en: tiny
+    ru: крошечный
+    pos: adj
+    gradable: false
+  - en: total
+    ru: общий (итоговый)
+    pos: adj
+    gradable: false
+  - en: ugly
+    ru: уродливый
+    pos: adj
+  - en: unable
+    ru: неспособный
+    pos: adj
+    gradable: false
+  - en: uncomfortable
+    ru: неудобный
+    pos: adj
+  - en: unfair
+    ru: несправедливый
+    pos: adj
+  - en: unlikely
+    ru: маловероятный
+    pos: adj
+  - en: unnecessary
+    ru: излишний
+    pos: adj
+    gradable: false
+  - en: upset
+    ru: расстроенный
+    pos: adj
+    gradable: false
+  - en: valuable
+    ru: ценный
+    pos: adj
+  - en: various
+    ru: различные
+    pos: adj
+    gradable: false
+  - en: violent
+    ru: жестокий (с насилием)
+    pos: adj
+  - en: worth
+    ru: стоящий (чего-то)
+    pos: adj
+    gradable: false
+  - en: used
+    ru: подержанный
+    pos: adj
+    gradable: false

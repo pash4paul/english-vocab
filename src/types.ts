@@ -151,6 +151,13 @@ export interface Progress {
   cards: Record<string, StoredCard>;
   reviews: ReviewEntry[];
   days: Record<string, DayStats>;
+  /**
+   * Слова, помеченные «уже знаю»: id → когда отмечено.
+   *
+   * Они не попадают ни в новые, ни в повторения, но карточки и их расписание
+   * сохраняются: если вернуть слово в учёбу, прогресс по нему найдётся на месте.
+   */
+  known: Record<string, string>;
   settings: Settings;
   /** ISO-дата последней сессии — для стрика */
   lastStudied?: string;

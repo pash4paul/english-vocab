@@ -1,0 +1,378 @@
+topic: Признаки и оценки
+words:
+  - en: able
+    ru: способный что-то сделать
+    pos: adj
+    gradable: false
+  - en: active
+    ru: активный
+    pos: adj
+  - en: ancient
+    ru: древний
+    pos: adj
+    gradable: false
+  - en: attractive
+    ru: привлекательный
+    pos: adj
+  - en: available
+    ru: доступный, свободный
+    pos: adj
+    gradable: false
+  - en: awful
+    ru: отвратительный
+    pos: adj
+    gradable: false
+  - en: based
+    ru: основанный на чём-то
+    pos: adj
+    gradable: false
+  - en: blank
+    ru: пустой (незаполненный)
+    pos: adj
+    gradable: false
+  - en: bright
+    ru: яркий
+    pos: adj
+  - en: brilliant
+    ru: блестящий (отличный)
+    pos: adj
+    gradable: false
+  - en: broken
+    ru: сломанный
+    pos: adj
+    gradable: false
+  - en: certain
+    ru: определённый, уверенный
+    pos: adj
+    gradable: false
+  - en: clear
+    ru: ясный, понятный
+    pos: adj
+  - en: closed
+    ru: закрытый
+    pos: adj
+    gradable: false
+  - en: comfortable
+    ru: удобный
+    pos: adj
+  - en: connected
+    ru: связанный
+    pos: adj
+    gradable: false
+  - en: crazy
+    ru: сумасшедший
+    pos: adj
+  - en: creative
+    ru: творческий
+    pos: adj
+  - en: crowded
+    ru: переполненный людьми
+    pos: adj
+  - en: curly
+    ru: кудрявый
+    pos: adj
+  - en: daily
+    ru: ежедневный
+    pos: adj
+    gradable: false
+  - en: deep
+    ru: глубокий
+    pos: adj
+  - en: digital
+    ru: цифровой
+    pos: adj
+    gradable: false
+  - en: direct
+    ru: прямой (без пересадок)
+    pos: adj
+    gradable: false
+  - en: double
+    ru: двойной
+    pos: adj
+    gradable: false
+  - en: dry
+    ru: сухой
+    pos: adj
+  - en: electric
+    ru: электрический (о приборе)
+    pos: adj
+    gradable: false
+  - en: electrical
+    ru: электротехнический
+    pos: adj
+    gradable: false
+  - en: electronic
+    ru: электронный
+    pos: adj
+    gradable: false
+  - en: empty
+    ru: пустой (без содержимого)
+    pos: adj
+  - en: enormous
+    ru: громадный
+    pos: adj
+    gradable: false
+  - en: everyday
+    ru: повседневный
+    pos: adj
+    gradable: false
+  - en: exact
+    ru: точный
+    pos: adj
+    gradable: false
+  - en: excellent
+    ru: превосходный
+    pos: adj
+    gradable: false
+  - en: extreme
+    ru: крайний
+    pos: adj
+    gradable: false
+  - en: fair
+    ru: справедливый
+    pos: adj
+  - en: flat
+    ru: плоский
+    pos: adj
+  - en: flying
+    ru: летающий
+    pos: adj
+    gradable: false
+  - en: following
+    ru: следующий (перечисленный ниже)
+    pos: adj
+    gradable: false
+  - en: formal
+    ru: официальный
+    pos: adj
+  - en: fresh
+    ru: свежий
+    pos: adj
+  - en: further
+    ru: дальнейший
+    pos: adj
+    gradable: false
+  - en: general
+    ru: общий
+    pos: adj
+    gradable: false
+  - en: heavy
+    ru: тяжёлый (по весу)
+    pos: adj
+  - en: helpful
+    ru: полезный (о человеке, совете)
+    pos: adj
+  - en: huge
+    ru: огромный
+    pos: adj
+    gradable: false
+  - en: ideal
+    ru: идеальный (наилучший)
+    pos: adj
+    gradable: false
+  - en: impossible
+    ru: невозможный
+    pos: adj
+    gradable: false
+  - en: included
+    ru: включённый в стоимость
+    pos: adj
+    gradable: false
+  - en: incredible
+    ru: невероятный
+    pos: adj
+    gradable: false
+  - en: independent
+    ru: независимый
+    pos: adj
+  - en: informal
+    ru: неофициальный
+    pos: adj
+  - en: intelligent
+    ru: сообразительный
+    pos: adj
+  - en: lazy
+    ru: ленивый
+    pos: adj
+  - en: likely
+    ru: вероятный
+    pos: adj
+  - en: lost
+    ru: потерянный
+    pos: adj
+    gradable: false
+  - en: loud
+    ru: громкий
+    pos: adj
+  - en: low
+    ru: низкий
+    pos: adj
+  - en: lucky
+    ru: удачливый
+    pos: adj
+  - en: major
+    ru: крупный, основной
+    pos: adj
+    gradable: false
+  - en: missing
+    ru: недостающий
+    pos: adj
+    gradable: false
+  - en: narrow
+    ru: узкий
+    pos: adj
+  - en: necessary
+    ru: необходимый
+    pos: adj
+    gradable: false
+  - en: nervous
+    ru: нервничающий
+    pos: adj
+  - en: noisy
+    ru: шумный
+    pos: adj
+  - en: normal
+    ru: обычный (в норме)
+    pos: adj
+    gradable: false
+  - en: ordinary
+    ru: заурядный
+    pos: adj
+    gradable: false
+  - en: original
+    ru: первоначальный, оригинальный
+    pos: adj
+    gradable: false
+  - en: particular
+    ru: конкретный
+    pos: adj
+    gradable: false
+  - en: pleased
+    ru: довольный
+    pos: adj
+    gradable: false
+  - en: polite
+    ru: вежливый
+    pos: adj
+  - en: recent
+    ru: недавний
+    pos: adj
+    gradable: false
+  - en: regular
+    ru: регулярный
+    pos: adj
+    gradable: false
+  - en: round
+    ru: круглый
+    pos: adj
+    gradable: false
+  - en: rude
+    ru: грубый
+    pos: adj
+  - en: scared
+    ru: испуганный
+    pos: adj
+    gradable: false
+  - en: scary
+    ru: пугающий
+    pos: adj
+  - en: separate
+    ru: отдельный
+    pos: adj
+    gradable: false
+  - en: serious
+    ru: серьёзный
+    pos: adj
+  - en: simple
+    ru: простой
+    pos: adj
+  - en: single
+    ru: единственный, одиночный
+    pos: adj
+    gradable: false
+  - en: soft
+    ru: мягкий
+    pos: adj
+  - en: specific
+    ru: определённый (тот самый)
+    pos: adj
+    gradable: false
+  - en: square
+    ru: квадратный
+    pos: adj
+    gradable: false
+  - en: straight
+    ru: прямой (без изгибов)
+    pos: adj
+  - en: strange
+    ru: странный
+    pos: adj
+  - en: stupid
+    ru: глупый
+    pos: adj
+  - en: surprising
+    ru: удивительный
+    pos: adj
+    gradable: false
+  - en: sweet
+    ru: сладкий
+    pos: adj
+  - en: thick
+    ru: толстый (о предмете)
+    pos: adj
+  - en: thin
+    ru: тонкий, худой
+    pos: adj
+  - en: typical
+    ru: типичный
+    pos: adj
+    gradable: false
+  - en: underground
+    ru: подземный
+    pos: adj
+    gradable: false
+  - en: unhappy
+    ru: несчастливый
+    pos: adj
+  - en: unusual
+    ru: необычный
+    pos: adj
+    gradable: false
+  - en: usual
+    ru: привычный
+    pos: adj
+    gradable: false
+  - en: weak
+    ru: слабый
+    pos: adj
+  - en: wet
+    ru: мокрый
+    pos: adj
+  - en: whole
+    ru: целый
+    pos: adj
+    gradable: false
+  - en: wide
+    ru: широкий
+    pos: adj
+  - en: wild
+    ru: дикий
+    pos: adj
+  - en: working
+    ru: рабочий (действующий)
+    pos: adj
+    gradable: false
+  - en: worried
+    ru: встревоженный
+    pos: adj
+    gradable: false
+  - en: worse
+    ru: хуже
+    pos: adj
+    gradable: false
+    note: Сравнительная степень от bad
+  - en: worst
+    ru: худший
+    pos: adj
+    gradable: false
+    note: Превосходная степень от bad

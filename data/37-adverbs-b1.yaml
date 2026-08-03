@@ -1,0 +1,257 @@
+topic: Наречия и связки
+words:
+  - en: absolutely
+    ru: абсолютно
+    pos: adv
+  - en: ahead
+    ru: впереди
+    pos: adv
+  - en: apart
+    ru: врозь
+    pos: adv
+  - en: approximately
+    ru: приблизительно
+    pos: adv
+  - en: automatically
+    ru: автоматически
+    pos: adv
+  - en: backward
+    ru: назад (в обратном направлении)
+    pos: adv
+  - en: currently
+    ru: в настоящее время
+    pos: adv
+  - en: despite
+    ru: несмотря на
+    pos: prep
+  - en: directly
+    ru: напрямую
+    pos: adv
+  - en: effectively
+    ru: результативно
+    pos: adv
+  - en: equally
+    ru: в равной мере
+    pos: adv
+  - en: eventually
+    ru: в конце концов
+    pos: adv
+    example: Eventually they agreed to help us.
+    exampleRu: В конце концов они согласились нам помочь.
+  - en: fairly
+    ru: довольно-таки
+    pos: adv
+  - en: forever
+    ru: навсегда
+    pos: adv
+  - en: frequently
+    ru: часто (регулярно)
+    pos: adv
+  - en: generally
+    ru: в целом
+    pos: adv
+  - en: hardly
+    ru: едва
+    pos: adv
+    note: 'Не путать с hard: hardly значит «почти не»'
+  - en: heavily
+    ru: сильно (интенсивно)
+    pos: adv
+  - en: highly
+    ru: весьма
+    pos: adv
+  - en: incredibly
+    ru: невероятно
+    pos: adv
+  - en: indeed
+    ru: действительно (усиление)
+    pos: adv
+  - en: indoors
+    ru: в помещении
+    pos: adv
+  - en: outdoors
+    ru: на улице
+    pos: adv
+  - en: mainly
+    ru: главным образом
+    pos: adv
+  - en: meanwhile
+    ru: тем временем
+    pos: adv
+  - en: naturally
+    ru: естественно
+    pos: adv
+  - en: necessarily
+    ru: обязательно (непременно)
+    pos: adv
+  - en: obviously
+    ru: очевидно
+    pos: adv
+  - en: originally
+    ru: изначально
+    pos: adv
+  - en: particularly
+    ru: в особенности
+    pos: adv
+  - en: perfectly
+    ru: безупречно
+    pos: adv
+  - en: personally
+    ru: лично
+    pos: adv
+  - en: possibly
+    ru: возможно (не исключено)
+    pos: adv
+  - en: previously
+    ru: ранее
+    pos: adv
+  - en: properly
+    ru: как следует
+    pos: adv
+  - en: rarely
+    ru: редко
+    pos: adv
+  - en: regularly
+    ru: регулярно
+    pos: adv
+  - en: seriously
+    ru: серьёзно
+    pos: adv
+  - en: similarly
+    ru: аналогично
+    pos: adv
+  - en: simply
+    ru: просто (всего лишь)
+    pos: adv
+  - en: slightly
+    ru: слегка
+    pos: adv
+  - en: specifically
+    ru: конкретно
+    pos: adv
+  - en: strongly
+    ru: решительно, сильно
+    pos: adv
+  - en: successfully
+    ru: успешно
+    pos: adv
+  - en: surely
+    ru: наверняка
+    pos: adv
+  - en: totally
+    ru: совершенно
+    pos: adv
+  - en: typically
+    ru: как правило
+    pos: adv
+  - en: therefore
+    ru: следовательно
+    pos: adv
+  - en: though
+    ru: хотя (в конце фразы — «всё же»)
+    pos: conj
+  - en: throughout
+    ru: на всём протяжении
+    pos: prep
+  - en: till
+    ru: до (какого-то момента)
+    pos: prep
+  - en: unless
+    ru: если не
+    pos: conj
+  - en: unlike
+    ru: в отличие от
+    pos: prep
+  - en: upon
+    ru: на (книжное)
+    pos: prep
+  - en: within
+    ru: в пределах
+    pos: prep
+  - en: whatever
+    ru: что бы ни
+    pos: pron
+  - en: whenever
+    ru: когда бы ни
+    pos: adv
+  - en: whether
+    ru: ли (в косвенном вопросе)
+    pos: conj
+  - en: nor
+    ru: и не (после neither)
+    pos: conj
+  - en: plus
+    ru: плюс
+    pos: prep
+  - en: ought
+    ru: следует (по долгу)
+    pos: modal
+    note: Всегда с to — ought to go
+  - en: ours
+    ru: наш (без существительного)
+    pos: pron
+  - en: theirs
+    ru: их (без существительного)
+    pos: pron
+  - en: plenty
+    ru: много (в достатке)
+    pos: pron
+  - en: worldwide
+    ru: по всему миру
+    pos: adv
+  - en: announcement
+    ru: объявление (заявление)
+    pos: noun
+  - en: attraction
+    ru: достопримечательность
+    pos: noun
+  - en: channel
+    ru: канал
+    pos: noun
+  - en: chapter
+    ru: глава (книги)
+    pos: noun
+  - en: clause
+    ru: пункт, придаточное предложение
+    pos: noun
+  - en: communication
+    ru: коммуникация
+    pos: noun
+    uncountable: true
+  - en: explosion
+    ru: взрыв
+    pos: noun
+  - en: favor
+    ru: услуга, одолжение
+    pos: noun
+  - en: flow
+    ru: поток
+    pos: noun
+  - en: folk
+    ru: народный стиль
+    pos: noun
+    uncountable: true
+  - en: grade
+    ru: оценка, класс
+    pos: noun
+  - en: highlight
+    ru: самое яркое место
+    pos: noun
+  - en: prayer
+    ru: молитва
+    pos: noun
+  - en: sex
+    ru: пол (мужской, женский)
+    pos: noun
+  - en: similarity
+    ru: сходство
+    pos: noun
+  - en: translation
+    ru: перевод (текст)
+    pos: noun
+  - en: viewer
+    ru: зритель
+    pos: noun
+  - en: warning
+    ru: предупреждение
+    pos: noun
